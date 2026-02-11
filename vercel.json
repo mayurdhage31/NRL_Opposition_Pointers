@@ -1,0 +1,12 @@
+{
+  "buildCommand": "cd nrl-scout-app && npm install && npm run build",
+  "outputDirectory": "nrl-scout-app/dist",
+  "framework": null,
+  "installCommand": "echo 'Skipping default install'",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
