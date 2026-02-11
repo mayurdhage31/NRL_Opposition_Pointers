@@ -1,0 +1,307 @@
+,team_name,player_name,position,position_group
+1,Parramatta Eels,Isaiah Iongi,Fullback,Backs
+2,Parramatta Eels,Bailey Simonsson,Winger,Backs
+3,Parramatta Eels,Will Penisini,Centre,Backs
+4,Parramatta Eels,Sean Russell,Centre,Backs
+5,Parramatta Eels,Josh Addo-Carr,Winger,Backs
+6,Parramatta Eels,Dylan Brown,Five-Eighth,Backs
+7,Parramatta Eels,Mitchell Moses,Halfback,Backs
+8,Parramatta Eels,Jack Williams,Prop,Forwards
+9,Parramatta Eels,Ryley Smith,Hooker,Forwards
+10,Parramatta Eels,Junior Paulo,Prop,Forwards
+11,Parramatta Eels,Charlie Guymer,2nd Row,Forwards
+12,Parramatta Eels,Kitione Kautoga,2nd Row,Forwards
+13,Parramatta Eels,J'maine Hopgood,Lock,Forwards
+14,Parramatta Eels,Dylan Walker,Interchange,Interchange
+15,Parramatta Eels,Luca Moretti,Interchange,Interchange
+16,Parramatta Eels,Jordan Samrani,Interchange,Interchange
+17,Parramatta Eels,Matt Doorey,Interchange,Interchange
+18,Parramatta Eels,Joash Papalii,Replacement,Reserves
+19,Dolphins,Hamiso Tabuai-Fidow,Fullback,Backs
+20,Dolphins,Jamayne Isaako,Winger,Backs
+21,Dolphins,Jake Averillo,Centre,Backs
+22,Dolphins,Herbie Farnworth,Centre,Backs
+23,Dolphins,Jack Bostock,Winger,Backs
+24,Dolphins,Kodi Nikorima,Five-Eighth,Backs
+25,Dolphins,Isaiya Katoa,Halfback,Backs
+26,Dolphins,Francis Molo,Prop,Forwards
+27,Dolphins,Kurt Donoghoe,Hooker,Forwards
+28,Dolphins,Felise Kaufusi,Prop,Forwards
+29,Dolphins,Kulikefu Finefeuiaki,2nd Row,Forwards
+30,Dolphins,Connelly Lemuelu,Interchange,Interchange
+31,Dolphins,Tom Gilbert,Lock,Forwards
+32,Dolphins,Ray Stone,2nd Row,Forwards
+33,Dolphins,Mark Nicholls,Interchange,Interchange
+34,Dolphins,Josh Kerr,Interchange,Interchange
+35,Dolphins,Sean O'Sullivan,Replacement,Reserves
+36,Dolphins,Harrison Graham,Interchange,Interchange
+37,Newcastle Knights,Kalyn Ponga,Fullback,Backs
+38,Newcastle Knights,James Schiller,Winger,Backs
+39,Newcastle Knights,Dane Gagai,Centre,Backs
+40,Newcastle Knights,Bradman Best,Centre,Backs
+41,Newcastle Knights,Greg Marzhew,Winger,Backs
+42,Newcastle Knights,Fletcher Sharpe,Five-Eighth,Backs
+43,Newcastle Knights,Jack Cogger,Halfback,Backs
+44,Newcastle Knights,Jacob Saifiti,Prop,Forwards
+45,Newcastle Knights,Phoenix Crossland,Hooker,Forwards
+46,Newcastle Knights,Leo Thompson,Prop,Forwards
+47,Newcastle Knights,Dylan Lucas,2nd Row,Forwards
+48,Newcastle Knights,Kai Pearce-Paul,2nd Row,Forwards
+49,Newcastle Knights,Tyson Frizell,Lock,Forwards
+50,Newcastle Knights,Jayden Brailey,Interchange,Interchange
+51,Newcastle Knights,Matt Croker,Interchange,Interchange
+52,Newcastle Knights,Adam Elliott,Interchange,Interchange
+53,Newcastle Knights,Brodie Jones,Interchange,Interchange
+54,Newcastle Knights,Thomas Cant,Replacement,Reserves
+55,Gold Coast Titans,Jaylan De Groot,Fullback,Backs
+56,Gold Coast Titans,Alofiana Khan-Pereira,Winger,Backs
+57,Gold Coast Titans,Brian Kelly,Centre,Backs
+58,Gold Coast Titans,Phillip Sami,Centre,Backs
+59,Gold Coast Titans,Sosefo Fifita,Winger,Backs
+60,Gold Coast Titans,Alexander Brimson,Five-Eighth,Backs
+61,Gold Coast Titans,Jayden Campbell,Halfback,Backs
+62,Gold Coast Titans,Moeaki Fotuaika,Prop,Forwards
+63,Gold Coast Titans,Sam Verrills,Hooker,Forwards
+64,Gold Coast Titans,Reagan Campbell-Gillard,Prop,Forwards
+65,Gold Coast Titans,Klese Haas,2nd Row,Forwards
+66,Gold Coast Titans,Beau Fermor,2nd Row,Forwards
+67,Gold Coast Titans,Tino Faasuamaleaui,Lock,Forwards
+68,Gold Coast Titans,Chris Randall,Interchange,Interchange
+69,Gold Coast Titans,Iszac Fa'asuamaleaui,Interchange,Interchange
+70,Gold Coast Titans,Arama Hau,Interchange,Interchange
+71,Gold Coast Titans,Josiah Pahulu,Interchange,Interchange
+72,Gold Coast Titans,Jacob Alick,Replacement,Reserves
+73,South Sydney Rabbitohs,Latrell Mitchell,Fullback,Backs
+74,South Sydney Rabbitohs,Bayleigh Bentley-Hape,Winger,Backs
+75,South Sydney Rabbitohs,Isaiah Tass,Centre,Backs
+76,South Sydney Rabbitohs,Campbell Graham,Centre,Backs
+77,South Sydney Rabbitohs,Fletcher Myers,Winger,Backs
+78,South Sydney Rabbitohs,Jayden Sullivan,Five-Eighth,Backs
+79,South Sydney Rabbitohs,Jamie Humphreys,Halfback,Backs
+80,South Sydney Rabbitohs,Jai Arrow,Prop,Forwards
+81,South Sydney Rabbitohs,Siliva Havili,Hooker,Forwards
+82,South Sydney Rabbitohs,Keaon Koloamatangi,Prop,Forwards
+83,South Sydney Rabbitohs,Euan Aitken,2nd Row,Forwards
+84,South Sydney Rabbitohs,Tallis Duncan,2nd Row,Forwards
+85,South Sydney Rabbitohs,Lachlan Hubner,Lock,Forwards
+86,South Sydney Rabbitohs,Jye Gray,Interchange,Interchange
+87,South Sydney Rabbitohs,Sean Keppie,Interchange,Interchange
+88,South Sydney Rabbitohs,Davvy Moale,Interchange,Interchange
+89,South Sydney Rabbitohs,Liam Le Blanc,Interchange,Interchange
+90,South Sydney Rabbitohs,Tevita Tatola,Replacement,Reserves
+91,Brisbane Broncos,Selwyn Cobbo,Fullback,Backs
+92,Brisbane Broncos,Deine Mariner,Winger,Backs
+93,Brisbane Broncos,Kotoni Staggs,Centre,Backs
+94,Brisbane Broncos,Gehamat Shibasaki,Centre,Backs
+95,Brisbane Broncos,Jesse Arthars,Winger,Backs
+96,Brisbane Broncos,Ben Hunt,Five-Eighth,Backs
+97,Brisbane Broncos,Adam Reynolds,Halfback,Backs
+98,Brisbane Broncos,Patrick Carrigan,Prop,Forwards
+99,Brisbane Broncos,Billy Walters,Hooker,Forwards
+100,Brisbane Broncos,Payne Haas,Prop,Forwards
+101,Brisbane Broncos,Xavier Willison,Interchange,Interchange
+102,Brisbane Broncos,Jordan Riki,2nd Row,Forwards
+103,Brisbane Broncos,Kobe Hetherington,Lock,Forwards
+104,Brisbane Broncos,Cory Paix,Interchange,Interchange
+105,Brisbane Broncos,Corey Jensen,Interchange,Interchange
+106,Brisbane Broncos,Brendan Piakura,2nd Row,Forwards
+107,Brisbane Broncos,Fletcher Baker,Interchange,Interchange
+108,Brisbane Broncos,Tyson Smoothy,Replacement,Reserves
+109,Canberra Raiders,Kaeo Weekes,Fullback,Backs
+110,Canberra Raiders,Savelio Tamale,Winger,Backs
+111,Canberra Raiders,Matthew Timoko,Centre,Backs
+112,Canberra Raiders,Sebastian Kris,Centre,Backs
+113,Canberra Raiders,Xavier Savage,Winger,Backs
+114,Canberra Raiders,Ethan Strange,Five-Eighth,Backs
+115,Canberra Raiders,Jamal Fogarty,Halfback,Backs
+116,Canberra Raiders,Tom Starling,Hooker,Forwards
+117,Canberra Raiders,Joseph Tapine,Prop,Forwards
+118,Canberra Raiders,Hudson Young,2nd Row,Forwards
+119,Canberra Raiders,Matty Nicholson,2nd Row,Forwards
+120,Canberra Raiders,Morgan Smithies,Lock,Forwards
+121,Canberra Raiders,Owen Pattie,Interchange,Interchange
+122,Canberra Raiders,Zac Hosking,Prop,Forwards
+123,Canberra Raiders,Josh Papalii,Interchange,Interchange
+124,Canberra Raiders,Ata Mariota,Interchange,Interchange
+125,Canberra Raiders,Manaia Waitere,Replacement,Reserves
+126,Canberra Raiders,Simi Sasagi,Interchange,Interchange
+127,Canterbury-Bankstown Bulldogs,Connor Tracey,Fullback,Backs
+128,Canterbury-Bankstown Bulldogs,Jacob Kiraz,Winger,Backs
+129,Canterbury-Bankstown Bulldogs,Bronson Xerri,Centre,Backs
+130,Canterbury-Bankstown Bulldogs,Stephen Crichton,Centre,Backs
+131,Canterbury-Bankstown Bulldogs,Marcelo Montoya,Winger,Backs
+132,Canterbury-Bankstown Bulldogs,Matt Burton,Five-Eighth,Backs
+133,Canterbury-Bankstown Bulldogs,Toby Sexton,Halfback,Backs
+134,Canterbury-Bankstown Bulldogs,Max King,Prop,Forwards
+135,Canterbury-Bankstown Bulldogs,Reed Mahoney,Hooker,Forwards
+136,Canterbury-Bankstown Bulldogs,Daniel Fifita,Prop,Forwards
+137,Canterbury-Bankstown Bulldogs,Viliame Kikau,2nd Row,Forwards
+138,Canterbury-Bankstown Bulldogs,Jaeman Salmon,2nd Row,Forwards
+139,Canterbury-Bankstown Bulldogs,Kurt Mann,Lock,Forwards
+140,Canterbury-Bankstown Bulldogs,Harry Hayes,Interchange,Interchange
+141,Canterbury-Bankstown Bulldogs,Kurtis Morrin,Interchange,Interchange
+142,Canterbury-Bankstown Bulldogs,Bailey Hayward,Interchange,Interchange
+143,Canterbury-Bankstown Bulldogs,Blake Wilson,Replacement,Reserves
+144,Canterbury-Bankstown Bulldogs,Lipoi Hopoi,Interchange,Interchange
+145,St. George Illawarra Dragons,Clinton Gutherson,Fullback,Backs
+146,St. George Illawarra Dragons,Tyrell Sloan,Winger,Backs
+147,St. George Illawarra Dragons,Moses Suli,Centre,Backs
+148,St. George Illawarra Dragons,Valentine Holmes,Centre,Backs
+149,St. George Illawarra Dragons,Corey Allan,Winger,Backs
+150,St. George Illawarra Dragons,Kyle Flanagan,Five-Eighth,Backs
+151,St. George Illawarra Dragons,Lyhkan King-Togia,Halfback,Backs
+152,St. George Illawarra Dragons,Toby Couchman,Prop,Forwards
+153,St. George Illawarra Dragons,Damien Cook,Hooker,Forwards
+154,St. George Illawarra Dragons,David Klemmer,Prop,Forwards
+155,St. George Illawarra Dragons,Dylan Egan,Interchange,Interchange
+156,St. George Illawarra Dragons,Jaydn Su'A,2nd Row,Forwards
+157,St. George Illawarra Dragons,Hamish Stewart,Lock,Forwards
+158,St. George Illawarra Dragons,Jacob Liddle,Interchange,Interchange
+159,St. George Illawarra Dragons,Jack de Belin,Interchange,Interchange
+160,St. George Illawarra Dragons,Luciano Leilua,2nd Row,Forwards
+161,St. George Illawarra Dragons,Loko Pasifiki Tonga,Interchange,Interchange
+162,St. George Illawarra Dragons,Raymond Faitala-Mariner,Replacement,Reserves
+163,Warriors,Charnze Nicoll-Klokstad,Fullback,Backs
+164,Warriors,Dallin Watene-Zelezniak,Winger,Backs
+165,Warriors,Adam Pompey,Centre,Backs
+166,Warriors,Kurt Capewell,Centre,Backs
+167,Warriors,Taine Tuaupiki,Winger,Backs
+168,Warriors,Chanel Harris-Tavita,Five-Eighth,Backs
+169,Warriors,Luke Metcalf,Halfback,Backs
+170,Warriors,Jackson Ford,Interchange,Interchange
+171,Warriors,Wayde Egan,Hooker,Forwards
+172,Warriors,Mitchell Barnett,Prop,Forwards
+173,Warriors,Leka Halasima,2nd Row,Forwards
+174,Warriors,Marata Niukore,2nd Row,Forwards
+175,Warriors,Erin Clark,Lock,Forwards
+176,Warriors,Jacob Laban,Interchange,Interchange
+177,Warriors,Demitric Sifakula,Interchange,Interchange
+178,Warriors,Bunty Afoa,Prop,Forwards
+179,Warriors,Te Maire Martin,Interchange,Interchange
+180,Warriors,Eddie Ieremia-Toeava,Replacement,Reserves
+181,North Queensland Cowboys,Scott Drinkwater,Fullback,Backs
+182,North Queensland Cowboys,Robert Derby,Winger,Backs
+183,North Queensland Cowboys,Jaxon Purdue,Centre,Backs
+184,North Queensland Cowboys,Viliami Vailea,Centre,Backs
+185,North Queensland Cowboys,Murray Taulagi,Winger,Backs
+186,North Queensland Cowboys,Tom Dearden,Five-Eighth,Backs
+187,North Queensland Cowboys,Jake Clifford,Halfback,Backs
+188,North Queensland Cowboys,Jordan McLean,Prop,Forwards
+189,North Queensland Cowboys,Reece Robson,Hooker,Forwards
+190,North Queensland Cowboys,John Bateman,2nd Row,Forwards
+191,North Queensland Cowboys,Jeremiah Nanai,2nd Row,Forwards
+192,North Queensland Cowboys,Sam McIntyre,Lock,Forwards
+193,North Queensland Cowboys,Harrison Edwards,Interchange,Interchange
+194,North Queensland Cowboys,Thomas Mikaele,Interchange,Interchange
+195,North Queensland Cowboys,Griffin Neame,Interchange,Interchange
+196,North Queensland Cowboys,Coen Hess,Prop,Forwards
+197,North Queensland Cowboys,Zac Laybutt,Replacement,Reserves
+198,North Queensland Cowboys,Kai O'Donnell,Interchange,Interchange
+199,Penrith Panthers,Dylan Edwards,Fullback,Backs
+200,Penrith Panthers,Paul Alamoti,Winger,Backs
+201,Penrith Panthers,Izack Tago,Centre,Backs
+202,Penrith Panthers,Luke Garner,Centre,Backs
+203,Penrith Panthers,Brian To'o,Winger,Backs
+204,Penrith Panthers,Blaize Talagi,Five-Eighth,Backs
+205,Penrith Panthers,Nathan Cleary,Halfback,Backs
+206,Penrith Panthers,Moses Leota,Prop,Forwards
+207,Penrith Panthers,Mitchell Kenny,Hooker,Forwards
+208,Penrith Panthers,Lindsay Smith,Prop,Forwards
+209,Penrith Panthers,Isaiah Papali'i,2nd Row,Forwards
+210,Penrith Panthers,Liam Martin,2nd Row,Forwards
+211,Penrith Panthers,Isaah Yeo,Lock,Forwards
+212,Penrith Panthers,Brad Schneider,Interchange,Interchange
+213,Penrith Panthers,Liam Henry,Interchange,Interchange
+214,Penrith Panthers,Luron Patea,Interchange,Interchange
+215,Penrith Panthers,Thomas Jenkins,Interchange,Interchange
+216,Penrith Panthers,Luke Sommerton,Replacement,Reserves
+217,Melbourne Storm,Ryan Papenhuyzen,Fullback,Backs
+218,Melbourne Storm,Sualauvi Faalogo,Winger,Backs
+219,Melbourne Storm,Grant Anderson,Centre,Backs
+220,Melbourne Storm,Nick Meaney,Centre,Backs
+221,Melbourne Storm,Xavier Coates,Winger,Backs
+222,Melbourne Storm,Cameron Munster,Five-Eighth,Backs
+223,Melbourne Storm,Jahrome Hughes,Halfback,Backs
+224,Melbourne Storm,Stefano Utoikamanu,Prop,Forwards
+225,Melbourne Storm,Bronson Garlick,Hooker,Forwards
+226,Melbourne Storm,Josh King,Prop,Forwards
+227,Melbourne Storm,Shawn Blore,2nd Row,Forwards
+228,Melbourne Storm,Eliesa Katoa,2nd Row,Forwards
+229,Melbourne Storm,Trent Loiero,Lock,Forwards
+230,Melbourne Storm,Tyran Wishart,Interchange,Interchange
+231,Melbourne Storm,Alec MacDonald,Interchange,Interchange
+232,Melbourne Storm,Joe Chan,Interchange,Interchange
+233,Melbourne Storm,Kane Bradley,Replacement,Reserves
+234,Melbourne Storm,Nelson Asofa-Solomona,Interchange,Interchange
+235,Wests Tigers,Jahream Bula,Fullback,Backs
+236,Wests Tigers,Sunia Turuva,Winger,Backs
+237,Wests Tigers,Adam Doueihi,Centre,Backs
+238,Wests Tigers,Brent Naden,Centre,Backs
+239,Wests Tigers,Charlie Staines,Winger,Backs
+240,Wests Tigers,Lachlan Galvin,Five-Eighth,Backs
+241,Wests Tigers,Jarome Luai,Halfback,Backs
+242,Wests Tigers,Terrell May,Prop,Forwards
+243,Wests Tigers,Apisai Koroisau,Hooker,Forwards
+244,Wests Tigers,Fonua Pole,Prop,Forwards
+245,Wests Tigers,Samuela Fainu,2nd Row,Forwards
+246,Wests Tigers,Alex Seyfarth,2nd Row,Forwards
+247,Wests Tigers,Alex Twal,Lock,Forwards
+248,Wests Tigers,Tallyn Da Silva,Interchange,Interchange
+249,Wests Tigers,Royce Hunt,Interchange,Interchange
+250,Wests Tigers,Jack Bird,Replacement,Reserves
+251,Wests Tigers,Sione Fainu,Interchange,Interchange
+252,Wests Tigers,Tony Sukkar,Interchange,Interchange
+253,Manly-Warringah Sea Eagles,Tom Trbojevic,Fullback,Backs
+254,Manly-Warringah Sea Eagles,Jason Saab,Winger,Backs
+255,Manly-Warringah Sea Eagles,Tolutau Koula,Centre,Backs
+256,Manly-Warringah Sea Eagles,Reuben Garrick,Centre,Backs
+257,Manly-Warringah Sea Eagles,Lehi Hopoate,Winger,Backs
+258,Manly-Warringah Sea Eagles,Luke Brooks,Five-Eighth,Backs
+259,Manly-Warringah Sea Eagles,Daly Cherry-Evans,Halfback,Backs
+260,Manly-Warringah Sea Eagles,Jake Trbojevic,Prop,Forwards
+261,Manly-Warringah Sea Eagles,Jake Simpkin,Hooker,Forwards
+262,Manly-Warringah Sea Eagles,Siosiua Taukeiaho,Prop,Forwards
+263,Manly-Warringah Sea Eagles,Haumole Olakau'atu,2nd Row,Forwards
+264,Manly-Warringah Sea Eagles,Ben Trbojevic,2nd Row,Forwards
+265,Manly-Warringah Sea Eagles,Jazz Tevaga,Lock,Forwards
+266,Manly-Warringah Sea Eagles,Corey Waddell,Interchange,Interchange
+267,Manly-Warringah Sea Eagles,Ethan Bullemor,Interchange,Interchange
+268,Manly-Warringah Sea Eagles,Nathan Brown,Interchange,Interchange
+269,Manly-Warringah Sea Eagles,Caleb Navale,Replacement,Reserves
+270,Manly-Warringah Sea Eagles,Clayton Faulalo,Interchange,Interchange
+271,Cronulla-Sutherland Sharks,William Kennedy,Fullback,Backs
+272,Cronulla-Sutherland Sharks,Samuel Stonestreet,Winger,Backs
+273,Cronulla-Sutherland Sharks,Jesse Ramien,Centre,Backs
+274,Cronulla-Sutherland Sharks,Kayal Iro,Centre,Backs
+275,Cronulla-Sutherland Sharks,Ronaldo Mulitalo,Winger,Backs
+276,Cronulla-Sutherland Sharks,Braydon Trindall,Five-Eighth,Backs
+277,Cronulla-Sutherland Sharks,Nicho Hynes,Halfback,Backs
+278,Cronulla-Sutherland Sharks,Addin Fonua-Blake,Prop,Forwards
+279,Cronulla-Sutherland Sharks,Blayke Brailey,Hooker,Forwards
+280,Cronulla-Sutherland Sharks,Oregon Kaufusi,Interchange,Interchange
+281,Cronulla-Sutherland Sharks,Briton Nikora,2nd Row,Forwards
+282,Cronulla-Sutherland Sharks,Billy Burns,2nd Row,Forwards
+283,Cronulla-Sutherland Sharks,Cameron McInnes,Lock,Forwards
+284,Cronulla-Sutherland Sharks,Daniel Atkinson,Interchange,Interchange
+285,Cronulla-Sutherland Sharks,Jesse Colquhoun,Interchange,Interchange
+286,Cronulla-Sutherland Sharks,Braden Uele,Interchange,Interchange
+287,Cronulla-Sutherland Sharks,Thomas Hazelton,Prop,Forwards
+288,Cronulla-Sutherland Sharks,Hohepa Puru,Replacement,Reserves
+289,Sydney Roosters,James Tedesco,Fullback,Backs
+290,Sydney Roosters,Daniel Tupou,Winger,Backs
+291,Sydney Roosters,Billy Smith,Centre,Backs
+292,Sydney Roosters,Robert Toia,Centre,Backs
+293,Sydney Roosters,Mark Nawaqanitawase,Winger,Backs
+294,Sydney Roosters,Sandon Smith,Five-Eighth,Backs
+295,Sydney Roosters,Hugo Savala,Halfback,Backs
+296,Sydney Roosters,Spencer Leniu,Prop,Forwards
+297,Sydney Roosters,Connor Watson,Hooker,Forwards
+298,Sydney Roosters,Naufahu Whyte,Prop,Forwards
+299,Sydney Roosters,Angus Crichton,2nd Row,Forwards
+300,Sydney Roosters,Siua Wong,2nd Row,Forwards
+301,Sydney Roosters,Victor Radley,Lock,Forwards
+302,Sydney Roosters,Zach Dockar-Clay,Interchange,Interchange
+303,Sydney Roosters,Egan Butcher,Interchange,Interchange
+304,Sydney Roosters,Blake Steep,Interchange,Interchange
+305,Sydney Roosters,Lindsay Collins,Interchange,Interchange
+306,Sydney Roosters,Ethan King,Replacement,Reserves

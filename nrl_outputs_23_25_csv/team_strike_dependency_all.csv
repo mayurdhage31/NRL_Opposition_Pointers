@@ -1,0 +1,1591 @@
+season,team_name,player_name,tries,try_assists,line_breaks,line_break_assists,team_tries,team_try_assists,team_line_breaks,team_line_break_assists,team_attack_output,tries_share_pct,try_assists_share_pct,rank_tries_share,rank_try_assists_share
+2023,Sydney Roosters,Siua Wong,3,0,4,0,85,68,127,92,372,3.53 %,0.00 %,7,9
+2023,Sydney Roosters,Sam Walker,3,4,4,4,85,68,127,92,372,3.53 %,5.88 %,7,5
+2023,Sydney Roosters,Naufahu Whyte,0,0,0,0,85,68,127,92,372,0.00 %,0.00 %,10,9
+2023,Sydney Roosters,Daniel Tupou,10,2,12,1,85,68,127,92,372,11.76 %,2.94 %,2,7
+2023,Sydney Roosters,Jared Waerea-Hargreaves,0,1,0,2,85,68,127,92,372,0.00 %,1.47 %,10,8
+2023,Sydney Roosters,Dylan Napa,0,0,0,0,85,68,127,92,372,0.00 %,0.00 %,10,9
+2023,Sydney Roosters,Luke Keary,5,19,7,20,85,68,127,92,372,5.88 %,27.94 %,5,1
+2023,Sydney Roosters,Drew Hutchison,4,1,6,2,85,68,127,92,372,4.71 %,1.47 %,6,8
+2023,Sydney Roosters,Matthew Lodge,0,0,0,0,85,68,127,92,372,0.00 %,0.00 %,10,9
+2023,Sydney Roosters,Nathan Brown,0,1,0,2,85,68,127,92,372,0.00 %,1.47 %,10,8
+2023,Sydney Roosters,James Tedesco,11,11,15,12,85,68,127,92,372,12.94 %,16.18 %,1,2
+2023,Sydney Roosters,Zach Dockar-Clay,0,0,0,0,85,68,127,92,372,0.00 %,0.00 %,10,9
+2023,Sydney Roosters,Jake Turpin,0,0,0,0,85,68,127,92,372,0.00 %,0.00 %,10,9
+2023,Sydney Roosters,Paul Momirovski,0,0,0,0,85,68,127,92,372,0.00 %,0.00 %,10,9
+2023,Sydney Roosters,Lindsay Collins,3,0,4,1,85,68,127,92,372,3.53 %,0.00 %,7,9
+2023,Sydney Roosters,Joseph Manu,8,5,7,9,85,68,127,92,372,9.41 %,7.35 %,3,4
+2023,Sydney Roosters,Angus Crichton,1,0,1,0,85,68,127,92,372,1.18 %,0.00 %,9,9
+2023,Sydney Roosters,Brandon Smith,3,2,5,2,85,68,127,92,372,3.53 %,2.94 %,7,7
+2023,Sydney Roosters,Nat Butcher,4,2,8,4,85,68,127,92,372,4.71 %,2.94 %,6,7
+2023,Sydney Roosters,Victor Radley,2,1,3,3,85,68,127,92,372,2.35 %,1.47 %,8,8
+2023,Sydney Roosters,Junior Pauga,3,1,6,1,85,68,127,92,372,3.53 %,1.47 %,7,8
+2023,Sydney Roosters,Ben Thomas,0,0,0,0,85,68,127,92,372,0.00 %,0.00 %,10,9
+2023,Sydney Roosters,Egan Butcher,2,2,5,0,85,68,127,92,372,2.35 %,2.94 %,8,7
+2023,Sydney Roosters,Sitili Tupouniua,1,0,0,1,85,68,127,92,372,1.18 %,0.00 %,9,9
+2023,Sydney Roosters,Corey Allan,2,3,7,5,85,68,127,92,372,2.35 %,4.41 %,8,6
+2023,Sydney Roosters,Jaxson Paulo,6,1,7,1,85,68,127,92,372,7.06 %,1.47 %,4,8
+2023,Sydney Roosters,Terrell May,1,0,1,1,85,68,127,92,372,1.18 %,0.00 %,9,9
+2023,Sydney Roosters,Billy Smith,4,4,7,12,85,68,127,92,372,4.71 %,5.88 %,6,5
+2023,Sydney Roosters,Joseph Suaalii,8,2,14,4,85,68,127,92,372,9.41 %,2.94 %,3,7
+2023,Sydney Roosters,Sandon Smith,0,6,4,5,85,68,127,92,372,0.00 %,8.82 %,10,3
+2023,Sydney Roosters,Fletcher Baker,1,0,0,0,85,68,127,92,372,1.18 %,0.00 %,9,9
+2023,Manly-Warringah Sea Eagles,Christian Tuipulotu,2,0,9,0,94,75,127,96,392,2.13 %,0.00 %,8,10
+2023,Manly-Warringah Sea Eagles,Raymond Tuaimalo Vaega,2,0,4,0,94,75,127,96,392,2.13 %,0.00 %,8,10
+2023,Manly-Warringah Sea Eagles,Daly Cherry-Evans,9,18,7,19,94,75,127,96,392,9.57 %,24.00 %,4,1
+2023,Manly-Warringah Sea Eagles,Matthew Lodge,0,0,0,0,94,75,127,96,392,0.00 %,0.00 %,10,10
+2023,Manly-Warringah Sea Eagles,Aaron Woods,0,0,1,0,94,75,127,96,392,0.00 %,0.00 %,10,10
+2023,Manly-Warringah Sea Eagles,Jake Trbojevic,1,0,0,0,94,75,127,96,392,1.06 %,0.00 %,9,10
+2023,Manly-Warringah Sea Eagles,Josh Aloiai,1,0,1,1,94,75,127,96,392,1.06 %,0.00 %,9,10
+2023,Manly-Warringah Sea Eagles,Toafofoa Sipley,2,0,4,1,94,75,127,96,392,2.13 %,0.00 %,8,10
+2023,Manly-Warringah Sea Eagles,Tom Trbojevic,10,8,8,13,94,75,127,96,392,10.64 %,10.67 %,3,3
+2023,Manly-Warringah Sea Eagles,Lachlan Croker,6,4,6,5,94,75,127,96,392,6.38 %,5.33 %,6,7
+2023,Manly-Warringah Sea Eagles,Morgan Boyle,0,0,0,0,94,75,127,96,392,0.00 %,0.00 %,10,10
+2023,Manly-Warringah Sea Eagles,Karl Lawton,0,0,0,0,94,75,127,96,392,0.00 %,0.00 %,10,10
+2023,Manly-Warringah Sea Eagles,Reuben Garrick,12,7,20,5,94,75,127,96,392,12.77 %,9.33 %,2,4
+2023,Manly-Warringah Sea Eagles,Dean Matterson,1,0,0,0,94,75,127,96,392,1.06 %,0.00 %,9,10
+2023,Manly-Warringah Sea Eagles,Cooper Johns,0,0,0,4,94,75,127,96,392,0.00 %,0.00 %,10,10
+2023,Manly-Warringah Sea Eagles,Brad Parker,5,2,4,5,94,75,127,96,392,5.32 %,2.67 %,7,8
+2023,Manly-Warringah Sea Eagles,Taniela Paseka,0,1,2,2,94,75,127,96,392,0.00 %,1.33 %,10,9
+2023,Manly-Warringah Sea Eagles,Sean Keppie,1,0,2,0,94,75,127,96,392,1.06 %,0.00 %,9,10
+2023,Manly-Warringah Sea Eagles,Josh Schuster,2,13,1,10,94,75,127,96,392,2.13 %,17.33 %,8,2
+2023,Manly-Warringah Sea Eagles,Ethan Bullemor,1,1,1,1,94,75,127,96,392,1.06 %,1.33 %,9,9
+2023,Manly-Warringah Sea Eagles,Ben Condon,1,0,1,0,94,75,127,96,392,1.06 %,0.00 %,9,10
+2023,Manly-Warringah Sea Eagles,Kelma Tuilagi,1,1,1,3,94,75,127,96,392,1.06 %,1.33 %,9,9
+2023,Manly-Warringah Sea Eagles,Morgan Harper,0,1,4,4,94,75,127,96,392,0.00 %,1.33 %,10,9
+2023,Manly-Warringah Sea Eagles,Jason Saab,14,5,22,1,94,75,127,96,392,14.89 %,6.67 %,1,6
+2023,Manly-Warringah Sea Eagles,Kaeo Weekes,1,0,1,0,94,75,127,96,392,1.06 %,0.00 %,9,10
+2023,Manly-Warringah Sea Eagles,Ben Trbojevic,2,1,4,1,94,75,127,96,392,2.13 %,1.33 %,8,9
+2023,Manly-Warringah Sea Eagles,Haumole Olakau'atu,10,5,11,9,94,75,127,96,392,10.64 %,6.67 %,3,6
+2023,Manly-Warringah Sea Eagles,Gordon Chan Kum Tong,1,0,1,0,94,75,127,96,392,1.06 %,0.00 %,9,10
+2023,Manly-Warringah Sea Eagles,Tolutau Koula,8,6,11,7,94,75,127,96,392,8.51 %,8.00 %,5,5
+2023,Manly-Warringah Sea Eagles,Jakob Arthur,1,1,1,5,94,75,127,96,392,1.06 %,1.33 %,9,9
+2023,Manly-Warringah Sea Eagles,Samuela Fainu,0,1,0,0,94,75,127,96,392,0.00 %,1.33 %,10,9
+2023,Newcastle Knights,Simi Sasagi,0,0,0,0,121,96,148,116,481,0.00 %,0.00 %,11,12
+2023,Newcastle Knights,Ryan Rivett,0,0,0,0,121,96,148,116,481,0.00 %,0.00 %,11,12
+2023,Newcastle Knights,Leo Thompson,1,0,1,0,121,96,148,116,481,0.83 %,0.00 %,10,12
+2023,Newcastle Knights,Dominic Young,25,5,32,2,121,96,148,116,481,20.66 %,5.21 %,1,7
+2023,Newcastle Knights,Riley Jones,0,0,0,0,121,96,148,116,481,0.00 %,0.00 %,11,12
+2023,Newcastle Knights,Lachlan Miller,2,3,3,5,121,96,148,116,481,1.65 %,3.12 %,9,9
+2023,Newcastle Knights,Dane Gagai,4,13,12,22,121,96,148,116,481,3.31 %,13.54 %,7,3
+2023,Newcastle Knights,Adam Elliott,0,1,0,3,121,96,148,116,481,0.00 %,1.04 %,11,11
+2023,Newcastle Knights,Jackson Hastings,4,7,3,7,121,96,148,116,481,3.31 %,7.29 %,7,5
+2023,Newcastle Knights,Adam Clune,1,4,0,5,121,96,148,116,481,0.83 %,4.17 %,10,8
+2023,Newcastle Knights,Lachlan Fitzgibbon,5,3,8,8,121,96,148,116,481,4.13 %,3.12 %,6,9
+2023,Newcastle Knights,Hymel Hunt,1,0,1,0,121,96,148,116,481,0.83 %,0.00 %,10,12
+2023,Newcastle Knights,Kurt Mann,4,2,6,1,121,96,148,116,481,3.31 %,2.08 %,7,10
+2023,Newcastle Knights,Tyson Frizell,4,1,6,1,121,96,148,116,481,3.31 %,1.04 %,7,11
+2023,Newcastle Knights,Fa'amanu Brown,1,0,1,0,121,96,148,116,481,0.83 %,0.00 %,10,12
+2023,Newcastle Knights,Jayden Brailey,0,0,0,0,121,96,148,116,481,0.00 %,0.00 %,11,12
+2023,Newcastle Knights,Jack Hetherington,1,0,2,0,121,96,148,116,481,0.83 %,0.00 %,10,12
+2023,Newcastle Knights,Jacob Saifiti,1,0,1,0,121,96,148,116,481,0.83 %,0.00 %,10,12
+2023,Newcastle Knights,Daniel Saifiti,2,2,2,1,121,96,148,116,481,1.65 %,2.08 %,9,10
+2023,Newcastle Knights,Dane Aukafolau,0,0,0,0,121,96,148,116,481,0.00 %,0.00 %,11,12
+2023,Newcastle Knights,Brodie Jones,0,0,0,0,121,96,148,116,481,0.00 %,0.00 %,11,12
+2023,Newcastle Knights,Jack Johns,1,0,1,0,121,96,148,116,481,0.83 %,0.00 %,10,12
+2023,Newcastle Knights,Matt Croker,3,1,0,2,121,96,148,116,481,2.48 %,1.04 %,8,11
+2023,Newcastle Knights,Greg Marzhew,22,0,27,0,121,96,148,116,481,18.18 %,0.00 %,2,12
+2023,Newcastle Knights,Enari Tuala,3,3,3,3,121,96,148,116,481,2.48 %,3.12 %,8,9
+2023,Newcastle Knights,Phoenix Crossland,6,6,3,3,121,96,148,116,481,4.96 %,6.25 %,5,6
+2023,Newcastle Knights,Kalyn Ponga,9,21,19,27,121,96,148,116,481,7.44 %,21.88 %,4,1
+2023,Newcastle Knights,Dylan Lucas,2,0,2,0,121,96,148,116,481,1.65 %,0.00 %,9,12
+2023,Newcastle Knights,Bradman Best,13,16,11,18,121,96,148,116,481,10.74 %,16.67 %,3,2
+2023,Newcastle Knights,Tyson Gamble,6,8,4,8,121,96,148,116,481,4.96 %,8.33 %,5,4
+2023,Newcastle Knights,Thomas Cant,0,0,0,0,121,96,148,116,481,0.00 %,0.00 %,11,12
+2023,Newcastle Knights,Oryn Keeley,0,0,0,0,121,96,148,116,481,0.00 %,0.00 %,11,12
+2023,Gold Coast Titans,Chris Randall,4,1,8,1,91,64,124,85,364,4.40 %,1.56 %,6,9
+2023,Gold Coast Titans,Alofiana Khan-Pereira,20,5,30,0,91,64,124,85,364,21.98 %,7.81 %,1,5
+2023,Gold Coast Titans,Jayden Campbell,5,3,11,7,91,64,124,85,364,5.49 %,4.69 %,5,7
+2023,Gold Coast Titans,Toby Sexton,1,1,1,2,91,64,124,85,364,1.10 %,1.56 %,9,9
+2023,Gold Coast Titans,Tom Weaver,0,0,0,1,91,64,124,85,364,0.00 %,0.00 %,10,10
+2023,Gold Coast Titans,Iszac Fa'asuamaleaui,1,0,0,1,91,64,124,85,364,1.10 %,0.00 %,9,10
+2023,Gold Coast Titans,Sosefo Fifita,3,0,6,1,91,64,124,85,364,3.30 %,0.00 %,7,10
+2023,Gold Coast Titans,Josiah Pahulu,0,0,0,0,91,64,124,85,364,0.00 %,0.00 %,10,10
+2023,Gold Coast Titans,Keano Kini,0,0,1,0,91,64,124,85,364,0.00 %,0.00 %,10,10
+2023,Gold Coast Titans,Klese Haas,3,0,2,2,91,64,124,85,364,3.30 %,0.00 %,7,10
+2023,Gold Coast Titans,Kieran Foran,6,5,5,11,91,64,124,85,364,6.59 %,7.81 %,4,5
+2023,Gold Coast Titans,Isaac Liu,1,2,1,4,91,64,124,85,364,1.10 %,3.12 %,9,8
+2023,Gold Coast Titans,Brian Kelly,6,9,8,20,91,64,124,85,364,6.59 %,14.06 %,4,3
+2023,Gold Coast Titans,Joe Stimson,2,0,2,0,91,64,124,85,364,2.20 %,0.00 %,8,10
+2023,Gold Coast Titans,Jaimin Jolliffe,0,0,0,0,91,64,124,85,364,0.00 %,0.00 %,10,10
+2023,Gold Coast Titans,Erin Clark,1,0,2,0,91,64,124,85,364,1.10 %,0.00 %,9,10
+2023,Gold Coast Titans,Kruise Leeming,2,0,3,0,91,64,124,85,364,2.20 %,0.00 %,8,10
+2023,Gold Coast Titans,Sam McIntyre,1,0,0,0,91,64,124,85,364,1.10 %,0.00 %,9,10
+2023,Gold Coast Titans,Thomas Mikaele,0,0,0,0,91,64,124,85,364,0.00 %,0.00 %,10,10
+2023,Gold Coast Titans,Sam Verrills,1,4,1,4,91,64,124,85,364,1.10 %,6.25 %,9,6
+2023,Gold Coast Titans,Aaron Schoupp,2,1,1,4,91,64,124,85,364,2.20 %,1.56 %,8,9
+2023,Gold Coast Titans,Phillip Sami,11,2,13,1,91,64,124,85,364,12.09 %,3.12 %,2,8
+2023,Gold Coast Titans,Joseph Vuna,1,0,0,0,91,64,124,85,364,1.10 %,0.00 %,9,10
+2023,Gold Coast Titans,Treymain Spry,0,0,0,0,91,64,124,85,364,0.00 %,0.00 %,10,10
+2023,Gold Coast Titans,Alexander Brimson,4,12,10,8,91,64,124,85,364,4.40 %,18.75 %,6,1
+2023,Gold Coast Titans,Moeaki Fotuaika,0,1,0,1,91,64,124,85,364,0.00 %,1.56 %,10,9
+2023,Gold Coast Titans,Tanah Boyd,2,7,3,4,91,64,124,85,364,2.20 %,10.94 %,8,4
+2023,Gold Coast Titans,David Fifita,8,10,9,11,91,64,124,85,364,8.79 %,15.62 %,3,2
+2023,Gold Coast Titans,Tino Faasuamaleaui,6,1,6,2,91,64,124,85,364,6.59 %,1.56 %,4,9
+2023,Gold Coast Titans,Jacob Alick,0,0,1,0,91,64,124,85,364,0.00 %,0.00 %,10,10
+2023,South Sydney Rabbitohs,Josiah Karapani,0,0,0,0,100,90,136,115,441,0.00 %,0.00 %,9,10
+2023,South Sydney Rabbitohs,Ben Lovett,0,0,0,0,100,90,136,115,441,0.00 %,0.00 %,9,10
+2023,South Sydney Rabbitohs,Tyrone Munro,3,1,6,0,100,90,136,115,441,3.00 %,1.11 %,6,9
+2023,South Sydney Rabbitohs,Thomas Burgess,1,0,2,0,100,90,136,115,441,1.00 %,0.00 %,8,10
+2023,South Sydney Rabbitohs,Alex Johnston,21,2,30,3,100,90,136,115,441,21.00 %,2.22 %,1,8
+2023,South Sydney Rabbitohs,Jai Arrow,0,0,1,0,100,90,136,115,441,0.00 %,0.00 %,9,10
+2023,South Sydney Rabbitohs,Taane Milne,2,2,12,0,100,90,136,115,441,2.00 %,2.22 %,7,8
+2023,South Sydney Rabbitohs,Jacob Host,3,1,4,1,100,90,136,115,441,3.00 %,1.11 %,6,9
+2023,South Sydney Rabbitohs,Michael Chee-Kam,1,1,1,1,100,90,136,115,441,1.00 %,1.11 %,8,9
+2023,South Sydney Rabbitohs,Richard Kennar,2,2,4,3,100,90,136,115,441,2.00 %,2.22 %,7,8
+2023,South Sydney Rabbitohs,Cody Walker,9,24,11,32,100,90,136,115,441,9.00 %,26.67 %,3,1
+2023,South Sydney Rabbitohs,Liam Knight,0,0,0,0,100,90,136,115,441,0.00 %,0.00 %,9,10
+2023,South Sydney Rabbitohs,Izaac Thompson,1,1,3,0,100,90,136,115,441,1.00 %,1.11 %,8,9
+2023,South Sydney Rabbitohs,Hame Sele,1,0,1,0,100,90,136,115,441,1.00 %,0.00 %,8,10
+2023,South Sydney Rabbitohs,Siliva Havili,0,1,0,1,100,90,136,115,441,0.00 %,1.11 %,9,9
+2023,South Sydney Rabbitohs,Damien Cook,3,8,4,8,100,90,136,115,441,3.00 %,8.89 %,6,5
+2023,South Sydney Rabbitohs,Latrell Mitchell,9,12,3,17,100,90,136,115,441,9.00 %,13.33 %,3,2
+2023,South Sydney Rabbitohs,Shaquai Mitchell,1,0,1,0,100,90,136,115,441,1.00 %,0.00 %,8,10
+2023,South Sydney Rabbitohs,Tevita Tatola,0,0,0,0,100,90,136,115,441,0.00 %,0.00 %,9,10
+2023,South Sydney Rabbitohs,Jed Cartwright,1,1,2,0,100,90,136,115,441,1.00 %,1.11 %,8,9
+2023,South Sydney Rabbitohs,Keaon Koloamatangi,5,2,6,6,100,90,136,115,441,5.00 %,2.22 %,4,8
+2023,South Sydney Rabbitohs,Cameron Murray,4,2,5,3,100,90,136,115,441,4.00 %,2.22 %,5,8
+2023,South Sydney Rabbitohs,Campbell Graham,16,5,21,8,100,90,136,115,441,16.00 %,5.56 %,2,6
+2023,South Sydney Rabbitohs,Blake Taaffe,3,3,4,4,100,90,136,115,441,3.00 %,3.33 %,6,7
+2023,South Sydney Rabbitohs,Dean Hawkins,0,2,0,2,100,90,136,115,441,0.00 %,2.22 %,9,8
+2023,South Sydney Rabbitohs,Daniel Fifita,0,0,0,0,100,90,136,115,441,0.00 %,0.00 %,9,10
+2023,South Sydney Rabbitohs,Lachlan Ilias,4,10,4,11,100,90,136,115,441,4.00 %,11.11 %,5,3
+2023,South Sydney Rabbitohs,Isaiah Tass,9,9,9,15,100,90,136,115,441,9.00 %,10.00 %,3,4
+2023,South Sydney Rabbitohs,Peter Mamouzelos,0,1,0,0,100,90,136,115,441,0.00 %,1.11 %,9,9
+2023,South Sydney Rabbitohs,Davvy Moale,0,0,0,0,100,90,136,115,441,0.00 %,0.00 %,9,10
+2023,South Sydney Rabbitohs,Tallis Duncan,1,0,2,0,100,90,136,115,441,1.00 %,0.00 %,8,10
+2023,Canterbury-Bankstown Bulldogs,Reece Hoffman,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Toby Sexton,2,4,4,4,75,59,97,74,305,2.67 %,6.78 %,6,5
+2023,Canterbury-Bankstown Bulldogs,Paul Alamoti,2,4,4,6,75,59,97,74,305,2.67 %,6.78 %,6,5
+2023,Canterbury-Bankstown Bulldogs,Jacob Kiraz,6,2,7,6,75,59,97,74,305,8.00 %,3.39 %,3,6
+2023,Canterbury-Bankstown Bulldogs,Karl Oloapu,0,1,1,1,75,59,97,74,305,0.00 %,1.69 %,8,7
+2023,Canterbury-Bankstown Bulldogs,Jeral Skelton,1,0,2,0,75,59,97,74,305,1.33 %,0.00 %,7,8
+2023,Canterbury-Bankstown Bulldogs,Josh Reynolds,0,1,0,0,75,59,97,74,305,0.00 %,1.69 %,8,7
+2023,Canterbury-Bankstown Bulldogs,Viliame Kikau,1,2,1,3,75,59,97,74,305,1.33 %,3.39 %,7,6
+2023,Canterbury-Bankstown Bulldogs,Tevita Pangai Junior,1,0,0,1,75,59,97,74,305,1.33 %,0.00 %,7,8
+2023,Canterbury-Bankstown Bulldogs,Liam Knight,1,0,0,0,75,59,97,74,305,1.33 %,0.00 %,7,8
+2023,Canterbury-Bankstown Bulldogs,Fa'amanu Brown,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Raymond Faitala-Mariner,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Josh Addo-Carr,11,1,11,0,75,59,97,74,305,14.67 %,1.69 %,2,7
+2023,Canterbury-Bankstown Bulldogs,Ryan Sutton,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Corey Waddell,4,1,3,0,75,59,97,74,305,5.33 %,1.69 %,4,7
+2023,Canterbury-Bankstown Bulldogs,Luke Thompson,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Jayden Okunbor,2,1,2,1,75,59,97,74,305,2.67 %,1.69 %,6,7
+2023,Canterbury-Bankstown Bulldogs,Kyle Flanagan,2,1,1,2,75,59,97,74,305,2.67 %,1.69 %,6,7
+2023,Canterbury-Bankstown Bulldogs,Max King,0,0,1,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Franklin Pele,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Reed Mahoney,4,8,4,9,75,59,97,74,305,5.33 %,13.56 %,4,2
+2023,Canterbury-Bankstown Bulldogs,Chris Patolo,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Declan Casey,1,0,2,0,75,59,97,74,305,1.33 %,0.00 %,7,8
+2023,Canterbury-Bankstown Bulldogs,Harrison Edwards,1,0,2,0,75,59,97,74,305,1.33 %,0.00 %,7,8
+2023,Canterbury-Bankstown Bulldogs,Jayden Tanner,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Jake Averillo,12,7,12,11,75,59,97,74,305,16.00 %,11.86 %,1,3
+2023,Canterbury-Bankstown Bulldogs,Kurtis Morrin,2,0,2,0,75,59,97,74,305,2.67 %,0.00 %,6,8
+2023,Canterbury-Bankstown Bulldogs,Hayze Perham,3,5,7,9,75,59,97,74,305,4.00 %,8.47 %,5,4
+2023,Canterbury-Bankstown Bulldogs,Andrew Davey,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Braidon Burns,2,0,2,4,75,59,97,74,305,2.67 %,0.00 %,6,8
+2023,Canterbury-Bankstown Bulldogs,Ethan Quai-Ward,1,1,1,1,75,59,97,74,305,1.33 %,1.69 %,7,7
+2023,Canterbury-Bankstown Bulldogs,Blake Wilson,6,4,11,1,75,59,97,74,305,8.00 %,6.78 %,3,5
+2023,Canterbury-Bankstown Bulldogs,Jacob Preston,6,0,10,2,75,59,97,74,305,8.00 %,0.00 %,3,8
+2023,Canterbury-Bankstown Bulldogs,Jackson Topine,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Samuel Hughes,0,0,0,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Canterbury-Bankstown Bulldogs,Matt Burton,4,16,6,13,75,59,97,74,305,5.33 %,27.12 %,4,1
+2023,Canterbury-Bankstown Bulldogs,Khaled Rajab,0,0,1,0,75,59,97,74,305,0.00 %,0.00 %,8,8
+2023,Brisbane Broncos,Jordan Riki,7,0,4,0,127,99,161,114,501,5.51 %,0.00 %,6,11
+2023,Brisbane Broncos,Ezra Mam,18,9,11,10,127,99,161,114,501,14.17 %,9.09 %,2,3
+2023,Brisbane Broncos,Selwyn Cobbo,20,3,21,2,127,99,161,114,501,15.75 %,3.03 %,1,8
+2023,Brisbane Broncos,Xavier Willison,2,0,2,0,127,99,161,114,501,1.57 %,0.00 %,10,11
+2023,Brisbane Broncos,Deine Mariner,5,3,4,0,127,99,161,114,501,3.94 %,3.03 %,8,8
+2023,Brisbane Broncos,Benjamin Te Kura,0,0,0,0,127,99,161,114,501,0.00 %,0.00 %,12,11
+2023,Brisbane Broncos,Blake Mozer,0,0,0,0,127,99,161,114,501,0.00 %,0.00 %,12,11
+2023,Brisbane Broncos,Adam Reynolds,5,19,3,16,127,99,161,114,501,3.94 %,19.19 %,8,2
+2023,Brisbane Broncos,Corey Oates,0,2,7,0,127,99,161,114,501,0.00 %,2.02 %,12,9
+2023,Brisbane Broncos,Corey Jensen,0,1,0,1,127,99,161,114,501,0.00 %,1.01 %,12,10
+2023,Brisbane Broncos,Delouise Hoeter,0,0,2,0,127,99,161,114,501,0.00 %,0.00 %,12,11
+2023,Brisbane Broncos,Martin Taupau,0,1,0,0,127,99,161,114,501,0.00 %,1.01 %,12,10
+2023,Brisbane Broncos,Kurt Capewell,6,5,9,5,127,99,161,114,501,4.72 %,5.05 %,7,6
+2023,Brisbane Broncos,Jordan Pereira,2,0,1,0,127,99,161,114,501,1.57 %,0.00 %,10,11
+2023,Brisbane Broncos,Tristan Sailor,0,6,1,5,127,99,161,114,501,0.00 %,6.06 %,12,5
+2023,Brisbane Broncos,Billy Walters,6,2,7,4,127,99,161,114,501,4.72 %,2.02 %,7,9
+2023,Brisbane Broncos,Payne Haas,1,0,3,4,127,99,161,114,501,0.79 %,0.00 %,11,11
+2023,Brisbane Broncos,Thomas Flegler,3,0,5,2,127,99,161,114,501,2.36 %,0.00 %,9,11
+2023,Brisbane Broncos,Tyson Smoothy,0,3,0,4,127,99,161,114,501,0.00 %,3.03 %,12,8
+2023,Brisbane Broncos,Keenan Palasia,0,0,0,1,127,99,161,114,501,0.00 %,0.00 %,12,11
+2023,Brisbane Broncos,Josh Rogers,0,0,0,0,127,99,161,114,501,0.00 %,0.00 %,12,11
+2023,Brisbane Broncos,Jock Madden,0,3,1,3,127,99,161,114,501,0.00 %,3.03 %,12,8
+2023,Brisbane Broncos,Jesse Arthars,9,1,16,0,127,99,161,114,501,7.09 %,1.01 %,5,10
+2023,Brisbane Broncos,Cory Paix,2,0,2,1,127,99,161,114,501,1.57 %,0.00 %,10,11
+2023,Brisbane Broncos,Kobe Hetherington,0,0,0,1,127,99,161,114,501,0.00 %,0.00 %,12,11
+2023,Brisbane Broncos,Patrick Carrigan,2,4,5,5,127,99,161,114,501,1.57 %,4.04 %,10,7
+2023,Brisbane Broncos,Kotoni Staggs,13,7,14,6,127,99,161,114,501,10.24 %,7.07 %,4,4
+2023,Brisbane Broncos,Herbie Farnworth,15,3,16,7,127,99,161,114,501,11.81 %,3.03 %,3,8
+2023,Brisbane Broncos,Reece Walsh,9,26,21,37,127,99,161,114,501,7.09 %,26.26 %,5,1
+2023,Brisbane Broncos,Brendan Piakura,2,1,6,0,127,99,161,114,501,1.57 %,1.01 %,10,10
+2023,North Queensland Cowboys,Riley Price,0,0,0,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Heilum Luki,3,3,4,3,93,78,122,94,387,3.23 %,3.85 %,8,6
+2023,North Queensland Cowboys,Tom Chester,3,0,2,0,93,78,122,94,387,3.23 %,0.00 %,8,9
+2023,North Queensland Cowboys,Griffin Neame,1,0,1,1,93,78,122,94,387,1.08 %,0.00 %,10,9
+2023,North Queensland Cowboys,Jeremiah Nanai,6,0,5,4,93,78,122,94,387,6.45 %,0.00 %,6,9
+2023,North Queensland Cowboys,Robert Derby,0,0,0,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Kulikefu Finefeuiaki,2,1,4,0,93,78,122,94,387,2.15 %,1.28 %,9,8
+2023,North Queensland Cowboys,Jack Gosiewski,2,0,1,0,93,78,122,94,387,2.15 %,0.00 %,9,9
+2023,North Queensland Cowboys,Brendan Elliot,0,0,1,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Jake Granville,0,2,1,1,93,78,122,94,387,0.00 %,2.56 %,11,7
+2023,North Queensland Cowboys,Kyle Feldt,13,1,16,0,93,78,122,94,387,13.98 %,1.28 %,1,8
+2023,North Queensland Cowboys,James Tamou,1,0,1,0,93,78,122,94,387,1.08 %,0.00 %,10,9
+2023,North Queensland Cowboys,Jason Taumalolo,0,0,1,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Coen Hess,2,1,1,3,93,78,122,94,387,2.15 %,1.28 %,9,8
+2023,North Queensland Cowboys,Luciano Leilua,2,0,0,4,93,78,122,94,387,2.15 %,0.00 %,9,9
+2023,North Queensland Cowboys,Peta Hiku,2,7,6,8,93,78,122,94,387,2.15 %,8.97 %,9,4
+2023,North Queensland Cowboys,Ben Hampton,0,0,0,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Jordan McLean,1,0,1,1,93,78,122,94,387,1.08 %,0.00 %,10,9
+2023,North Queensland Cowboys,Valentine Holmes,8,6,11,6,93,78,122,94,387,8.60 %,7.69 %,4,5
+2023,North Queensland Cowboys,Chad Townsend,2,12,1,10,93,78,122,94,387,2.15 %,15.38 %,9,2
+2023,North Queensland Cowboys,Mitchell Dunn,0,0,0,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Jamayne Taunoa-Brown,0,0,1,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Reece Robson,2,3,4,6,93,78,122,94,387,2.15 %,3.85 %,9,6
+2023,North Queensland Cowboys,Sam McIntyre,0,0,0,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Scott Drinkwater,11,25,14,31,93,78,122,94,387,11.83 %,32.05 %,2,1
+2023,North Queensland Cowboys,Gehamat Shibasaki,0,0,0,0,93,78,122,94,387,0.00 %,0.00 %,11,9
+2023,North Queensland Cowboys,Reuben Cotter,4,0,4,0,93,78,122,94,387,4.30 %,0.00 %,7,9
+2023,North Queensland Cowboys,Tom Dearden,7,10,13,10,93,78,122,94,387,7.53 %,12.82 %,5,3
+2023,North Queensland Cowboys,Murray Taulagi,9,6,18,4,93,78,122,94,387,9.68 %,7.69 %,3,5
+2023,North Queensland Cowboys,Semi Valemei,9,0,9,0,93,78,122,94,387,9.68 %,0.00 %,3,9
+2023,North Queensland Cowboys,Zac Laybutt,3,1,2,2,93,78,122,94,387,3.23 %,1.28 %,8,8
+2023,Canberra Raiders,Brad Schneider,0,0,0,0,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,Ata Mariota,1,0,1,0,83,62,104,72,321,1.20 %,0.00 %,7,9
+2023,Canberra Raiders,Utuloa Asomua,0,0,0,0,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,Adrian Trevilyan,0,0,0,0,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,Ethan Strange,0,0,0,0,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,James Schiller,2,0,2,0,83,62,104,72,321,2.41 %,0.00 %,6,9
+2023,Canberra Raiders,Jarrod Croker,3,4,5,4,83,62,104,72,321,3.61 %,6.45 %,5,5
+2023,Canberra Raiders,Jordan Rapana,11,8,14,9,83,62,104,72,321,13.25 %,12.90 %,1,2
+2023,Canberra Raiders,Jack Wighton,7,6,9,13,83,62,104,72,321,8.43 %,9.68 %,4,3
+2023,Canberra Raiders,Joseph Tapine,1,1,2,2,83,62,104,72,321,1.20 %,1.61 %,7,8
+2023,Canberra Raiders,Danny Levi,0,1,0,1,83,62,104,72,321,0.00 %,1.61 %,8,8
+2023,Canberra Raiders,Josh Papalii,2,0,2,1,83,62,104,72,321,2.41 %,0.00 %,6,9
+2023,Canberra Raiders,Jamal Fogarty,3,15,4,6,83,62,104,72,321,3.61 %,24.19 %,5,1
+2023,Canberra Raiders,Corey Harawira-Naera,0,1,0,1,83,62,104,72,321,0.00 %,1.61 %,8,8
+2023,Canberra Raiders,Matt Frawley,3,2,3,1,83,62,104,72,321,3.61 %,3.23 %,5,7
+2023,Canberra Raiders,Elliott Whitehead,3,3,2,7,83,62,104,72,321,3.61 %,4.84 %,5,6
+2023,Canberra Raiders,Zac Woolford,0,3,0,3,83,62,104,72,321,0.00 %,4.84 %,8,6
+2023,Canberra Raiders,Tom Starling,3,6,4,5,83,62,104,72,321,3.61 %,9.68 %,5,3
+2023,Canberra Raiders,Hudson Young,9,3,7,2,83,62,104,72,321,10.84 %,4.84 %,2,6
+2023,Canberra Raiders,Pasami Saulo,0,0,1,0,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,Nick Cotric,3,0,6,0,83,62,104,72,321,3.61 %,0.00 %,5,9
+2023,Canberra Raiders,Sebastian Kris,7,2,8,3,83,62,104,72,321,8.43 %,3.23 %,4,7
+2023,Canberra Raiders,Emre Guler,1,0,1,0,83,62,104,72,321,1.20 %,0.00 %,7,9
+2023,Canberra Raiders,Harley Smith-Shields,0,0,1,2,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,Albert Hopoate,8,1,11,1,83,62,104,72,321,9.64 %,1.61 %,3,8
+2023,Canberra Raiders,Corey Horsburgh,3,1,4,1,83,62,104,72,321,3.61 %,1.61 %,5,8
+2023,Canberra Raiders,Hohepa Puru,0,0,0,0,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,Trey Mooney,1,0,2,0,83,62,104,72,321,1.20 %,0.00 %,7,9
+2023,Canberra Raiders,Peter Hola,0,0,0,0,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,Brad Morkos,0,0,0,0,83,62,104,72,321,0.00 %,0.00 %,8,9
+2023,Canberra Raiders,Matthew Timoko,11,5,14,10,83,62,104,72,321,13.25 %,8.06 %,1,4
+2023,Canberra Raiders,Xavier Savage,1,0,1,0,83,62,104,72,321,1.20 %,0.00 %,7,9
+2023,Penrith Panthers,Jack Cole,0,0,0,0,125,103,149,108,485,0.00 %,0.00 %,11,11
+2023,Penrith Panthers,Jesse McLean,0,0,1,0,125,103,149,108,485,0.00 %,0.00 %,11,11
+2023,Penrith Panthers,Thomas Jenkins,5,2,6,1,125,103,149,108,485,4.00 %,1.94 %,7,9
+2023,Penrith Panthers,Liam Henry,0,0,0,0,125,103,149,108,485,0.00 %,0.00 %,11,11
+2023,Penrith Panthers,Isaah Yeo,4,2,4,4,125,103,149,108,485,3.20 %,1.94 %,8,9
+2023,Penrith Panthers,Scott Sorensen,4,6,9,9,125,103,149,108,485,3.20 %,5.83 %,8,6
+2023,Penrith Panthers,Tyrone Peachey,10,4,9,6,125,103,149,108,485,8.00 %,3.88 %,4,7
+2023,Penrith Panthers,Luke Garner,1,0,3,2,125,103,149,108,485,0.80 %,0.00 %,10,11
+2023,Penrith Panthers,Moses Leota,3,1,1,1,125,103,149,108,485,2.40 %,0.97 %,9,10
+2023,Penrith Panthers,James Fisher-Harris,0,1,2,0,125,103,149,108,485,0.00 %,0.97 %,11,10
+2023,Penrith Panthers,Jack Cogger,0,7,1,5,125,103,149,108,485,0.00 %,6.80 %,11,5
+2023,Penrith Panthers,Soni Luke,1,3,1,1,125,103,149,108,485,0.80 %,2.91 %,10,8
+2023,Penrith Panthers,Matthew Eisenhuth,0,0,0,0,125,103,149,108,485,0.00 %,0.00 %,11,11
+2023,Penrith Panthers,Dylan Edwards,12,6,12,13,125,103,149,108,485,9.60 %,5.83 %,3,6
+2023,Penrith Panthers,Nathan Cleary,8,20,10,18,125,103,149,108,485,6.40 %,19.42 %,5,1
+2023,Penrith Panthers,Jarome Luai,3,13,8,14,125,103,149,108,485,2.40 %,12.62 %,9,3
+2023,Penrith Panthers,Liam Martin,6,3,7,2,125,103,149,108,485,4.80 %,2.91 %,6,8
+2023,Penrith Panthers,Jaeman Salmon,4,1,4,1,125,103,149,108,485,3.20 %,0.97 %,8,10
+2023,Penrith Panthers,Brian To'o,21,1,24,2,125,103,149,108,485,16.80 %,0.97 %,1,10
+2023,Penrith Panthers,Mitchell Kenny,1,3,0,5,125,103,149,108,485,0.80 %,2.91 %,10,8
+2023,Penrith Panthers,Lindsay Smith,0,2,1,1,125,103,149,108,485,0.00 %,1.94 %,11,9
+2023,Penrith Panthers,Spencer Leniu,1,0,1,0,125,103,149,108,485,0.80 %,0.00 %,10,11
+2023,Penrith Panthers,Luke Sommerton,1,0,1,0,125,103,149,108,485,0.80 %,0.00 %,10,11
+2023,Penrith Panthers,Zac Hosking,3,3,4,3,125,103,149,108,485,2.40 %,2.91 %,9,8
+2023,Penrith Panthers,Stephen Crichton,15,15,12,14,125,103,149,108,485,12.00 %,14.56 %,2,2
+2023,Penrith Panthers,Sunia Turuva,12,2,17,0,125,103,149,108,485,9.60 %,1.94 %,3,9
+2023,Penrith Panthers,Izack Tago,10,8,11,6,125,103,149,108,485,8.00 %,7.77 %,4,4
+2023,Melbourne Storm,Trent Loiero,2,1,2,2,113,90,132,92,427,1.77 %,1.11 %,10,10
+2023,Melbourne Storm,Xavier Coates,16,3,11,0,113,90,132,92,427,14.16 %,3.33 %,2,8
+2023,Melbourne Storm,Cole Geyer,0,0,0,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Jack Howarth,0,0,0,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Sualauvi Faalogo,2,0,2,0,113,90,132,92,427,1.77 %,0.00 %,10,11
+2023,Melbourne Storm,Alec MacDonald,0,0,1,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Joe Chan,0,0,0,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Will Warbrick,17,1,20,1,113,90,132,92,427,15.04 %,1.11 %,1,10
+2023,Melbourne Storm,Bronson Garlick,1,1,2,1,113,90,132,92,427,0.88 %,1.11 %,11,10
+2023,Melbourne Storm,Tariq Sims,1,0,2,0,113,90,132,92,427,0.88 %,0.00 %,11,11
+2023,Melbourne Storm,Tom Eisenhuth,0,0,1,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,George Jennings,0,0,0,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Young Tonumaipea,3,1,5,6,113,90,132,92,427,2.65 %,1.11 %,9,10
+2023,Melbourne Storm,Christian Welch,2,0,2,0,113,90,132,92,427,1.77 %,0.00 %,10,11
+2023,Melbourne Storm,Jahrome Hughes,7,21,11,25,113,90,132,92,427,6.19 %,23.33 %,6,1
+2023,Melbourne Storm,Jordan Grant,0,0,0,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Tui Kamikamica,1,1,0,1,113,90,132,92,427,0.88 %,1.11 %,11,10
+2023,Melbourne Storm,Tepai Moeroa,0,0,1,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Aaron Pene,0,0,0,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Jayden Nikorima,0,2,0,2,113,90,132,92,427,0.00 %,2.22 %,12,9
+2023,Melbourne Storm,Josh King,3,1,2,2,113,90,132,92,427,2.65 %,1.11 %,9,10
+2023,Melbourne Storm,Nelson Asofa-Solomona,3,0,6,0,113,90,132,92,427,2.65 %,0.00 %,9,11
+2023,Melbourne Storm,Cameron Munster,8,15,13,6,113,90,132,92,427,7.08 %,16.67 %,5,2
+2023,Melbourne Storm,Marion Seve,3,2,5,1,113,90,132,92,427,2.65 %,2.22 %,9,9
+2023,Melbourne Storm,Chris Lewis,0,0,0,0,113,90,132,92,427,0.00 %,0.00 %,12,11
+2023,Melbourne Storm,Reimis Smith,5,6,4,10,113,90,132,92,427,4.42 %,6.67 %,8,5
+2023,Melbourne Storm,Ryan Papenhuyzen,1,1,0,0,113,90,132,92,427,0.88 %,1.11 %,11,10
+2023,Melbourne Storm,Nick Meaney,10,11,9,11,113,90,132,92,427,8.85 %,12.22 %,3,4
+2023,Melbourne Storm,Harry Grant,9,12,9,11,113,90,132,92,427,7.96 %,13.33 %,4,3
+2023,Melbourne Storm,Justin Olam,6,1,6,3,113,90,132,92,427,5.31 %,1.11 %,7,10
+2023,Melbourne Storm,Tyran Wishart,2,1,4,0,113,90,132,92,427,1.77 %,1.11 %,10,10
+2023,Melbourne Storm,Grant Anderson,2,0,1,1,113,90,132,92,427,1.77 %,0.00 %,10,11
+2023,Melbourne Storm,Kane Bradley,1,0,0,0,113,90,132,92,427,0.88 %,0.00 %,11,11
+2023,Melbourne Storm,Jonah Pezet,2,5,1,4,113,90,132,92,427,1.77 %,5.56 %,10,6
+2023,Melbourne Storm,Eliesa Katoa,6,4,12,5,113,90,132,92,427,5.31 %,4.44 %,7,7
+2023,St. George Illawarra Dragons,Sione Finau,0,0,0,0,85,66,104,75,330,0.00 %,0.00 %,10,9
+2023,St. George Illawarra Dragons,Ryan Couchman,0,0,0,0,85,66,104,75,330,0.00 %,0.00 %,10,9
+2023,St. George Illawarra Dragons,Toby Couchman,2,0,2,0,85,66,104,75,330,2.35 %,0.00 %,8,9
+2023,St. George Illawarra Dragons,Tautau Moga,6,0,6,0,85,66,104,75,330,7.06 %,0.00 %,5,9
+2023,St. George Illawarra Dragons,Zane Musgrove,1,0,1,0,85,66,104,75,330,1.18 %,0.00 %,9,9
+2023,St. George Illawarra Dragons,Moses Mbye,0,1,1,1,85,66,104,75,330,0.00 %,1.52 %,10,8
+2023,St. George Illawarra Dragons,Ben Hunt,8,19,7,17,85,66,104,75,330,9.41 %,28.79 %,3,1
+2023,St. George Illawarra Dragons,Francis Molo,2,0,1,1,85,66,104,75,330,2.35 %,0.00 %,8,9
+2023,St. George Illawarra Dragons,Jack Bird,2,3,0,5,85,66,104,75,330,2.35 %,4.55 %,8,6
+2023,St. George Illawarra Dragons,Jack de Belin,1,1,2,2,85,66,104,75,330,1.18 %,1.52 %,9,8
+2023,St. George Illawarra Dragons,Ben Murdoch-Masila,0,0,2,2,85,66,104,75,330,0.00 %,0.00 %,10,9
+2023,St. George Illawarra Dragons,Aaron Woods,0,0,0,0,85,66,104,75,330,0.00 %,0.00 %,10,9
+2023,St. George Illawarra Dragons,Blake Lawrie,2,1,2,1,85,66,104,75,330,2.35 %,1.52 %,8,8
+2023,St. George Illawarra Dragons,Jacob Liddle,3,4,7,5,85,66,104,75,330,3.53 %,6.06 %,7,5
+2023,St. George Illawarra Dragons,Jaydn Su'A,4,2,3,2,85,66,104,75,330,4.71 %,3.03 %,6,7
+2023,St. George Illawarra Dragons,Josh Kerr,0,0,1,1,85,66,104,75,330,0.00 %,0.00 %,10,9
+2023,St. George Illawarra Dragons,Moses Suli,2,6,5,9,85,66,104,75,330,2.35 %,9.09 %,8,4
+2023,St. George Illawarra Dragons,Michael Molo,1,0,1,0,85,66,104,75,330,1.18 %,0.00 %,9,9
+2023,St. George Illawarra Dragons,Zac Lomax,7,7,4,9,85,66,104,75,330,8.24 %,10.61 %,4,3
+2023,St. George Illawarra Dragons,Dan Russell,0,1,1,0,85,66,104,75,330,0.00 %,1.52 %,10,8
+2023,St. George Illawarra Dragons,Billy Burns,3,2,2,1,85,66,104,75,330,3.53 %,3.03 %,7,7
+2023,St. George Illawarra Dragons,Paul Turner,0,0,0,0,85,66,104,75,330,0.00 %,0.00 %,10,9
+2023,St. George Illawarra Dragons,Connor Muhleisen,0,0,0,0,85,66,104,75,330,0.00 %,0.00 %,10,9
+2023,St. George Illawarra Dragons,Jaiyden Hunt,1,0,0,0,85,66,104,75,330,1.18 %,0.00 %,9,9
+2023,St. George Illawarra Dragons,Max Feagai,1,1,1,2,85,66,104,75,330,1.18 %,1.52 %,9,8
+2023,St. George Illawarra Dragons,Mathew Feagai,4,2,8,1,85,66,104,75,330,4.71 %,3.03 %,6,7
+2023,St. George Illawarra Dragons,Jayden Sullivan,3,1,4,4,85,66,104,75,330,3.53 %,1.52 %,7,8
+2023,St. George Illawarra Dragons,Mikaele Ravalawa,21,0,24,0,85,66,104,75,330,24.71 %,0.00 %,1,9
+2023,St. George Illawarra Dragons,Tyrell Sloan,10,8,16,6,85,66,104,75,330,11.76 %,12.12 %,2,2
+2023,St. George Illawarra Dragons,Junior Amone,1,7,3,6,85,66,104,75,330,1.18 %,10.61 %,9,3
+2023,Wests Tigers,Fonua Pole,4,0,2,0,66,52,99,62,279,6.06 %,0.00 %,4,6
+2023,Wests Tigers,Josh Feledy,0,0,0,0,66,52,99,62,279,0.00 %,0.00 %,8,6
+2023,Wests Tigers,Tallyn Da Silva,0,0,1,0,66,52,99,62,279,0.00 %,0.00 %,8,6
+2023,Wests Tigers,Kit Laulilii,0,0,0,0,66,52,99,62,279,0.00 %,0.00 %,8,6
+2023,Wests Tigers,Aitasi James,0,0,0,0,66,52,99,62,279,0.00 %,0.00 %,8,6
+2023,Wests Tigers,Jahream Bula,5,7,7,9,66,52,99,62,279,7.58 %,13.46 %,3,1
+2023,Wests Tigers,Triston Reilly,1,0,2,0,66,52,99,62,279,1.52 %,0.00 %,7,6
+2023,Wests Tigers,Apisai Koroisau,6,7,5,6,66,52,99,62,279,9.09 %,13.46 %,2,1
+2023,Wests Tigers,David Klemmer,1,0,2,0,66,52,99,62,279,1.52 %,0.00 %,7,6
+2023,Wests Tigers,Joe Ofahengaue,1,0,1,0,66,52,99,62,279,1.52 %,0.00 %,7,6
+2023,Wests Tigers,Luke Brooks,3,7,7,1,66,52,99,62,279,4.55 %,13.46 %,5,1
+2023,Wests Tigers,David Nofoaluma,5,1,6,1,66,52,99,62,279,7.58 %,1.92 %,3,5
+2023,Wests Tigers,Brent Naden,2,2,3,1,66,52,99,62,279,3.03 %,3.85 %,6,4
+2023,Wests Tigers,Will Smith,0,1,0,1,66,52,99,62,279,0.00 %,1.92 %,8,5
+2023,Wests Tigers,John Bateman,2,1,2,3,66,52,99,62,279,3.03 %,1.92 %,6,5
+2023,Wests Tigers,Alex Twal,1,0,1,0,66,52,99,62,279,1.52 %,0.00 %,7,6
+2023,Wests Tigers,Brandon Wakeham,2,7,2,7,66,52,99,62,279,3.03 %,13.46 %,6,1
+2023,Wests Tigers,Alex Seyfarth,1,1,1,1,66,52,99,62,279,1.52 %,1.92 %,7,5
+2023,Wests Tigers,Shawn Blore,1,0,4,0,66,52,99,62,279,1.52 %,0.00 %,7,6
+2023,Wests Tigers,Stefano Utoikamanu,2,1,3,0,66,52,99,62,279,3.03 %,1.92 %,6,5
+2023,Wests Tigers,Tommy Talau,1,3,1,3,66,52,99,62,279,1.52 %,5.77 %,7,3
+2023,Wests Tigers,Adam Doueihi,1,1,2,1,66,52,99,62,279,1.52 %,1.92 %,7,5
+2023,Wests Tigers,Isaiah Papali'i,2,2,3,2,66,52,99,62,279,3.03 %,3.85 %,6,4
+2023,Wests Tigers,Daine Laurie,2,5,5,8,66,52,99,62,279,3.03 %,9.62 %,6,2
+2023,Wests Tigers,Junior Tupou,6,2,17,3,66,52,99,62,279,9.09 %,3.85 %,2,4
+2023,Wests Tigers,Jake Simpkin,2,1,4,2,66,52,99,62,279,3.03 %,1.92 %,6,5
+2023,Wests Tigers,Starford To'a,7,2,10,4,66,52,99,62,279,10.61 %,3.85 %,1,4
+2023,Wests Tigers,Charlie Staines,3,1,2,3,66,52,99,62,279,4.55 %,1.92 %,5,5
+2023,Wests Tigers,Brandon Tumeth,0,0,0,0,66,52,99,62,279,0.00 %,0.00 %,8,6
+2023,Wests Tigers,Justin Matamua,0,0,0,0,66,52,99,62,279,0.00 %,0.00 %,8,6
+2023,Wests Tigers,Asu Kepaoa,5,0,6,6,66,52,99,62,279,7.58 %,0.00 %,3,6
+2023,Cronulla-Sutherland Sharks,Jesse Colquhoun,0,0,0,0,109,99,146,114,468,0.00 %,0.00 %,12,11
+2023,Cronulla-Sutherland Sharks,Daniel Atkinson,0,0,0,0,109,99,146,114,468,0.00 %,0.00 %,12,11
+2023,Cronulla-Sutherland Sharks,Royce Hunt,3,0,3,0,109,99,146,114,468,2.75 %,0.00 %,9,11
+2023,Cronulla-Sutherland Sharks,Cameron McInnes,3,0,4,2,109,99,146,114,468,2.75 %,0.00 %,9,11
+2023,Cronulla-Sutherland Sharks,Braden Uele,1,0,3,0,109,99,146,114,468,0.92 %,0.00 %,11,11
+2023,Cronulla-Sutherland Sharks,Dale Finucane,0,0,0,0,109,99,146,114,468,0.00 %,0.00 %,12,11
+2023,Cronulla-Sutherland Sharks,Matt Moylan,2,12,3,8,109,99,146,114,468,1.83 %,12.12 %,10,3
+2023,Cronulla-Sutherland Sharks,Wade Graham,2,1,1,1,109,99,146,114,468,1.83 %,1.01 %,10,10
+2023,Cronulla-Sutherland Sharks,Connor Tracey,3,2,3,6,109,99,146,114,468,2.75 %,2.02 %,9,9
+2023,Cronulla-Sutherland Sharks,Jesse Ramien,11,6,9,10,109,99,146,114,468,10.09 %,6.06 %,4,6
+2023,Cronulla-Sutherland Sharks,Jack Williams,2,0,5,0,109,99,146,114,468,1.83 %,0.00 %,10,11
+2023,Cronulla-Sutherland Sharks,Nicho Hynes,5,28,7,33,109,99,146,114,468,4.59 %,28.28 %,7,1
+2023,Cronulla-Sutherland Sharks,Sione Katoa,13,1,20,2,109,99,146,114,468,11.93 %,1.01 %,3,10
+2023,Cronulla-Sutherland Sharks,Siosifa Talakai,5,17,8,24,109,99,146,114,468,4.59 %,17.17 %,7,2
+2023,Cronulla-Sutherland Sharks,Blayke Brailey,1,10,2,9,109,99,146,114,468,0.92 %,10.10 %,11,4
+2023,Cronulla-Sutherland Sharks,William Kennedy,14,7,13,6,109,99,146,114,468,12.84 %,7.07 %,2,5
+2023,Cronulla-Sutherland Sharks,Braydon Trindall,4,6,1,6,109,99,146,114,468,3.67 %,6.06 %,8,6
+2023,Cronulla-Sutherland Sharks,Toby Rudolf,1,0,2,0,109,99,146,114,468,0.92 %,0.00 %,11,11
+2023,Cronulla-Sutherland Sharks,Oregon Kaufusi,0,0,0,0,109,99,146,114,468,0.00 %,0.00 %,12,11
+2023,Cronulla-Sutherland Sharks,Mawene Hiroti,1,0,1,0,109,99,146,114,468,0.92 %,0.00 %,11,11
+2023,Cronulla-Sutherland Sharks,Ronaldo Mulitalo,21,5,33,1,109,99,146,114,468,19.27 %,5.05 %,1,7
+2023,Cronulla-Sutherland Sharks,Briton Nikora,8,4,18,5,109,99,146,114,468,7.34 %,4.04 %,5,8
+2023,Cronulla-Sutherland Sharks,Teig Wilton,6,0,5,1,109,99,146,114,468,5.50 %,0.00 %,6,11
+2023,Cronulla-Sutherland Sharks,Kayal Iro,0,0,0,0,109,99,146,114,468,0.00 %,0.00 %,12,11
+2023,Cronulla-Sutherland Sharks,Samuel Stonestreet,0,0,0,0,109,99,146,114,468,0.00 %,0.00 %,12,11
+2023,Cronulla-Sutherland Sharks,Tuku Hau Tapuha,0,0,0,0,109,99,146,114,468,0.00 %,0.00 %,12,11
+2023,Cronulla-Sutherland Sharks,Thomas Hazelton,3,0,5,0,109,99,146,114,468,2.75 %,0.00 %,9,11
+2023,Parramatta Eels,Arthur Miller-Stephen,1,0,1,0,103,86,129,96,414,0.97 %,0.00 %,9,9
+2023,Parramatta Eels,Shaun Lane,1,0,1,0,103,86,129,96,414,0.97 %,0.00 %,9,9
+2023,Parramatta Eels,Joe Ofahengaue,0,0,0,0,103,86,129,96,414,0.00 %,0.00 %,10,9
+2023,Parramatta Eels,Mitchell Moses,7,15,10,11,103,86,129,96,414,6.80 %,17.44 %,5,1
+2023,Parramatta Eels,Waqa Blake,0,2,1,1,103,86,129,96,414,0.00 %,2.33 %,10,7
+2023,Parramatta Eels,Reagan Campbell-Gillard,3,0,3,0,103,86,129,96,414,2.91 %,0.00 %,7,9
+2023,Parramatta Eels,Bryce Cartwright,7,4,7,9,103,86,129,96,414,6.80 %,4.65 %,5,6
+2023,Parramatta Eels,Junior Paulo,3,1,3,4,103,86,129,96,414,2.91 %,1.16 %,7,8
+2023,Parramatta Eels,Clinton Gutherson,19,14,15,17,103,86,129,96,414,18.45 %,16.28 %,2,2
+2023,Parramatta Eels,Joey Lussick,0,0,0,0,103,86,129,96,414,0.00 %,0.00 %,10,9
+2023,Parramatta Eels,Ryan Matterson,0,5,1,4,103,86,129,96,414,0.00 %,5.81 %,10,5
+2023,Parramatta Eels,Makahesi Makatoa,1,0,0,0,103,86,129,96,414,0.97 %,0.00 %,9,9
+2023,Parramatta Eels,Ofahiki Ogden,1,0,2,0,103,86,129,96,414,0.97 %,0.00 %,9,9
+2023,Parramatta Eels,Josh Hodgson,1,1,1,1,103,86,129,96,414,0.97 %,1.16 %,9,8
+2023,Parramatta Eels,Bailey Simonsson,9,8,9,9,103,86,129,96,414,8.74 %,9.30 %,3,3
+2023,Parramatta Eels,Haze Dunster,0,0,1,0,103,86,129,96,414,0.00 %,0.00 %,10,9
+2023,Parramatta Eels,Brendan Hands,1,1,2,3,103,86,129,96,414,0.97 %,1.16 %,9,8
+2023,Parramatta Eels,Jack Murchie,0,0,0,0,103,86,129,96,414,0.00 %,0.00 %,10,9
+2023,Parramatta Eels,Isaac Lumelume,0,0,0,0,103,86,129,96,414,0.00 %,0.00 %,10,9
+2023,Parramatta Eels,Dylan Brown,3,15,8,13,103,86,129,96,414,2.91 %,17.44 %,7,1
+2023,Parramatta Eels,Matt Doorey,1,0,1,0,103,86,129,96,414,0.97 %,0.00 %,9,9
+2023,Parramatta Eels,Luca Moretti,1,0,1,0,103,86,129,96,414,0.97 %,0.00 %,9,9
+2023,Parramatta Eels,Andrew Davey,2,0,1,1,103,86,129,96,414,1.94 %,0.00 %,8,9
+2023,Parramatta Eels,Daejarn Asi,0,7,4,5,103,86,129,96,414,0.00 %,8.14 %,10,4
+2023,Parramatta Eels,J'maine Hopgood,4,4,4,5,103,86,129,96,414,3.88 %,4.65 %,6,6
+2023,Parramatta Eels,Will Penisini,8,8,15,12,103,86,129,96,414,7.77 %,9.30 %,4,3
+2023,Parramatta Eels,Jirah Momoisea,0,0,0,0,103,86,129,96,414,0.00 %,0.00 %,10,9
+2023,Parramatta Eels,Wiremu Greig,1,0,2,0,103,86,129,96,414,0.97 %,0.00 %,9,9
+2023,Parramatta Eels,Maika Sivo,20,1,24,1,103,86,129,96,414,19.42 %,1.16 %,1,8
+2023,Parramatta Eels,Sean Russell,9,0,12,0,103,86,129,96,414,8.74 %,0.00 %,3,9
+2023,Parramatta Eels,Jakob Arthur,0,0,0,0,103,86,129,96,414,0.00 %,0.00 %,10,9
+2023,Warriors,Ronald Volkman,1,0,0,0,111,91,146,117,465,0.90 %,0.00 %,11,9
+2023,Warriors,Ali Leiataua,0,0,1,1,111,91,146,117,465,0.00 %,0.00 %,12,9
+2023,Warriors,Viliami Vailea,1,1,1,2,111,91,146,117,465,0.90 %,1.10 %,11,8
+2023,Warriors,Rocco Berry,3,8,4,10,111,91,146,117,465,2.70 %,8.79 %,9,3
+2023,Warriors,Jacob Laban,0,0,0,0,111,91,146,117,465,0.00 %,0.00 %,12,9
+2023,Warriors,Demitric Sifakula,0,0,0,0,111,91,146,117,465,0.00 %,0.00 %,12,9
+2023,Warriors,Dylan Walker,3,4,4,9,111,91,146,117,465,2.70 %,4.40 %,9,5
+2023,Warriors,Addin Fonua-Blake,9,2,10,2,111,91,146,117,465,8.11 %,2.20 %,3,7
+2023,Warriors,Dallin Watene-Zelezniak,24,4,25,1,111,91,146,117,465,21.62 %,4.40 %,1,5
+2023,Warriors,Tohu Harris,3,4,4,7,111,91,146,117,465,2.70 %,4.40 %,9,5
+2023,Warriors,Shaun Johnson,8,29,10,26,111,91,146,117,465,7.21 %,31.87 %,4,1
+2023,Warriors,Brayden Wiliame,0,1,1,0,111,91,146,117,465,0.00 %,1.10 %,12,8
+2023,Warriors,Mitchell Barnett,2,1,6,1,111,91,146,117,465,1.80 %,1.10 %,10,8
+2023,Warriors,Te Maire Martin,0,2,1,6,111,91,146,117,465,0.00 %,2.20 %,12,7
+2023,Warriors,Jazz Tevaga,1,0,1,0,111,91,146,117,465,0.90 %,0.00 %,11,9
+2023,Warriors,Charnze Nicoll-Klokstad,7,8,8,11,111,91,146,117,465,6.31 %,8.79 %,5,3
+2023,Warriors,Bunty Afoa,1,0,1,0,111,91,146,117,465,0.90 %,0.00 %,11,9
+2023,Warriors,Marcelo Montoya,11,1,18,1,111,91,146,117,465,9.91 %,1.10 %,2,8
+2023,Warriors,Marata Niukore,3,2,6,1,111,91,146,117,465,2.70 %,2.20 %,9,7
+2023,Warriors,Bayley Sironen,2,2,1,3,111,91,146,117,465,1.80 %,2.20 %,10,7
+2023,Warriors,Wayde Egan,6,5,6,9,111,91,146,117,465,5.41 %,5.49 %,6,4
+2023,Warriors,Kalani Going,0,0,0,0,111,91,146,117,465,0.00 %,0.00 %,12,9
+2023,Warriors,Luke Metcalf,6,3,6,6,111,91,146,117,465,5.41 %,3.30 %,6,6
+2023,Warriors,Josh Curran,4,1,7,1,111,91,146,117,465,3.60 %,1.10 %,8,8
+2023,Warriors,Freddy Lussick,1,1,1,1,111,91,146,117,465,0.90 %,1.10 %,11,8
+2023,Warriors,Jackson Ford,4,0,9,0,111,91,146,117,465,3.60 %,0.00 %,8,9
+2023,Warriors,Paul Roache,0,0,0,0,111,91,146,117,465,0.00 %,0.00 %,12,9
+2023,Warriors,Adam Pompey,5,11,9,18,111,91,146,117,465,4.50 %,12.09 %,7,2
+2023,Warriors,Taine Tuaupiki,0,1,0,1,111,91,146,117,465,0.00 %,1.10 %,12,8
+2023,Warriors,Edward Kosi,5,0,5,0,111,91,146,117,465,4.50 %,0.00 %,7,9
+2023,Warriors,Tom Ale,1,0,1,0,111,91,146,117,465,0.90 %,0.00 %,11,9
+2023,Dolphins,Hamiso Tabuai-Fidow,15,4,11,10,92,71,124,94,381,16.30 %,5.63 %,2,4
+2023,Dolphins,Max Plath,1,0,2,0,92,71,124,94,381,1.09 %,0.00 %,9,8
+2023,Dolphins,Mason Teague,0,0,0,0,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,Kurt Donoghoe,0,0,0,0,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,Isaiya Katoa,2,8,2,8,92,71,124,94,381,2.17 %,11.27 %,8,2
+2023,Dolphins,Jack Bostock,2,0,1,0,92,71,124,94,381,2.17 %,0.00 %,8,8
+2023,Dolphins,Valynce Te Whare,6,1,9,1,92,71,124,94,381,6.52 %,1.41 %,4,7
+2023,Dolphins,Herman Ese'ese,0,0,1,0,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,Kodi Nikorima,4,18,13,27,92,71,124,94,381,4.35 %,25.35 %,6,1
+2023,Dolphins,Jarrod Wallace,3,3,4,7,92,71,124,94,381,3.26 %,4.23 %,7,5
+2023,Dolphins,Brenko Lee,0,4,0,4,92,71,124,94,381,0.00 %,5.63 %,10,4
+2023,Dolphins,Edrick Lee,0,0,0,0,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,Anthony Milford,3,5,2,5,92,71,124,94,381,3.26 %,7.04 %,7,3
+2023,Dolphins,Mark Nicholls,3,0,3,2,92,71,124,94,381,3.26 %,0.00 %,7,8
+2023,Dolphins,Euan Aitken,4,5,7,7,92,71,124,94,381,4.35 %,7.04 %,6,3
+2023,Dolphins,Jesse Bromwich,1,1,1,1,92,71,124,94,381,1.09 %,1.41 %,9,7
+2023,Dolphins,Kenneath Bromwich,2,0,1,2,92,71,124,94,381,2.17 %,0.00 %,8,8
+2023,Dolphins,Felise Kaufusi,0,0,2,3,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,Robert Jennings,2,0,1,0,92,71,124,94,381,2.17 %,0.00 %,8,8
+2023,Dolphins,Jamayne Isaako,24,3,30,1,92,71,124,94,381,26.09 %,4.23 %,1,5
+2023,Dolphins,Jeremy Marshall-King,2,8,5,8,92,71,124,94,381,2.17 %,11.27 %,8,2
+2023,Dolphins,Poasa Faamausili,0,0,0,0,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,JJ Felise,0,0,0,0,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,Josh Kerr,0,0,0,0,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,Ray Stone,1,1,2,1,92,71,124,94,381,1.09 %,1.41 %,9,7
+2023,Dolphins,Sean O'Sullivan,1,8,2,5,92,71,124,94,381,1.09 %,11.27 %,9,2
+2023,Dolphins,Brayden McGrady,1,0,1,0,92,71,124,94,381,1.09 %,0.00 %,9,8
+2023,Dolphins,Tom Gilbert,2,0,1,1,92,71,124,94,381,2.17 %,0.00 %,8,8
+2023,Dolphins,Harrison Graham,0,0,1,0,92,71,124,94,381,0.00 %,0.00 %,10,8
+2023,Dolphins,Tesi Niu,5,2,9,1,92,71,124,94,381,5.43 %,2.82 %,5,6
+2023,Dolphins,Connelly Lemuelu,7,0,11,0,92,71,124,94,381,7.61 %,0.00 %,3,8
+2023,Dolphins,Trai Fuller,1,0,2,0,92,71,124,94,381,1.09 %,0.00 %,9,8
+2024,Sydney Roosters,Siua Wong,0,0,1,1,141,128,167,136,572,0.00 %,0.00 %,13,11
+2024,Sydney Roosters,Sam Walker,7,21,3,16,141,128,167,136,572,4.96 %,16.41 %,6,2
+2024,Sydney Roosters,Naufahu Whyte,1,1,2,1,141,128,167,136,572,0.71 %,0.78 %,12,10
+2024,Sydney Roosters,Blake Steep,1,0,1,0,141,128,167,136,572,0.71 %,0.00 %,12,11
+2024,Sydney Roosters,Dominic Young,20,4,26,2,141,128,167,136,572,14.18 %,3.12 %,2,7
+2024,Sydney Roosters,De La Salle Va'a,0,0,0,0,141,128,167,136,572,0.00 %,0.00 %,13,11
+2024,Sydney Roosters,Ethan King,0,0,0,0,141,128,167,136,572,0.00 %,0.00 %,13,11
+2024,Sydney Roosters,Mark Nawaqanitawase,1,0,0,0,141,128,167,136,572,0.71 %,0.00 %,12,11
+2024,Sydney Roosters,Daniel Tupou,21,6,31,5,141,128,167,136,572,14.89 %,4.69 %,1,5
+2024,Sydney Roosters,Michael Jennings,3,3,3,5,141,128,167,136,572,2.13 %,2.34 %,10,8
+2024,Sydney Roosters,Jared Waerea-Hargreaves,0,0,0,0,141,128,167,136,572,0.00 %,0.00 %,13,11
+2024,Sydney Roosters,Luke Keary,4,21,4,12,141,128,167,136,572,2.84 %,16.41 %,9,2
+2024,Sydney Roosters,James Tedesco,17,24,24,31,141,128,167,136,572,12.06 %,18.75 %,3,1
+2024,Sydney Roosters,Zach Dockar-Clay,0,0,1,0,141,128,167,136,572,0.00 %,0.00 %,13,11
+2024,Sydney Roosters,Lindsay Collins,1,2,1,1,141,128,167,136,572,0.71 %,1.56 %,12,9
+2024,Sydney Roosters,Joseph Manu,10,9,10,14,141,128,167,136,572,7.09 %,7.03 %,5,4
+2024,Sydney Roosters,Angus Crichton,11,6,7,9,141,128,167,136,572,7.80 %,4.69 %,4,5
+2024,Sydney Roosters,Connor Watson,2,3,3,10,141,128,167,136,572,1.42 %,2.34 %,11,8
+2024,Sydney Roosters,Brandon Smith,2,2,3,3,141,128,167,136,572,1.42 %,1.56 %,11,9
+2024,Sydney Roosters,Nat Butcher,4,2,6,1,141,128,167,136,572,2.84 %,1.56 %,9,9
+2024,Sydney Roosters,Victor Radley,7,1,7,1,141,128,167,136,572,4.96 %,0.78 %,6,10
+2024,Sydney Roosters,Junior Pauga,7,0,7,0,141,128,167,136,572,4.96 %,0.00 %,6,11
+2024,Sydney Roosters,Egan Butcher,2,1,1,1,141,128,167,136,572,1.42 %,0.78 %,11,10
+2024,Sydney Roosters,Sitili Tupouniua,7,6,8,5,141,128,167,136,572,4.96 %,4.69 %,6,5
+2024,Sydney Roosters,Spencer Leniu,1,0,2,1,141,128,167,136,572,0.71 %,0.00 %,12,11
+2024,Sydney Roosters,Terrell May,6,1,6,4,141,128,167,136,572,4.26 %,0.78 %,7,10
+2024,Sydney Roosters,Joseph Suaalii,5,10,9,9,141,128,167,136,572,3.55 %,7.81 %,8,3
+2024,Sydney Roosters,Sandon Smith,1,5,1,4,141,128,167,136,572,0.71 %,3.91 %,12,6
+2024,Manly-Warringah Sea Eagles,Clayton Faulalo,2,0,0,1,118,96,138,105,457,1.69 %,0.00 %,11,9
+2024,Manly-Warringah Sea Eagles,Raymond Tuaimalo Vaega,1,0,3,0,118,96,138,105,457,0.85 %,0.00 %,12,9
+2024,Manly-Warringah Sea Eagles,Jamie Humphreys,1,0,1,0,118,96,138,105,457,0.85 %,0.00 %,12,9
+2024,Manly-Warringah Sea Eagles,Aitasi James,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Lehi Hopoate,9,6,10,2,118,96,138,105,457,7.63 %,6.25 %,5,4
+2024,Manly-Warringah Sea Eagles,Daly Cherry-Evans,8,17,3,19,118,96,138,105,457,6.78 %,17.71 %,6,1
+2024,Manly-Warringah Sea Eagles,Matthew Lodge,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Luke Brooks,5,17,8,19,118,96,138,105,457,4.24 %,17.71 %,9,1
+2024,Manly-Warringah Sea Eagles,Nathan Brown,0,0,0,2,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Aaron Woods,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Jake Trbojevic,2,2,2,1,118,96,138,105,457,1.69 %,2.08 %,11,7
+2024,Manly-Warringah Sea Eagles,Josh Aloiai,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Toafofoa Sipley,1,0,1,0,118,96,138,105,457,0.85 %,0.00 %,12,9
+2024,Manly-Warringah Sea Eagles,Tom Trbojevic,17,17,16,19,118,96,138,105,457,14.41 %,17.71 %,2,1
+2024,Manly-Warringah Sea Eagles,Lachlan Croker,2,1,1,1,118,96,138,105,457,1.69 %,1.04 %,11,8
+2024,Manly-Warringah Sea Eagles,Karl Lawton,1,1,5,0,118,96,138,105,457,0.85 %,1.04 %,12,8
+2024,Manly-Warringah Sea Eagles,Corey Waddell,3,0,3,1,118,96,138,105,457,2.54 %,0.00 %,10,9
+2024,Manly-Warringah Sea Eagles,Reuben Garrick,10,8,12,11,118,96,138,105,457,8.47 %,8.33 %,4,2
+2024,Manly-Warringah Sea Eagles,Dean Matterson,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Taniela Paseka,1,0,2,0,118,96,138,105,457,0.85 %,0.00 %,12,9
+2024,Manly-Warringah Sea Eagles,Aaron Schoupp,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Tommy Talau,18,5,17,2,118,96,138,105,457,15.25 %,5.21 %,1,5
+2024,Manly-Warringah Sea Eagles,Ethan Bullemor,3,1,4,1,118,96,138,105,457,2.54 %,1.04 %,10,8
+2024,Manly-Warringah Sea Eagles,Jaxson Paulo,2,0,2,0,118,96,138,105,457,1.69 %,0.00 %,11,9
+2024,Manly-Warringah Sea Eagles,Ben Condon,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Jason Saab,12,5,22,1,118,96,138,105,457,10.17 %,5.21 %,3,5
+2024,Manly-Warringah Sea Eagles,Ben Trbojevic,6,4,5,6,118,96,138,105,457,5.08 %,4.17 %,8,6
+2024,Manly-Warringah Sea Eagles,Haumole Olakau'atu,7,5,11,8,118,96,138,105,457,5.93 %,5.21 %,7,5
+2024,Manly-Warringah Sea Eagles,Gordon Chan Kum Tong,0,0,1,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Jake Simpkin,0,0,0,1,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Caleb Navale,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Manly-Warringah Sea Eagles,Tolutau Koula,7,7,9,10,118,96,138,105,457,5.93 %,7.29 %,7,3
+2024,Manly-Warringah Sea Eagles,Jakob Arthur,0,0,0,0,118,96,138,105,457,0.00 %,0.00 %,13,9
+2024,Newcastle Knights,David Armstrong,5,1,4,1,83,66,107,75,331,6.02 %,1.52 %,4,9
+2024,Newcastle Knights,Fletcher Sharpe,11,0,9,1,83,66,107,75,331,13.25 %,0.00 %,1,10
+2024,Newcastle Knights,Kyle McCarthy,0,0,0,0,83,66,107,75,331,0.00 %,0.00 %,9,10
+2024,Newcastle Knights,Leo Thompson,1,1,2,2,83,66,107,75,331,1.20 %,1.52 %,8,9
+2024,Newcastle Knights,Thomas Jenkins,0,0,0,0,83,66,107,75,331,0.00 %,0.00 %,9,10
+2024,Newcastle Knights,Kai Pearce-Paul,1,2,3,2,83,66,107,75,331,1.20 %,3.03 %,8,8
+2024,Newcastle Knights,Will Pryce,1,0,2,0,83,66,107,75,331,1.20 %,0.00 %,8,10
+2024,Newcastle Knights,Sebastian Su'a,0,0,0,0,83,66,107,75,331,0.00 %,0.00 %,9,10
+2024,Newcastle Knights,Dane Gagai,8,6,16,5,83,66,107,75,331,9.64 %,9.09 %,2,4
+2024,Newcastle Knights,Adam Elliott,4,3,4,4,83,66,107,75,331,4.82 %,4.55 %,5,7
+2024,Newcastle Knights,Jackson Hastings,3,12,2,13,83,66,107,75,331,3.61 %,18.18 %,6,1
+2024,Newcastle Knights,Tyson Frizell,5,0,4,0,83,66,107,75,331,6.02 %,0.00 %,4,10
+2024,Newcastle Knights,Jayden Brailey,1,1,0,2,83,66,107,75,331,1.20 %,1.52 %,8,9
+2024,Newcastle Knights,Jack Cogger,2,5,1,8,83,66,107,75,331,2.41 %,7.58 %,7,5
+2024,Newcastle Knights,Jack Hetherington,1,1,2,1,83,66,107,75,331,1.20 %,1.52 %,8,9
+2024,Newcastle Knights,Jacob Saifiti,1,1,1,0,83,66,107,75,331,1.20 %,1.52 %,8,9
+2024,Newcastle Knights,Jed Cartwright,0,0,0,0,83,66,107,75,331,0.00 %,0.00 %,9,10
+2024,Newcastle Knights,Daniel Saifiti,3,1,2,1,83,66,107,75,331,3.61 %,1.52 %,6,9
+2024,Newcastle Knights,Brodie Jones,2,1,1,1,83,66,107,75,331,2.41 %,1.52 %,7,9
+2024,Newcastle Knights,Matt Croker,1,0,2,0,83,66,107,75,331,1.20 %,0.00 %,8,10
+2024,Newcastle Knights,Greg Marzhew,7,0,7,3,83,66,107,75,331,8.43 %,0.00 %,3,10
+2024,Newcastle Knights,Enari Tuala,5,1,7,0,83,66,107,75,331,6.02 %,1.52 %,4,9
+2024,Newcastle Knights,Phoenix Crossland,1,4,2,5,83,66,107,75,331,1.20 %,6.06 %,8,6
+2024,Newcastle Knights,Kalyn Ponga,3,11,17,12,83,66,107,75,331,3.61 %,16.67 %,6,2
+2024,Newcastle Knights,Dylan Lucas,7,1,9,1,83,66,107,75,331,8.43 %,1.52 %,3,9
+2024,Newcastle Knights,Bradman Best,7,6,10,5,83,66,107,75,331,8.43 %,9.09 %,3,4
+2024,Newcastle Knights,Tyson Gamble,2,8,0,8,83,66,107,75,331,2.41 %,12.12 %,7,3
+2024,Newcastle Knights,Krystian Mapapalangi,1,0,0,0,83,66,107,75,331,1.20 %,0.00 %,8,10
+2024,Newcastle Knights,Thomas Cant,0,0,0,0,83,66,107,75,331,0.00 %,0.00 %,9,10
+2024,Gold Coast Titans,Chris Randall,3,4,4,3,89,70,120,86,365,3.37 %,5.71 %,6,5
+2024,Gold Coast Titans,Alofiana Khan-Pereira,24,1,27,2,89,70,120,86,365,26.97 %,1.43 %,1,8
+2024,Gold Coast Titans,Jayden Campbell,5,11,4,10,89,70,120,86,365,5.62 %,15.71 %,4,2
+2024,Gold Coast Titans,Jaylan De Groot,1,0,0,0,89,70,120,86,365,1.12 %,0.00 %,8,9
+2024,Gold Coast Titans,Tom Weaver,0,2,0,0,89,70,120,86,365,0.00 %,2.86 %,9,7
+2024,Gold Coast Titans,Iszac Fa'asuamaleaui,0,0,0,0,89,70,120,86,365,0.00 %,0.00 %,9,9
+2024,Gold Coast Titans,Sosefo Fifita,10,4,16,2,89,70,120,86,365,11.24 %,5.71 %,2,5
+2024,Gold Coast Titans,Josiah Pahulu,0,0,0,0,89,70,120,86,365,0.00 %,0.00 %,9,9
+2024,Gold Coast Titans,Keano Kini,6,7,10,7,89,70,120,86,365,6.74 %,10.00 %,3,3
+2024,Gold Coast Titans,Arama Hau,0,0,0,0,89,70,120,86,365,0.00 %,0.00 %,9,9
+2024,Gold Coast Titans,Klese Haas,3,0,1,1,89,70,120,86,365,3.37 %,0.00 %,6,9
+2024,Gold Coast Titans,Kieran Foran,2,15,4,17,89,70,120,86,365,2.25 %,21.43 %,7,1
+2024,Gold Coast Titans,Isaac Liu,0,1,1,0,89,70,120,86,365,0.00 %,1.43 %,9,8
+2024,Gold Coast Titans,Brian Kelly,5,7,12,15,89,70,120,86,365,5.62 %,10.00 %,4,3
+2024,Gold Coast Titans,Joe Stimson,0,0,0,0,89,70,120,86,365,0.00 %,0.00 %,9,9
+2024,Gold Coast Titans,Jaimin Jolliffe,2,0,1,0,89,70,120,86,365,2.25 %,0.00 %,7,9
+2024,Gold Coast Titans,Erin Clark,1,0,1,0,89,70,120,86,365,1.12 %,0.00 %,8,9
+2024,Gold Coast Titans,Keenan Palasia,3,0,2,0,89,70,120,86,365,3.37 %,0.00 %,6,9
+2024,Gold Coast Titans,Sam Verrills,1,3,4,3,89,70,120,86,365,1.12 %,4.29 %,8,6
+2024,Gold Coast Titans,Harley Smith-Shields,1,0,0,0,89,70,120,86,365,1.12 %,0.00 %,8,9
+2024,Gold Coast Titans,Aaron Schoupp,0,0,0,0,89,70,120,86,365,0.00 %,0.00 %,9,9
+2024,Gold Coast Titans,Phillip Sami,5,1,9,5,89,70,120,86,365,5.62 %,1.43 %,4,8
+2024,Gold Coast Titans,Alexander Brimson,5,5,9,3,89,70,120,86,365,5.62 %,7.14 %,4,4
+2024,Gold Coast Titans,Moeaki Fotuaika,0,0,0,0,89,70,120,86,365,0.00 %,0.00 %,9,9
+2024,Gold Coast Titans,Beau Fermor,5,2,6,7,89,70,120,86,365,5.62 %,2.86 %,4,7
+2024,Gold Coast Titans,Tanah Boyd,2,0,1,0,89,70,120,86,365,2.25 %,0.00 %,7,9
+2024,Gold Coast Titans,David Fifita,4,7,7,11,89,70,120,86,365,4.49 %,10.00 %,5,3
+2024,Gold Coast Titans,Tino Faasuamaleaui,0,0,0,0,89,70,120,86,365,0.00 %,0.00 %,9,9
+2024,Gold Coast Titans,Jacob Alick,0,0,0,0,89,70,120,86,365,0.00 %,0.00 %,9,9
+2024,Gold Coast Titans,Tony Francis,1,0,1,0,89,70,120,86,365,1.12 %,0.00 %,8,9
+2024,South Sydney Rabbitohs,Fletcher Myers,2,0,3,0,91,65,103,71,330,2.20 %,0.00 %,8,7
+2024,South Sydney Rabbitohs,Tyrone Munro,3,0,0,0,91,65,103,71,330,3.30 %,0.00 %,7,7
+2024,South Sydney Rabbitohs,Liam Le Blanc,0,0,0,0,91,65,103,71,330,0.00 %,0.00 %,10,7
+2024,South Sydney Rabbitohs,Jye Gray,7,2,8,2,91,65,103,71,330,7.69 %,3.08 %,3,5
+2024,South Sydney Rabbitohs,Thomas Burgess,4,0,5,0,91,65,103,71,330,4.40 %,0.00 %,6,7
+2024,South Sydney Rabbitohs,Alex Johnston,8,1,14,0,91,65,103,71,330,8.79 %,1.54 %,2,6
+2024,South Sydney Rabbitohs,Jai Arrow,1,0,1,0,91,65,103,71,330,1.10 %,0.00 %,9,7
+2024,South Sydney Rabbitohs,Taane Milne,4,5,4,6,91,65,103,71,330,4.40 %,7.69 %,6,4
+2024,South Sydney Rabbitohs,Jack Wighton,6,5,8,10,91,65,103,71,330,6.59 %,7.69 %,4,4
+2024,South Sydney Rabbitohs,Jacob Host,1,0,1,0,91,65,103,71,330,1.10 %,0.00 %,9,7
+2024,South Sydney Rabbitohs,Michael Chee-Kam,1,1,1,3,91,65,103,71,330,1.10 %,1.54 %,9,6
+2024,South Sydney Rabbitohs,Richard Kennar,4,0,6,2,91,65,103,71,330,4.40 %,0.00 %,6,7
+2024,South Sydney Rabbitohs,Cody Walker,8,18,9,13,91,65,103,71,330,8.79 %,27.69 %,2,1
+2024,South Sydney Rabbitohs,Jacob Gagai,9,2,15,1,91,65,103,71,330,9.89 %,3.08 %,1,5
+2024,South Sydney Rabbitohs,Izaac Thompson,3,1,3,0,91,65,103,71,330,3.30 %,1.54 %,7,6
+2024,South Sydney Rabbitohs,Siliva Havili,1,2,1,2,91,65,103,71,330,1.10 %,3.08 %,9,5
+2024,South Sydney Rabbitohs,Damien Cook,4,7,5,4,91,65,103,71,330,4.40 %,10.77 %,6,3
+2024,South Sydney Rabbitohs,Latrell Mitchell,8,14,5,18,91,65,103,71,330,8.79 %,21.54 %,2,2
+2024,South Sydney Rabbitohs,Shaquai Mitchell,0,0,0,0,91,65,103,71,330,0.00 %,0.00 %,10,7
+2024,South Sydney Rabbitohs,Tevita Tatola,0,0,0,0,91,65,103,71,330,0.00 %,0.00 %,10,7
+2024,South Sydney Rabbitohs,Keaon Koloamatangi,5,0,2,2,91,65,103,71,330,5.49 %,0.00 %,5,7
+2024,South Sydney Rabbitohs,Cameron Murray,2,1,2,1,91,65,103,71,330,2.20 %,1.54 %,8,6
+2024,South Sydney Rabbitohs,Sean Keppie,1,0,0,0,91,65,103,71,330,1.10 %,0.00 %,9,7
+2024,South Sydney Rabbitohs,Gehamat Shibasaki,0,0,0,0,91,65,103,71,330,0.00 %,0.00 %,10,7
+2024,South Sydney Rabbitohs,Matthew French,0,0,0,0,91,65,103,71,330,0.00 %,0.00 %,10,7
+2024,South Sydney Rabbitohs,Dean Hawkins,1,2,0,1,91,65,103,71,330,1.10 %,3.08 %,9,5
+2024,South Sydney Rabbitohs,Lachlan Ilias,0,0,0,0,91,65,103,71,330,0.00 %,0.00 %,10,7
+2024,South Sydney Rabbitohs,Bayleigh Bentley-Hape,0,0,0,0,91,65,103,71,330,0.00 %,0.00 %,10,7
+2024,South Sydney Rabbitohs,Isaiah Tass,1,2,2,1,91,65,103,71,330,1.10 %,3.08 %,9,5
+2024,South Sydney Rabbitohs,Peter Mamouzelos,1,2,1,3,91,65,103,71,330,1.10 %,3.08 %,9,5
+2024,South Sydney Rabbitohs,Dion Teaupa,1,0,1,2,91,65,103,71,330,1.10 %,0.00 %,9,7
+2024,South Sydney Rabbitohs,Davvy Moale,3,0,4,0,91,65,103,71,330,3.30 %,0.00 %,7,7
+2024,South Sydney Rabbitohs,Tallis Duncan,2,0,2,0,91,65,103,71,330,2.20 %,0.00 %,8,7
+2024,Canterbury-Bankstown Bulldogs,Toby Sexton,1,12,1,8,97,82,127,95,401,1.03 %,14.63 %,11,2
+2024,Canterbury-Bankstown Bulldogs,Jacob Kiraz,12,1,18,9,97,82,127,95,401,12.37 %,1.22 %,1,8
+2024,Canterbury-Bankstown Bulldogs,Harry Hayes,1,0,1,0,97,82,127,95,401,1.03 %,0.00 %,11,9
+2024,Canterbury-Bankstown Bulldogs,Eli Clark,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Jonathan Sua,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Jeral Skelton,3,1,4,2,97,82,127,95,401,3.09 %,1.22 %,9,8
+2024,Canterbury-Bankstown Bulldogs,Viliame Kikau,5,5,11,8,97,82,127,95,401,5.15 %,6.10 %,7,5
+2024,Canterbury-Bankstown Bulldogs,Drew Hutchison,0,5,1,4,97,82,127,95,401,0.00 %,6.10 %,12,5
+2024,Canterbury-Bankstown Bulldogs,Kurt Mann,2,1,3,1,97,82,127,95,401,2.06 %,1.22 %,10,8
+2024,Canterbury-Bankstown Bulldogs,Liam Knight,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Jake Turpin,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Josh Addo-Carr,11,3,20,0,97,82,127,95,401,11.34 %,3.66 %,2,7
+2024,Canterbury-Bankstown Bulldogs,Connor Tracey,7,11,9,11,97,82,127,95,401,7.22 %,13.41 %,5,3
+2024,Canterbury-Bankstown Bulldogs,Poasa Faamausili,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Jaeman Salmon,3,0,1,1,97,82,127,95,401,3.09 %,0.00 %,9,9
+2024,Canterbury-Bankstown Bulldogs,Max King,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Blake Taaffe,2,4,1,2,97,82,127,95,401,2.06 %,4.88 %,10,6
+2024,Canterbury-Bankstown Bulldogs,Josh Curran,3,0,1,2,97,82,127,95,401,3.09 %,0.00 %,9,9
+2024,Canterbury-Bankstown Bulldogs,Bronson Xerri,10,4,10,14,97,82,127,95,401,10.31 %,4.88 %,3,6
+2024,Canterbury-Bankstown Bulldogs,Reed Mahoney,4,12,4,5,97,82,127,95,401,4.12 %,14.63 %,8,2
+2024,Canterbury-Bankstown Bulldogs,Chris Patolo,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Harrison Edwards,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Kurtis Morrin,1,0,2,1,97,82,127,95,401,1.03 %,0.00 %,11,9
+2024,Canterbury-Bankstown Bulldogs,Hayze Perham,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Bailey Hayward,1,1,1,2,97,82,127,95,401,1.03 %,1.22 %,11,8
+2024,Canterbury-Bankstown Bulldogs,Blake Wilson,4,1,10,0,97,82,127,95,401,4.12 %,1.22 %,8,8
+2024,Canterbury-Bankstown Bulldogs,Jacob Preston,6,0,8,1,97,82,127,95,401,6.19 %,0.00 %,6,9
+2024,Canterbury-Bankstown Bulldogs,Lipoi Hopoi,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Kitione Kautoga,0,0,0,0,97,82,127,95,401,0.00 %,0.00 %,12,9
+2024,Canterbury-Bankstown Bulldogs,Stephen Crichton,10,8,9,12,97,82,127,95,401,10.31 %,9.76 %,3,4
+2024,Canterbury-Bankstown Bulldogs,Samuel Hughes,2,0,2,0,97,82,127,95,401,2.06 %,0.00 %,10,9
+2024,Canterbury-Bankstown Bulldogs,Matt Burton,9,13,10,12,97,82,127,95,401,9.28 %,15.85 %,4,1
+2024,Brisbane Broncos,Jordan Riki,3,2,5,0,92,64,113,70,339,3.26 %,3.12 %,7,7
+2024,Brisbane Broncos,Ezra Mam,9,12,4,13,92,64,113,70,339,9.78 %,18.75 %,3,1
+2024,Brisbane Broncos,Selwyn Cobbo,6,2,15,7,92,64,113,70,339,6.52 %,3.12 %,5,7
+2024,Brisbane Broncos,Xavier Willison,3,0,5,0,92,64,113,70,339,3.26 %,0.00 %,7,9
+2024,Brisbane Broncos,Josiah Karapani,0,1,2,0,92,64,113,70,339,0.00 %,1.56 %,10,8
+2024,Brisbane Broncos,Deine Mariner,17,2,17,0,92,64,113,70,339,18.48 %,3.12 %,1,7
+2024,Brisbane Broncos,Benjamin Te Kura,1,0,1,0,92,64,113,70,339,1.09 %,0.00 %,9,9
+2024,Brisbane Broncos,Blake Mozer,1,1,2,1,92,64,113,70,339,1.09 %,1.56 %,9,8
+2024,Brisbane Broncos,Va'a Semu,0,0,0,0,92,64,113,70,339,0.00 %,0.00 %,10,9
+2024,Brisbane Broncos,Israel Leota,0,0,0,0,92,64,113,70,339,0.00 %,0.00 %,10,9
+2024,Brisbane Broncos,Adam Reynolds,1,10,0,7,92,64,113,70,339,1.09 %,15.62 %,9,2
+2024,Brisbane Broncos,Jack Gosiewski,0,0,0,0,92,64,113,70,339,0.00 %,0.00 %,10,9
+2024,Brisbane Broncos,Corey Oates,3,0,7,0,92,64,113,70,339,3.26 %,0.00 %,7,9
+2024,Brisbane Broncos,Corey Jensen,1,0,1,0,92,64,113,70,339,1.09 %,0.00 %,9,9
+2024,Brisbane Broncos,Martin Taupau,1,0,1,0,92,64,113,70,339,1.09 %,0.00 %,9,9
+2024,Brisbane Broncos,Tristan Sailor,1,4,2,6,92,64,113,70,339,1.09 %,6.25 %,9,5
+2024,Brisbane Broncos,Billy Walters,3,3,4,1,92,64,113,70,339,3.26 %,4.69 %,7,6
+2024,Brisbane Broncos,Payne Haas,2,0,2,0,92,64,113,70,339,2.17 %,0.00 %,8,9
+2024,Brisbane Broncos,Tyson Smoothy,2,1,1,1,92,64,113,70,339,2.17 %,1.56 %,8,8
+2024,Brisbane Broncos,Josh Rogers,3,0,2,1,92,64,113,70,339,3.26 %,0.00 %,7,9
+2024,Brisbane Broncos,Jock Madden,2,5,3,4,92,64,113,70,339,2.17 %,7.81 %,8,4
+2024,Brisbane Broncos,Jesse Arthars,5,4,9,1,92,64,113,70,339,5.43 %,6.25 %,6,5
+2024,Brisbane Broncos,Jaiyden Hunt,0,0,0,0,92,64,113,70,339,0.00 %,0.00 %,10,9
+2024,Brisbane Broncos,Kobe Hetherington,1,0,0,0,92,64,113,70,339,1.09 %,0.00 %,9,9
+2024,Brisbane Broncos,Patrick Carrigan,2,1,1,3,92,64,113,70,339,2.17 %,1.56 %,8,8
+2024,Brisbane Broncos,Kotoni Staggs,8,3,11,2,92,64,113,70,339,8.70 %,4.69 %,4,6
+2024,Brisbane Broncos,Fletcher Baker,0,2,0,3,92,64,113,70,339,0.00 %,3.12 %,10,7
+2024,Brisbane Broncos,Reece Walsh,14,8,13,17,92,64,113,70,339,15.22 %,12.50 %,2,3
+2024,Brisbane Broncos,Brendan Piakura,3,3,5,3,92,64,113,70,339,3.26 %,4.69 %,7,6
+2024,North Queensland Cowboys,Heilum Luki,5,0,6,0,120,101,153,114,488,4.17 %,0.00 %,7,11
+2024,North Queensland Cowboys,Tom Chester,1,1,2,0,120,101,153,114,488,0.83 %,0.99 %,11,10
+2024,North Queensland Cowboys,Griffin Neame,1,0,1,1,120,101,153,114,488,0.83 %,0.00 %,11,11
+2024,North Queensland Cowboys,Jeremiah Nanai,13,7,7,7,120,101,153,114,488,10.83 %,6.93 %,3,5
+2024,North Queensland Cowboys,Viliami Vailea,2,3,2,4,120,101,153,114,488,1.67 %,2.97 %,10,8
+2024,North Queensland Cowboys,Kulikefu Finefeuiaki,3,1,4,1,120,101,153,114,488,2.50 %,0.99 %,9,10
+2024,North Queensland Cowboys,Thomas Duffy,0,0,0,0,120,101,153,114,488,0.00 %,0.00 %,12,11
+2024,North Queensland Cowboys,Jamal Shibasaki,0,0,0,0,120,101,153,114,488,0.00 %,0.00 %,12,11
+2024,North Queensland Cowboys,Jaxon Purdue,2,0,3,0,120,101,153,114,488,1.67 %,0.00 %,10,11
+2024,North Queensland Cowboys,Jack Gosiewski,0,0,0,0,120,101,153,114,488,0.00 %,0.00 %,12,11
+2024,North Queensland Cowboys,Jake Granville,0,0,0,0,120,101,153,114,488,0.00 %,0.00 %,12,11
+2024,North Queensland Cowboys,Kyle Feldt,23,2,25,2,120,101,153,114,488,19.17 %,1.98 %,1,9
+2024,North Queensland Cowboys,Jason Taumalolo,0,0,0,0,120,101,153,114,488,0.00 %,0.00 %,12,11
+2024,North Queensland Cowboys,Jordan McLean,1,0,2,0,120,101,153,114,488,0.83 %,0.00 %,11,11
+2024,North Queensland Cowboys,Valentine Holmes,16,10,18,18,120,101,153,114,488,13.33 %,9.90 %,2,4
+2024,North Queensland Cowboys,Chad Townsend,3,19,2,13,120,101,153,114,488,2.50 %,18.81 %,9,2
+2024,North Queensland Cowboys,Reece Robson,3,6,10,7,120,101,153,114,488,2.50 %,5.94 %,9,6
+2024,North Queensland Cowboys,Sam McIntyre,3,2,3,4,120,101,153,114,488,2.50 %,1.98 %,9,9
+2024,North Queensland Cowboys,Scott Drinkwater,10,26,15,31,120,101,153,114,488,8.33 %,25.74 %,5,1
+2024,North Queensland Cowboys,Reuben Cotter,4,0,3,1,120,101,153,114,488,3.33 %,0.00 %,8,11
+2024,North Queensland Cowboys,Thomas Mikaele,0,0,0,0,120,101,153,114,488,0.00 %,0.00 %,12,11
+2024,North Queensland Cowboys,Harrison Edwards,0,0,0,0,120,101,153,114,488,0.00 %,0.00 %,12,11
+2024,North Queensland Cowboys,Jake Clifford,1,5,2,4,120,101,153,114,488,0.83 %,4.95 %,11,7
+2024,North Queensland Cowboys,Braidon Burns,5,0,5,0,120,101,153,114,488,4.17 %,0.00 %,7,11
+2024,North Queensland Cowboys,Tom Dearden,9,13,17,17,120,101,153,114,488,7.50 %,12.87 %,6,3
+2024,North Queensland Cowboys,Murray Taulagi,11,5,20,4,120,101,153,114,488,9.17 %,4.95 %,4,7
+2024,North Queensland Cowboys,Semi Valemei,1,0,3,0,120,101,153,114,488,0.83 %,0.00 %,11,11
+2024,North Queensland Cowboys,Zac Laybutt,3,1,3,0,120,101,153,114,488,2.50 %,0.99 %,9,10
+2024,Canberra Raiders,Simi Sasagi,2,4,2,1,82,65,93,61,301,2.44 %,6.15 %,7,5
+2024,Canberra Raiders,Ata Mariota,2,1,2,0,82,65,93,61,301,2.44 %,1.54 %,7,7
+2024,Canberra Raiders,Morgan Smithies,0,0,0,0,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,Ethan Strange,2,9,8,9,82,65,93,61,301,2.44 %,13.85 %,7,2
+2024,Canberra Raiders,Chevy Stewart,0,0,0,0,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,James Schiller,5,1,6,0,82,65,93,61,301,6.10 %,1.54 %,5,7
+2024,Canberra Raiders,Jed Stuart,0,0,0,0,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,Jordan Rapana,6,6,11,6,82,65,93,61,301,7.32 %,9.23 %,4,3
+2024,Canberra Raiders,Joseph Tapine,0,2,2,4,82,65,93,61,301,0.00 %,3.08 %,9,6
+2024,Canberra Raiders,Danny Levi,6,2,4,2,82,65,93,61,301,7.32 %,3.08 %,4,6
+2024,Canberra Raiders,Josh Papalii,2,1,3,1,82,65,93,61,301,2.44 %,1.54 %,7,7
+2024,Canberra Raiders,Jamal Fogarty,0,10,1,2,82,65,93,61,301,0.00 %,15.38 %,9,1
+2024,Canberra Raiders,Elliott Whitehead,5,5,5,3,82,65,93,61,301,6.10 %,7.69 %,5,4
+2024,Canberra Raiders,Zac Woolford,0,0,0,0,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,Tom Starling,0,1,1,1,82,65,93,61,301,0.00 %,1.54 %,9,7
+2024,Canberra Raiders,Hudson Young,10,2,12,4,82,65,93,61,301,12.20 %,3.08 %,2,6
+2024,Canberra Raiders,Pasami Saulo,0,0,0,0,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,Nick Cotric,4,0,4,0,82,65,93,61,301,4.88 %,0.00 %,6,8
+2024,Canberra Raiders,Sebastian Kris,5,5,5,6,82,65,93,61,301,6.10 %,7.69 %,5,4
+2024,Canberra Raiders,Emre Guler,0,0,0,0,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,Albert Hopoate,2,1,1,2,82,65,93,61,301,2.44 %,1.54 %,7,7
+2024,Canberra Raiders,Zac Hosking,2,2,1,3,82,65,93,61,301,2.44 %,3.08 %,7,6
+2024,Canberra Raiders,Corey Horsburgh,1,0,0,1,82,65,93,61,301,1.22 %,0.00 %,8,8
+2024,Canberra Raiders,Adam Cook,0,0,1,1,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,Kaeo Weekes,8,5,9,6,82,65,93,61,301,9.76 %,7.69 %,3,4
+2024,Canberra Raiders,Trey Mooney,1,0,1,0,82,65,93,61,301,1.22 %,0.00 %,8,8
+2024,Canberra Raiders,Peter Hola,0,0,0,0,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,Jordan Martin,0,0,0,0,82,65,93,61,301,0.00 %,0.00 %,9,8
+2024,Canberra Raiders,Matthew Timoko,4,6,4,8,82,65,93,61,301,4.88 %,9.23 %,6,3
+2024,Canberra Raiders,Xavier Savage,15,2,10,1,82,65,93,61,301,18.29 %,3.08 %,1,6
+2024,Penrith Panthers,Brad Schneider,4,5,7,5,112,89,145,94,440,3.57 %,5.62 %,6,5
+2024,Penrith Panthers,Jack Cole,2,6,0,3,112,89,145,94,440,1.79 %,6.74 %,8,4
+2024,Penrith Panthers,Paul Alamoti,8,3,8,3,112,89,145,94,440,7.14 %,3.37 %,4,6
+2024,Penrith Panthers,Isaiah Iongi,0,0,0,0,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Penrith Panthers,Luron Patea,0,0,0,0,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Penrith Panthers,Jesse McLean,1,0,1,0,112,89,145,94,440,0.89 %,0.00 %,9,9
+2024,Penrith Panthers,Liam Henry,2,0,2,0,112,89,145,94,440,1.79 %,0.00 %,8,9
+2024,Penrith Panthers,Ativalu Lisati,0,0,0,0,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Penrith Panthers,Casey McLean,3,2,4,1,112,89,145,94,440,2.68 %,2.25 %,7,7
+2024,Penrith Panthers,Isaah Yeo,2,6,5,7,112,89,145,94,440,1.79 %,6.74 %,8,4
+2024,Penrith Panthers,Scott Sorensen,3,2,1,3,112,89,145,94,440,2.68 %,2.25 %,7,7
+2024,Penrith Panthers,Tyrone Peachey,0,0,0,0,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Penrith Panthers,Luke Garner,7,2,6,0,112,89,145,94,440,6.25 %,2.25 %,5,7
+2024,Penrith Panthers,Moses Leota,2,2,3,1,112,89,145,94,440,1.79 %,2.25 %,8,7
+2024,Penrith Panthers,James Fisher-Harris,4,0,4,1,112,89,145,94,440,3.57 %,0.00 %,6,9
+2024,Penrith Panthers,Soni Luke,0,0,0,0,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Penrith Panthers,Matthew Eisenhuth,0,0,0,0,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Penrith Panthers,Dylan Edwards,10,7,10,10,112,89,145,94,440,8.93 %,7.87 %,3,3
+2024,Penrith Panthers,Nathan Cleary,4,16,4,13,112,89,145,94,440,3.57 %,17.98 %,6,1
+2024,Penrith Panthers,Jarome Luai,4,15,7,13,112,89,145,94,440,3.57 %,16.85 %,6,2
+2024,Penrith Panthers,Liam Martin,4,1,5,3,112,89,145,94,440,3.57 %,1.12 %,6,8
+2024,Penrith Panthers,Brian To'o,14,2,20,0,112,89,145,94,440,12.50 %,2.25 %,2,7
+2024,Penrith Panthers,Mitchell Kenny,2,5,2,4,112,89,145,94,440,1.79 %,5.62 %,8,5
+2024,Penrith Panthers,Lindsay Smith,4,2,5,3,112,89,145,94,440,3.57 %,2.25 %,6,7
+2024,Penrith Panthers,Luke Sommerton,1,0,1,0,112,89,145,94,440,0.89 %,0.00 %,9,9
+2024,Penrith Panthers,Preston Riki,0,0,0,0,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Penrith Panthers,Daine Laurie,2,5,11,7,112,89,145,94,440,1.79 %,5.62 %,8,5
+2024,Penrith Panthers,Taylan May,1,1,3,1,112,89,145,94,440,0.89 %,1.12 %,9,8
+2024,Penrith Panthers,Mavrik Geyer,0,0,0,3,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Penrith Panthers,Trent Toelau,1,0,1,0,112,89,145,94,440,0.89 %,0.00 %,9,9
+2024,Penrith Panthers,Sunia Turuva,17,1,21,2,112,89,145,94,440,15.18 %,1.12 %,1,8
+2024,Penrith Panthers,Izack Tago,10,6,14,11,112,89,145,94,440,8.93 %,6.74 %,3,4
+2024,Penrith Panthers,Asu Kepaoa,0,0,0,0,112,89,145,94,440,0.00 %,0.00 %,10,9
+2024,Melbourne Storm,Dean Ieremia,1,0,2,0,135,101,174,107,517,0.74 %,0.00 %,10,11
+2024,Melbourne Storm,Trent Loiero,0,0,1,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Xavier Coates,10,6,11,2,135,101,174,107,517,7.41 %,5.94 %,4,6
+2024,Melbourne Storm,Jack Howarth,4,1,6,3,135,101,174,107,517,2.96 %,0.99 %,7,10
+2024,Melbourne Storm,Sualauvi Faalogo,8,3,13,6,135,101,174,107,517,5.93 %,2.97 %,5,8
+2024,Melbourne Storm,Keagan Russell-Smith,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Alec MacDonald,2,1,2,0,135,101,174,107,517,1.48 %,0.99 %,9,10
+2024,Melbourne Storm,Coby Williamson,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Joe Chan,1,1,2,1,135,101,174,107,517,0.74 %,0.99 %,10,10
+2024,Melbourne Storm,Ativalu Lisati,1,0,1,0,135,101,174,107,517,0.74 %,0.00 %,10,11
+2024,Melbourne Storm,Will Warbrick,15,3,16,1,135,101,174,107,517,11.11 %,2.97 %,1,8
+2024,Melbourne Storm,Bronson Garlick,0,2,0,2,135,101,174,107,517,0.00 %,1.98 %,11,9
+2024,Melbourne Storm,Young Tonumaipea,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Christian Welch,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Jahrome Hughes,12,26,21,26,135,101,174,107,517,8.89 %,25.74 %,3,1
+2024,Melbourne Storm,Tui Kamikamica,1,0,1,1,135,101,174,107,517,0.74 %,0.00 %,10,11
+2024,Melbourne Storm,Tepai Moeroa,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Josh King,3,2,3,2,135,101,174,107,517,2.22 %,1.98 %,8,9
+2024,Melbourne Storm,Nelson Asofa-Solomona,2,0,2,1,135,101,174,107,517,1.48 %,0.00 %,9,11
+2024,Melbourne Storm,Cameron Munster,5,12,7,10,135,101,174,107,517,3.70 %,11.88 %,6,2
+2024,Melbourne Storm,Marion Seve,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Chris Lewis,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Reimis Smith,5,2,3,2,135,101,174,107,517,3.70 %,1.98 %,6,9
+2024,Melbourne Storm,Ryan Papenhuyzen,13,11,18,16,135,101,174,107,517,9.63 %,10.89 %,2,3
+2024,Melbourne Storm,Shawn Blore,2,1,7,5,135,101,174,107,517,1.48 %,0.99 %,9,10
+2024,Melbourne Storm,Lazarus Vaalepu,1,0,1,0,135,101,174,107,517,0.74 %,0.00 %,10,11
+2024,Melbourne Storm,Nick Meaney,5,6,9,7,135,101,174,107,517,3.70 %,5.94 %,6,6
+2024,Melbourne Storm,Harry Grant,12,8,14,9,135,101,174,107,517,8.89 %,7.92 %,3,4
+2024,Melbourne Storm,Tyran Wishart,12,4,14,4,135,101,174,107,517,8.89 %,3.96 %,3,7
+2024,Melbourne Storm,Grant Anderson,8,3,7,3,135,101,174,107,517,5.93 %,2.97 %,5,8
+2024,Melbourne Storm,Kane Bradley,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Tristan Powell,0,0,0,0,135,101,174,107,517,0.00 %,0.00 %,11,11
+2024,Melbourne Storm,Jonah Pezet,0,2,0,0,135,101,174,107,517,0.00 %,1.98 %,11,9
+2024,Melbourne Storm,Eliesa Katoa,12,7,13,6,135,101,174,107,517,8.89 %,6.93 %,3,5
+2024,St. George Illawarra Dragons,Christian Tuipulotu,8,0,10,0,89,79,113,80,361,8.99 %,0.00 %,4,8
+2024,St. George Illawarra Dragons,Sione Finau,0,0,1,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Hamish Stewart,0,0,0,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Ryan Couchman,0,1,0,1,89,79,113,80,361,0.00 %,1.27 %,11,7
+2024,St. George Illawarra Dragons,Toby Couchman,2,0,1,1,89,79,113,80,361,2.25 %,0.00 %,9,8
+2024,St. George Illawarra Dragons,Lyhkan King-Togia,1,2,2,0,89,79,113,80,361,1.12 %,2.53 %,10,6
+2024,St. George Illawarra Dragons,Savelio Tamale,0,0,0,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Ben Hunt,4,30,9,17,89,79,113,80,361,4.49 %,37.97 %,7,1
+2024,St. George Illawarra Dragons,Francis Molo,1,1,1,1,89,79,113,80,361,1.12 %,1.27 %,10,7
+2024,St. George Illawarra Dragons,Tom Eisenhuth,2,0,1,2,89,79,113,80,361,2.25 %,0.00 %,9,8
+2024,St. George Illawarra Dragons,Luciano Leilua,3,5,4,8,89,79,113,80,361,3.37 %,6.33 %,8,3
+2024,St. George Illawarra Dragons,Jack Bird,4,4,3,5,89,79,113,80,361,4.49 %,5.06 %,7,4
+2024,St. George Illawarra Dragons,Jack de Belin,3,0,3,3,89,79,113,80,361,3.37 %,0.00 %,8,8
+2024,St. George Illawarra Dragons,Ben Murdoch-Masila,0,0,0,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Fa'amanu Brown,0,1,0,1,89,79,113,80,361,0.00 %,1.27 %,11,7
+2024,St. George Illawarra Dragons,Raymond Faitala-Mariner,2,2,3,1,89,79,113,80,361,2.25 %,2.53 %,9,6
+2024,St. George Illawarra Dragons,Hame Sele,0,0,0,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Blake Lawrie,0,0,0,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Jacob Liddle,5,3,10,4,89,79,113,80,361,5.62 %,3.80 %,6,5
+2024,St. George Illawarra Dragons,Jaydn Su'A,9,2,3,3,89,79,113,80,361,10.11 %,2.53 %,3,6
+2024,St. George Illawarra Dragons,Jesse Marschke,0,2,2,1,89,79,113,80,361,0.00 %,2.53 %,11,6
+2024,St. George Illawarra Dragons,Moses Suli,3,5,8,6,89,79,113,80,361,3.37 %,6.33 %,8,3
+2024,St. George Illawarra Dragons,Michael Molo,0,0,0,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Zac Lomax,14,5,14,6,89,79,113,80,361,15.73 %,6.33 %,1,3
+2024,St. George Illawarra Dragons,Kyle Flanagan,5,4,7,6,89,79,113,80,361,5.62 %,5.06 %,6,4
+2024,St. George Illawarra Dragons,Connor Muhleisen,1,0,1,0,89,79,113,80,361,1.12 %,0.00 %,10,8
+2024,St. George Illawarra Dragons,Alec Tuitavake,0,0,0,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Viliami Fifita,0,0,0,0,89,79,113,80,361,0.00 %,0.00 %,11,8
+2024,St. George Illawarra Dragons,Max Feagai,0,2,2,2,89,79,113,80,361,0.00 %,2.53 %,11,6
+2024,St. George Illawarra Dragons,Mathew Feagai,6,0,6,0,89,79,113,80,361,6.74 %,0.00 %,5,8
+2024,St. George Illawarra Dragons,Mikaele Ravalawa,3,0,8,1,89,79,113,80,361,3.37 %,0.00 %,8,8
+2024,St. George Illawarra Dragons,Tyrell Sloan,13,10,14,11,89,79,113,80,361,14.61 %,12.66 %,2,2
+2024,Wests Tigers,Tony Sukkar,0,0,0,0,82,66,98,67,313,0.00 %,0.00 %,9,9
+2024,Wests Tigers,Fonua Pole,4,0,3,0,82,66,98,67,313,4.88 %,0.00 %,5,9
+2024,Wests Tigers,Tim Johannssen,0,0,0,0,82,66,98,67,313,0.00 %,0.00 %,9,9
+2024,Wests Tigers,Josh Feledy,1,0,1,0,82,66,98,67,313,1.22 %,0.00 %,8,9
+2024,Wests Tigers,Latu Fainu,2,2,3,2,82,66,98,67,313,2.44 %,3.03 %,7,7
+2024,Wests Tigers,Heath Mason,1,0,2,0,82,66,98,67,313,1.22 %,0.00 %,8,9
+2024,Wests Tigers,Tallyn Da Silva,1,1,2,0,82,66,98,67,313,1.22 %,1.52 %,8,8
+2024,Wests Tigers,Kit Laulilii,0,0,0,0,82,66,98,67,313,0.00 %,0.00 %,9,9
+2024,Wests Tigers,Jordan Miller,0,0,0,0,82,66,98,67,313,0.00 %,0.00 %,9,9
+2024,Wests Tigers,Lachlan Galvin,4,16,6,9,82,66,98,67,313,4.88 %,24.24 %,5,1
+2024,Wests Tigers,Alex Lobb,1,0,0,0,82,66,98,67,313,1.22 %,0.00 %,8,9
+2024,Wests Tigers,Luke Laulilii,2,0,4,0,82,66,98,67,313,2.44 %,0.00 %,7,9
+2024,Wests Tigers,Jahream Bula,10,6,7,12,82,66,98,67,313,12.20 %,9.09 %,1,5
+2024,Wests Tigers,Solomon Alaimalo,2,2,2,1,82,66,98,67,313,2.44 %,3.03 %,7,7
+2024,Wests Tigers,Aidan Sezer,0,8,0,7,82,66,98,67,313,0.00 %,12.12 %,9,3
+2024,Wests Tigers,Apisai Koroisau,5,9,5,8,82,66,98,67,313,6.10 %,13.64 %,4,2
+2024,Wests Tigers,David Klemmer,0,0,0,1,82,66,98,67,313,0.00 %,0.00 %,9,9
+2024,Wests Tigers,Brent Naden,1,2,3,2,82,66,98,67,313,1.22 %,3.03 %,8,7
+2024,Wests Tigers,John Bateman,0,1,1,1,82,66,98,67,313,0.00 %,1.52 %,9,8
+2024,Wests Tigers,Alex Twal,1,0,0,0,82,66,98,67,313,1.22 %,0.00 %,8,9
+2024,Wests Tigers,Reuben Porter,0,0,2,1,82,66,98,67,313,0.00 %,0.00 %,9,9
+2024,Wests Tigers,Alex Seyfarth,4,0,4,1,82,66,98,67,313,4.88 %,0.00 %,5,9
+2024,Wests Tigers,Declan Casey,0,0,0,0,82,66,98,67,313,0.00 %,0.00 %,9,9
+2024,Wests Tigers,Stefano Utoikamanu,3,0,5,0,82,66,98,67,313,3.66 %,0.00 %,6,9
+2024,Wests Tigers,Adam Doueihi,3,2,7,1,82,66,98,67,313,3.66 %,3.03 %,6,7
+2024,Wests Tigers,Isaiah Papali'i,5,1,4,3,82,66,98,67,313,6.10 %,1.52 %,4,8
+2024,Wests Tigers,Justin Olam,6,1,6,2,82,66,98,67,313,7.32 %,1.52 %,3,8
+2024,Wests Tigers,Solomona Faataape,6,3,6,3,82,66,98,67,313,7.32 %,4.55 %,3,6
+2024,Wests Tigers,Junior Tupou,2,0,4,1,82,66,98,67,313,2.44 %,0.00 %,7,9
+2024,Wests Tigers,Jayden Sullivan,1,7,1,5,82,66,98,67,313,1.22 %,10.61 %,8,4
+2024,Wests Tigers,Jake Simpkin,0,1,0,1,82,66,98,67,313,0.00 %,1.52 %,9,8
+2024,Wests Tigers,Starford To'a,0,0,0,0,82,66,98,67,313,0.00 %,0.00 %,9,9
+2024,Wests Tigers,Sione Fainu,2,0,2,0,82,66,98,67,313,2.44 %,0.00 %,7,9
+2024,Wests Tigers,Charlie Staines,9,1,10,1,82,66,98,67,313,10.98 %,1.52 %,2,8
+2024,Wests Tigers,Justin Matamua,0,1,0,1,82,66,98,67,313,0.00 %,1.52 %,9,8
+2024,Wests Tigers,Asu Kepaoa,1,0,2,0,82,66,98,67,313,1.22 %,0.00 %,8,9
+2024,Wests Tigers,Samuela Fainu,5,2,6,4,82,66,98,67,313,6.10 %,3.03 %,4,7
+2024,Cronulla-Sutherland Sharks,Chris Vea'ila,0,0,0,0,121,103,141,107,472,0.00 %,0.00 %,12,10
+2024,Cronulla-Sutherland Sharks,Tom Rodwell,0,0,0,0,121,103,141,107,472,0.00 %,0.00 %,12,10
+2024,Cronulla-Sutherland Sharks,Jesse Colquhoun,0,0,0,0,121,103,141,107,472,0.00 %,0.00 %,12,10
+2024,Cronulla-Sutherland Sharks,Daniel Atkinson,5,4,7,2,121,103,141,107,472,4.13 %,3.88 %,8,7
+2024,Cronulla-Sutherland Sharks,Liam Ison,0,1,0,1,121,103,141,107,472,0.00 %,0.97 %,12,9
+2024,Cronulla-Sutherland Sharks,Royce Hunt,1,0,1,0,121,103,141,107,472,0.83 %,0.00 %,11,10
+2024,Cronulla-Sutherland Sharks,Jayden Berrell,0,0,0,0,121,103,141,107,472,0.00 %,0.00 %,12,10
+2024,Cronulla-Sutherland Sharks,Cameron McInnes,2,1,2,2,121,103,141,107,472,1.65 %,0.97 %,10,9
+2024,Cronulla-Sutherland Sharks,Braden Uele,1,0,2,0,121,103,141,107,472,0.83 %,0.00 %,11,10
+2024,Cronulla-Sutherland Sharks,Dale Finucane,0,0,0,0,121,103,141,107,472,0.00 %,0.00 %,12,10
+2024,Cronulla-Sutherland Sharks,Jesse Ramien,6,13,11,13,121,103,141,107,472,4.96 %,12.62 %,7,2
+2024,Cronulla-Sutherland Sharks,Jack Williams,2,1,2,1,121,103,141,107,472,1.65 %,0.97 %,10,9
+2024,Cronulla-Sutherland Sharks,Nicho Hynes,2,13,4,14,121,103,141,107,472,1.65 %,12.62 %,10,2
+2024,Cronulla-Sutherland Sharks,Sione Katoa,17,1,22,1,121,103,141,107,472,14.05 %,0.97 %,2,9
+2024,Cronulla-Sutherland Sharks,Siosifa Talakai,6,6,7,11,121,103,141,107,472,4.96 %,5.83 %,7,6
+2024,Cronulla-Sutherland Sharks,Blayke Brailey,3,8,2,5,121,103,141,107,472,2.48 %,7.77 %,9,4
+2024,Cronulla-Sutherland Sharks,William Kennedy,5,8,4,11,121,103,141,107,472,4.13 %,7.77 %,8,4
+2024,Cronulla-Sutherland Sharks,Braydon Trindall,12,18,5,16,121,103,141,107,472,9.92 %,17.48 %,3,1
+2024,Cronulla-Sutherland Sharks,Toby Rudolf,1,0,2,1,121,103,141,107,472,0.83 %,0.00 %,11,10
+2024,Cronulla-Sutherland Sharks,Oregon Kaufusi,2,1,2,1,121,103,141,107,472,1.65 %,0.97 %,10,9
+2024,Cronulla-Sutherland Sharks,Mawene Hiroti,1,0,1,0,121,103,141,107,472,0.83 %,0.00 %,11,10
+2024,Cronulla-Sutherland Sharks,Billy Burns,0,0,1,0,121,103,141,107,472,0.00 %,0.00 %,12,10
+2024,Cronulla-Sutherland Sharks,Ronaldo Mulitalo,18,7,24,4,121,103,141,107,472,14.88 %,6.80 %,1,5
+2024,Cronulla-Sutherland Sharks,Briton Nikora,10,7,11,12,121,103,141,107,472,8.26 %,6.80 %,4,5
+2024,Cronulla-Sutherland Sharks,Teig Wilton,5,1,6,1,121,103,141,107,472,4.13 %,0.97 %,8,9
+2024,Cronulla-Sutherland Sharks,Kayal Iro,6,10,10,9,121,103,141,107,472,4.96 %,9.71 %,7,3
+2024,Cronulla-Sutherland Sharks,Niwhai Puru,0,0,0,0,121,103,141,107,472,0.00 %,0.00 %,12,10
+2024,Cronulla-Sutherland Sharks,Samuel Stonestreet,8,1,6,0,121,103,141,107,472,6.61 %,0.97 %,5,9
+2024,Cronulla-Sutherland Sharks,Kade Dykes,0,0,0,0,121,103,141,107,472,0.00 %,0.00 %,12,10
+2024,Cronulla-Sutherland Sharks,Tuku Hau Tapuha,1,0,1,0,121,103,141,107,472,0.83 %,0.00 %,11,10
+2024,Cronulla-Sutherland Sharks,Thomas Hazelton,7,2,8,2,121,103,141,107,472,5.79 %,1.94 %,6,8
+2024,Parramatta Eels,Ethan Sanders,0,0,0,1,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Charlie Guymer,0,0,0,0,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Blaize Talagi,11,9,16,10,101,82,122,91,396,10.89 %,10.98 %,2,3
+2024,Parramatta Eels,Matthew Arthur,0,0,0,0,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Shaun Lane,4,3,5,4,101,82,122,91,396,3.96 %,3.66 %,6,7
+2024,Parramatta Eels,Joe Ofahengaue,2,0,1,0,101,82,122,91,396,1.98 %,0.00 %,8,10
+2024,Parramatta Eels,Mitchell Moses,4,4,3,5,101,82,122,91,396,3.96 %,4.88 %,6,6
+2024,Parramatta Eels,Reagan Campbell-Gillard,2,2,5,2,101,82,122,91,396,1.98 %,2.44 %,8,8
+2024,Parramatta Eels,Bryce Cartwright,4,7,3,6,101,82,122,91,396,3.96 %,8.54 %,6,4
+2024,Parramatta Eels,Junior Paulo,2,2,2,3,101,82,122,91,396,1.98 %,2.44 %,8,8
+2024,Parramatta Eels,Clinton Gutherson,9,15,9,16,101,82,122,91,396,8.91 %,18.29 %,4,2
+2024,Parramatta Eels,Joey Lussick,5,2,4,2,101,82,122,91,396,4.95 %,2.44 %,5,8
+2024,Parramatta Eels,Ryan Matterson,0,1,0,2,101,82,122,91,396,0.00 %,1.22 %,10,9
+2024,Parramatta Eels,Makahesi Makatoa,0,0,0,0,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Ofahiki Ogden,0,0,0,0,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Bailey Simonsson,4,0,5,0,101,82,122,91,396,3.96 %,0.00 %,6,10
+2024,Parramatta Eels,Jake Tago,4,0,6,0,101,82,122,91,396,3.96 %,0.00 %,6,10
+2024,Parramatta Eels,Brendan Hands,1,2,1,5,101,82,122,91,396,0.99 %,2.44 %,9,8
+2024,Parramatta Eels,Dan Keir,0,0,0,0,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Dylan Brown,5,18,11,17,101,82,122,91,396,4.95 %,21.95 %,5,1
+2024,Parramatta Eels,Matt Doorey,0,0,1,0,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Luca Moretti,1,0,0,1,101,82,122,91,396,0.99 %,0.00 %,9,10
+2024,Parramatta Eels,Lorenzo Mulitalo,0,0,0,0,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Daejarn Asi,3,4,3,5,101,82,122,91,396,2.97 %,4.88 %,7,6
+2024,Parramatta Eels,Kelma Tuilagi,3,0,4,1,101,82,122,91,396,2.97 %,0.00 %,7,10
+2024,Parramatta Eels,Morgan Harper,4,1,2,0,101,82,122,91,396,3.96 %,1.22 %,6,9
+2024,Parramatta Eels,J'maine Hopgood,1,2,3,1,101,82,122,91,396,0.99 %,2.44 %,9,8
+2024,Parramatta Eels,Will Penisini,10,5,10,8,101,82,122,91,396,9.90 %,6.10 %,3,5
+2024,Parramatta Eels,Wiremu Greig,0,0,0,0,101,82,122,91,396,0.00 %,0.00 %,10,10
+2024,Parramatta Eels,Maika Sivo,17,2,19,0,101,82,122,91,396,16.83 %,2.44 %,1,8
+2024,Parramatta Eels,Sean Russell,5,3,9,2,101,82,122,91,396,4.95 %,3.66 %,5,7
+2024,Warriors,Zyon Maiu'u,0,0,0,0,90,74,109,80,353,0.00 %,0.00 %,9,9
+2024,Warriors,Ali Leiataua,3,2,7,2,90,74,109,80,353,3.33 %,2.70 %,6,7
+2024,Warriors,Rocco Berry,4,2,3,3,90,74,109,80,353,4.44 %,2.70 %,5,7
+2024,Warriors,Jacob Laban,0,0,0,1,90,74,109,80,353,0.00 %,0.00 %,9,9
+2024,Warriors,Demitric Sifakula,1,0,2,0,90,74,109,80,353,1.11 %,0.00 %,8,9
+2024,Warriors,Leka Halasima,0,0,1,0,90,74,109,80,353,0.00 %,0.00 %,9,9
+2024,Warriors,Roger Tuivasa-Sheck,5,2,7,2,90,74,109,80,353,5.56 %,2.70 %,4,7
+2024,Warriors,Dylan Walker,1,3,2,3,90,74,109,80,353,1.11 %,4.05 %,8,6
+2024,Warriors,Addin Fonua-Blake,8,1,9,1,90,74,109,80,353,8.89 %,1.35 %,2,8
+2024,Warriors,Dallin Watene-Zelezniak,15,2,14,2,90,74,109,80,353,16.67 %,2.70 %,1,7
+2024,Warriors,Tohu Harris,0,3,0,4,90,74,109,80,353,0.00 %,4.05 %,9,6
+2024,Warriors,Shaun Johnson,5,15,5,14,90,74,109,80,353,5.56 %,20.27 %,4,2
+2024,Warriors,Kurt Capewell,4,0,6,0,90,74,109,80,353,4.44 %,0.00 %,5,9
+2024,Warriors,Mitchell Barnett,4,2,4,4,90,74,109,80,353,4.44 %,2.70 %,5,7
+2024,Warriors,Te Maire Martin,5,16,7,14,90,74,109,80,353,5.56 %,21.62 %,4,1
+2024,Warriors,Jazz Tevaga,1,0,1,0,90,74,109,80,353,1.11 %,0.00 %,8,9
+2024,Warriors,Charnze Nicoll-Klokstad,6,5,10,5,90,74,109,80,353,6.67 %,6.76 %,3,4
+2024,Warriors,Bunty Afoa,0,0,0,0,90,74,109,80,353,0.00 %,0.00 %,9,9
+2024,Warriors,Marcelo Montoya,8,1,11,0,90,74,109,80,353,8.89 %,1.35 %,2,8
+2024,Warriors,Marata Niukore,2,0,2,0,90,74,109,80,353,2.22 %,0.00 %,7,9
+2024,Warriors,Wayde Egan,1,6,2,9,90,74,109,80,353,1.11 %,8.11 %,8,3
+2024,Warriors,Luke Metcalf,3,4,2,4,90,74,109,80,353,3.33 %,5.41 %,6,5
+2024,Warriors,Freddy Lussick,1,1,1,1,90,74,109,80,353,1.11 %,1.35 %,8,8
+2024,Warriors,Jackson Ford,3,0,4,0,90,74,109,80,353,3.33 %,0.00 %,6,9
+2024,Warriors,Chanel Harris-Tavita,4,3,1,3,90,74,109,80,353,4.44 %,4.05 %,5,6
+2024,Warriors,Paul Roache,0,0,0,0,90,74,109,80,353,0.00 %,0.00 %,9,9
+2024,Warriors,Adam Pompey,2,1,2,3,90,74,109,80,353,2.22 %,1.35 %,7,8
+2024,Warriors,Taine Tuaupiki,1,3,2,3,90,74,109,80,353,1.11 %,4.05 %,8,6
+2024,Warriors,Edward Kosi,3,0,2,0,90,74,109,80,353,3.33 %,0.00 %,6,9
+2024,Warriors,Tom Ale,0,1,1,1,90,74,109,80,353,0.00 %,1.35 %,9,8
+2024,Warriors,Moala Graham-Taufa,0,1,1,1,90,74,109,80,353,0.00 %,1.35 %,9,8
+2024,Dolphins,Hamiso Tabuai-Fidow,15,4,10,7,99,81,114,91,385,15.15 %,4.94 %,1,6
+2024,Dolphins,Max Plath,4,2,3,1,99,81,114,91,385,4.04 %,2.47 %,6,7
+2024,Dolphins,Mason Teague,0,0,0,0,99,81,114,91,385,0.00 %,0.00 %,10,9
+2024,Dolphins,Kurt Donoghoe,1,0,1,0,99,81,114,91,385,1.01 %,0.00 %,9,9
+2024,Dolphins,Isaiya Katoa,2,10,1,13,99,81,114,91,385,2.02 %,12.35 %,8,3
+2024,Dolphins,Jack Bostock,14,6,21,1,99,81,114,91,385,14.14 %,7.41 %,2,5
+2024,Dolphins,Kodi Nikorima,3,15,2,22,99,81,114,91,385,3.03 %,18.52 %,7,1
+2024,Dolphins,Jarrod Wallace,1,0,0,0,99,81,114,91,385,1.01 %,0.00 %,9,9
+2024,Dolphins,Anthony Milford,0,1,0,1,99,81,114,91,385,0.00 %,1.23 %,10,8
+2024,Dolphins,Mark Nicholls,3,0,3,0,99,81,114,91,385,3.03 %,0.00 %,7,9
+2024,Dolphins,Tevita Pangai Junior,2,0,1,0,99,81,114,91,385,2.02 %,0.00 %,8,9
+2024,Dolphins,Euan Aitken,2,1,3,1,99,81,114,91,385,2.02 %,1.23 %,8,8
+2024,Dolphins,Jesse Bromwich,1,2,1,3,99,81,114,91,385,1.01 %,2.47 %,9,7
+2024,Dolphins,Kenneath Bromwich,2,2,2,1,99,81,114,91,385,2.02 %,2.47 %,8,7
+2024,Dolphins,Felise Kaufusi,2,2,5,0,99,81,114,91,385,2.02 %,2.47 %,8,7
+2024,Dolphins,Jamayne Isaako,12,2,18,2,99,81,114,91,385,12.12 %,2.47 %,3,7
+2024,Dolphins,Jeremy Marshall-King,2,6,4,7,99,81,114,91,385,2.02 %,7.41 %,8,5
+2024,Dolphins,Josh Kerr,2,1,4,0,99,81,114,91,385,2.02 %,1.23 %,8,8
+2024,Dolphins,Ray Stone,0,1,0,1,99,81,114,91,385,0.00 %,1.23 %,10,8
+2024,Dolphins,Thomas Flegler,1,1,1,1,99,81,114,91,385,1.01 %,1.23 %,9,8
+2024,Dolphins,Sean O'Sullivan,1,1,0,2,99,81,114,91,385,1.01 %,1.23 %,9,8
+2024,Dolphins,Jake Averillo,11,12,10,12,99,81,114,91,385,11.11 %,14.81 %,4,2
+2024,Dolphins,Lachlan Hubner,0,0,0,0,99,81,114,91,385,0.00 %,0.00 %,10,9
+2024,Dolphins,Tesi Niu,4,1,4,2,99,81,114,91,385,4.04 %,1.23 %,6,8
+2024,Dolphins,Connelly Lemuelu,1,1,2,0,99,81,114,91,385,1.01 %,1.23 %,9,8
+2024,Dolphins,Herbie Farnworth,8,7,10,10,99,81,114,91,385,8.08 %,8.64 %,5,4
+2024,Dolphins,Trai Fuller,4,2,8,4,99,81,114,91,385,4.04 %,2.47 %,6,7
+2024,Dolphins,Oryn Keeley,1,1,0,0,99,81,114,91,385,1.01 %,1.23 %,9,8
+2025,Sydney Roosters,Taylor Losalu,0,0,0,0,114,100,128,104,446,0.00 %,0.00 %,11,11
+2025,Sydney Roosters,Max McCathie,0,0,0,0,114,100,128,104,446,0.00 %,0.00 %,11,11
+2025,Sydney Roosters,Tom Rodwell,0,1,2,0,114,100,128,104,446,0.00 %,1.00 %,11,10
+2025,Sydney Roosters,Siua Wong,3,3,1,4,114,100,128,104,446,2.63 %,3.00 %,9,8
+2025,Sydney Roosters,Sam Walker,0,16,1,3,114,100,128,104,446,0.00 %,16.00 %,11,2
+2025,Sydney Roosters,Ben Johnson,0,0,0,0,114,100,128,104,446,0.00 %,0.00 %,11,11
+2025,Sydney Roosters,Xavier Va'a,1,0,1,0,114,100,128,104,446,0.88 %,0.00 %,10,11
+2025,Sydney Roosters,Naufahu Whyte,3,0,2,2,114,100,128,104,446,2.63 %,0.00 %,9,11
+2025,Sydney Roosters,Ethan Roberts,0,0,0,0,114,100,128,104,446,0.00 %,0.00 %,11,11
+2025,Sydney Roosters,Blake Steep,1,1,2,1,114,100,128,104,446,0.88 %,1.00 %,10,10
+2025,Sydney Roosters,Benaiah Ioelu,0,1,0,1,114,100,128,104,446,0.00 %,1.00 %,11,10
+2025,Sydney Roosters,Dominic Young,6,0,10,0,114,100,128,104,446,5.26 %,0.00 %,6,11
+2025,Sydney Roosters,Salesi Foketi,1,2,1,3,114,100,128,104,446,0.88 %,2.00 %,10,9
+2025,Sydney Roosters,Robert Toia,7,8,9,12,114,100,128,104,446,6.14 %,8.00 %,5,4
+2025,Sydney Roosters,De La Salle Va'a,0,0,0,0,114,100,128,104,446,0.00 %,0.00 %,11,11
+2025,Sydney Roosters,Ethan King,0,1,0,1,114,100,128,104,446,0.00 %,1.00 %,11,10
+2025,Sydney Roosters,Mark Nawaqanitawase,24,7,23,10,114,100,128,104,446,21.05 %,7.00 %,1,5
+2025,Sydney Roosters,Daniel Tupou,19,3,21,5,114,100,128,104,446,16.67 %,3.00 %,2,8
+2025,Sydney Roosters,James Tedesco,11,22,21,27,114,100,128,104,446,9.65 %,22.00 %,3,1
+2025,Sydney Roosters,Zach Dockar-Clay,1,2,0,3,114,100,128,104,446,0.88 %,2.00 %,10,9
+2025,Sydney Roosters,Chad Townsend,0,0,0,2,114,100,128,104,446,0.00 %,0.00 %,11,11
+2025,Sydney Roosters,Makahesi Makatoa,0,0,0,0,114,100,128,104,446,0.00 %,0.00 %,11,11
+2025,Sydney Roosters,Lindsay Collins,3,0,2,0,114,100,128,104,446,2.63 %,0.00 %,9,11
+2025,Sydney Roosters,Angus Crichton,5,2,4,1,114,100,128,104,446,4.39 %,2.00 %,7,9
+2025,Sydney Roosters,Connor Watson,5,5,3,6,114,100,128,104,446,4.39 %,5.00 %,7,6
+2025,Sydney Roosters,Nat Butcher,1,0,1,0,114,100,128,104,446,0.88 %,0.00 %,10,11
+2025,Sydney Roosters,Victor Radley,4,3,4,7,114,100,128,104,446,3.51 %,3.00 %,8,8
+2025,Sydney Roosters,Egan Butcher,1,2,2,2,114,100,128,104,446,0.88 %,2.00 %,10,9
+2025,Sydney Roosters,Spencer Leniu,1,0,1,0,114,100,128,104,446,0.88 %,0.00 %,10,11
+2025,Sydney Roosters,Junior Tupou,0,0,0,0,114,100,128,104,446,0.00 %,0.00 %,11,11
+2025,Sydney Roosters,Billy Smith,8,4,5,6,114,100,128,104,446,7.02 %,4.00 %,4,7
+2025,Sydney Roosters,Sandon Smith,5,7,6,6,114,100,128,104,446,4.39 %,7.00 %,7,5
+2025,Sydney Roosters,Hugo Savala,4,10,6,2,114,100,128,104,446,3.51 %,10.00 %,8,3
+2025,Manly-Warringah Sea Eagles,Clayton Faulalo,4,0,8,0,97,79,126,95,397,4.12 %,0.00 %,7,8
+2025,Manly-Warringah Sea Eagles,Raymond Tuaimalo Vaega,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Lehi Hopoate,8,10,14,13,97,79,126,95,397,8.25 %,12.66 %,4,3
+2025,Manly-Warringah Sea Eagles,Simione Laiafi,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Joey Walsh,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Daly Cherry-Evans,5,21,5,16,97,79,126,95,397,5.15 %,26.58 %,6,1
+2025,Manly-Warringah Sea Eagles,Michael Chee-Kam,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Matthew Lodge,2,0,2,0,97,79,126,95,397,2.06 %,0.00 %,9,8
+2025,Manly-Warringah Sea Eagles,Luke Brooks,4,12,3,18,97,79,126,95,397,4.12 %,15.19 %,7,2
+2025,Manly-Warringah Sea Eagles,Nathan Brown,1,0,0,1,97,79,126,95,397,1.03 %,0.00 %,10,8
+2025,Manly-Warringah Sea Eagles,Jake Trbojevic,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Josh Aloiai,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Toafofoa Sipley,2,0,4,0,97,79,126,95,397,2.06 %,0.00 %,9,8
+2025,Manly-Warringah Sea Eagles,Siosiua Taukeiaho,0,0,0,2,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Jazz Tevaga,0,0,1,1,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Tom Trbojevic,6,12,9,17,97,79,126,95,397,6.19 %,15.19 %,5,2
+2025,Manly-Warringah Sea Eagles,Lachlan Croker,0,1,0,1,97,79,126,95,397,0.00 %,1.27 %,11,7
+2025,Manly-Warringah Sea Eagles,Corey Waddell,4,1,8,1,97,79,126,95,397,4.12 %,1.27 %,7,7
+2025,Manly-Warringah Sea Eagles,Reuben Garrick,12,3,12,6,97,79,126,95,397,12.37 %,3.80 %,2,5
+2025,Manly-Warringah Sea Eagles,Dean Matterson,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Taniela Paseka,0,1,0,1,97,79,126,95,397,0.00 %,1.27 %,11,7
+2025,Manly-Warringah Sea Eagles,Aaron Schoupp,1,0,1,0,97,79,126,95,397,1.03 %,0.00 %,10,8
+2025,Manly-Warringah Sea Eagles,Tommy Talau,3,1,5,2,97,79,126,95,397,3.09 %,1.27 %,8,7
+2025,Manly-Warringah Sea Eagles,Ethan Bullemor,5,0,4,0,97,79,126,95,397,5.15 %,0.00 %,6,8
+2025,Manly-Warringah Sea Eagles,Jason Saab,10,6,19,0,97,79,126,95,397,10.31 %,7.59 %,3,4
+2025,Manly-Warringah Sea Eagles,Ben Trbojevic,5,2,2,4,97,79,126,95,397,5.15 %,2.53 %,6,6
+2025,Manly-Warringah Sea Eagles,Haumole Olakau'atu,5,3,6,3,97,79,126,95,397,5.15 %,3.80 %,6,5
+2025,Manly-Warringah Sea Eagles,Gordon Chan Kum Tong,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Manly-Warringah Sea Eagles,Jake Simpkin,2,0,4,0,97,79,126,95,397,2.06 %,0.00 %,9,8
+2025,Manly-Warringah Sea Eagles,Caleb Navale,1,0,1,0,97,79,126,95,397,1.03 %,0.00 %,10,8
+2025,Manly-Warringah Sea Eagles,Tolutau Koula,17,6,18,9,97,79,126,95,397,17.53 %,7.59 %,1,4
+2025,Manly-Warringah Sea Eagles,Jakob Arthur,0,0,0,0,97,79,126,95,397,0.00 %,0.00 %,11,8
+2025,Newcastle Knights,Mason Teague,0,0,0,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Paul Bryan,0,0,0,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Fletcher Sharpe,11,2,11,4,61,53,104,76,294,18.03 %,3.77 %,1,7
+2025,Newcastle Knights,Kyle McCarthy,1,0,2,0,61,53,104,76,294,1.64 %,0.00 %,8,9
+2025,Newcastle Knights,Leo Thompson,1,2,0,4,61,53,104,76,294,1.64 %,3.77 %,8,7
+2025,Newcastle Knights,James Schiller,8,1,21,1,61,53,104,76,294,13.11 %,1.89 %,2,8
+2025,Newcastle Knights,Dominic Young,4,1,7,1,61,53,104,76,294,6.56 %,1.89 %,5,8
+2025,Newcastle Knights,Kai Pearce-Paul,2,4,5,3,61,53,104,76,294,3.28 %,7.55 %,7,5
+2025,Newcastle Knights,Jermaine McEwen,3,1,1,1,61,53,104,76,294,4.92 %,1.89 %,6,8
+2025,Newcastle Knights,Fletcher Hunt,5,1,2,1,61,53,104,76,294,8.20 %,1.89 %,4,8
+2025,Newcastle Knights,Connor Votano,0,0,0,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Matthew Arthur,0,0,0,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Cody Hopwood,0,0,0,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Elijah Salesa-Leaumoana,1,0,1,1,61,53,104,76,294,1.64 %,0.00 %,8,9
+2025,Newcastle Knights,Tyrone Thompson,0,0,0,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Dane Gagai,2,6,6,16,61,53,104,76,294,3.28 %,11.32 %,7,3
+2025,Newcastle Knights,Adam Elliott,0,0,1,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Jackson Hastings,0,1,0,1,61,53,104,76,294,0.00 %,1.89 %,9,8
+2025,Newcastle Knights,Tyson Frizell,0,0,0,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Jayden Brailey,0,2,0,1,61,53,104,76,294,0.00 %,3.77 %,9,7
+2025,Newcastle Knights,Jack Cogger,1,5,5,7,61,53,104,76,294,1.64 %,9.43 %,8,4
+2025,Newcastle Knights,Jack Hetherington,0,0,1,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Jacob Saifiti,0,0,1,1,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Brodie Jones,2,0,2,0,61,53,104,76,294,3.28 %,0.00 %,7,9
+2025,Newcastle Knights,Matt Croker,2,0,1,1,61,53,104,76,294,3.28 %,0.00 %,7,9
+2025,Newcastle Knights,Greg Marzhew,6,3,12,3,61,53,104,76,294,9.84 %,5.66 %,3,6
+2025,Newcastle Knights,Phoenix Crossland,0,3,0,1,61,53,104,76,294,0.00 %,5.66 %,9,6
+2025,Newcastle Knights,Kalyn Ponga,1,9,4,11,61,53,104,76,294,1.64 %,16.98 %,8,1
+2025,Newcastle Knights,Dylan Lucas,5,1,7,2,61,53,104,76,294,8.20 %,1.89 %,4,8
+2025,Newcastle Knights,Bradman Best,6,7,12,12,61,53,104,76,294,9.84 %,13.21 %,3,2
+2025,Newcastle Knights,Tyson Gamble,0,3,0,3,61,53,104,76,294,0.00 %,5.66 %,9,6
+2025,Newcastle Knights,Thomas Cant,0,0,2,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Newcastle Knights,Jakob Arthur,0,1,0,1,61,53,104,76,294,0.00 %,1.89 %,9,8
+2025,Newcastle Knights,Brock Greacen,0,0,0,0,61,53,104,76,294,0.00 %,0.00 %,9,9
+2025,Gold Coast Titans,Chris Randall,2,2,4,1,92,74,101,72,339,2.17 %,2.70 %,9,7
+2025,Gold Coast Titans,Alofiana Khan-Pereira,9,2,11,1,92,74,101,72,339,9.78 %,2.70 %,5,7
+2025,Gold Coast Titans,Jayden Campbell,7,9,10,7,92,74,101,72,339,7.61 %,12.16 %,6,3
+2025,Gold Coast Titans,Allan Fitzgibbon,2,0,2,0,92,74,101,72,339,2.17 %,0.00 %,9,9
+2025,Gold Coast Titans,Jaylan De Groot,5,2,6,3,92,74,101,72,339,5.43 %,2.70 %,7,7
+2025,Gold Coast Titans,Tom Weaver,0,2,1,0,92,74,101,72,339,0.00 %,2.70 %,11,7
+2025,Gold Coast Titans,Iszac Fa'asuamaleaui,0,0,0,0,92,74,101,72,339,0.00 %,0.00 %,11,9
+2025,Gold Coast Titans,Sosefo Fifita,11,3,5,2,92,74,101,72,339,11.96 %,4.05 %,3,6
+2025,Gold Coast Titans,Josiah Pahulu,1,0,2,0,92,74,101,72,339,1.09 %,0.00 %,10,9
+2025,Gold Coast Titans,Keano Kini,0,3,3,1,92,74,101,72,339,0.00 %,4.05 %,11,6
+2025,Gold Coast Titans,Arama Hau,1,1,1,2,92,74,101,72,339,1.09 %,1.35 %,10,8
+2025,Gold Coast Titans,Klese Haas,0,2,1,2,92,74,101,72,339,0.00 %,2.70 %,11,7
+2025,Gold Coast Titans,Josh Patston,1,0,1,0,92,74,101,72,339,1.09 %,0.00 %,10,9
+2025,Gold Coast Titans,Cooper Bai,0,0,1,0,92,74,101,72,339,0.00 %,0.00 %,11,9
+2025,Gold Coast Titans,Carter Gordon,0,0,0,0,92,74,101,72,339,0.00 %,0.00 %,11,9
+2025,Gold Coast Titans,Kieran Foran,1,10,2,13,92,74,101,72,339,1.09 %,13.51 %,10,2
+2025,Gold Coast Titans,Brock Gray,0,0,0,0,92,74,101,72,339,0.00 %,0.00 %,11,9
+2025,Gold Coast Titans,Reagan Campbell-Gillard,0,0,0,0,92,74,101,72,339,0.00 %,0.00 %,11,9
+2025,Gold Coast Titans,Brian Kelly,7,10,10,11,92,74,101,72,339,7.61 %,13.51 %,6,2
+2025,Gold Coast Titans,Jaimin Jolliffe,1,0,1,2,92,74,101,72,339,1.09 %,0.00 %,10,9
+2025,Gold Coast Titans,Sam Verrills,2,5,2,6,92,74,101,72,339,2.17 %,6.76 %,9,4
+2025,Gold Coast Titans,Phillip Sami,15,1,11,3,92,74,101,72,339,16.30 %,1.35 %,1,8
+2025,Gold Coast Titans,Alexander Brimson,12,13,13,8,92,74,101,72,339,13.04 %,17.57 %,2,1
+2025,Gold Coast Titans,Moeaki Fotuaika,1,0,2,0,92,74,101,72,339,1.09 %,0.00 %,10,9
+2025,Gold Coast Titans,Beau Fermor,10,4,6,1,92,74,101,72,339,10.87 %,5.41 %,4,5
+2025,Gold Coast Titans,David Fifita,1,2,1,3,92,74,101,72,339,1.09 %,2.70 %,10,7
+2025,Gold Coast Titans,Tino Faasuamaleaui,3,2,3,6,92,74,101,72,339,3.26 %,2.70 %,8,7
+2025,Gold Coast Titans,Jacob Alick,0,0,0,0,92,74,101,72,339,0.00 %,0.00 %,11,9
+2025,Gold Coast Titans,Sean Mullany,0,0,0,0,92,74,101,72,339,0.00 %,0.00 %,11,9
+2025,Gold Coast Titans,Tony Francis,0,1,2,0,92,74,101,72,339,0.00 %,1.35 %,11,8
+2025,Gold Coast Titans,Tukimihia Simpkins,0,0,0,0,92,74,101,72,339,0.00 %,0.00 %,11,9
+2025,South Sydney Rabbitohs,Fletcher Myers,0,1,2,0,77,62,92,71,302,0.00 %,1.61 %,10,7
+2025,South Sydney Rabbitohs,Ashton Ward,1,1,0,1,77,62,92,71,302,1.30 %,1.61 %,9,7
+2025,South Sydney Rabbitohs,Thomas Fletcher,1,1,2,0,77,62,92,71,302,1.30 %,1.61 %,9,7
+2025,South Sydney Rabbitohs,Jamie Humphreys,1,4,1,4,77,62,92,71,302,1.30 %,6.45 %,9,4
+2025,South Sydney Rabbitohs,Lewis Dodd,0,1,0,0,77,62,92,71,302,0.00 %,1.61 %,10,7
+2025,South Sydney Rabbitohs,Tyrone Munro,7,0,6,0,77,62,92,71,302,9.09 %,0.00 %,3,8
+2025,South Sydney Rabbitohs,Liam Le Blanc,1,0,1,0,77,62,92,71,302,1.30 %,0.00 %,9,8
+2025,South Sydney Rabbitohs,Jye Gray,5,6,8,8,77,62,92,71,302,6.49 %,9.68 %,5,3
+2025,South Sydney Rabbitohs,Alex Johnston,15,3,18,4,77,62,92,71,302,19.48 %,4.84 %,1,5
+2025,South Sydney Rabbitohs,Jai Arrow,2,0,2,0,77,62,92,71,302,2.60 %,0.00 %,8,8
+2025,South Sydney Rabbitohs,Jack Wighton,6,4,5,6,77,62,92,71,302,7.79 %,6.45 %,4,4
+2025,South Sydney Rabbitohs,Euan Aitken,2,1,1,2,77,62,92,71,302,2.60 %,1.61 %,8,7
+2025,South Sydney Rabbitohs,Jacob Host,1,1,0,1,77,62,92,71,302,1.30 %,1.61 %,9,7
+2025,South Sydney Rabbitohs,Cody Walker,1,8,4,7,77,62,92,71,302,1.30 %,12.90 %,9,2
+2025,South Sydney Rabbitohs,Siliva Havili,2,1,2,1,77,62,92,71,302,2.60 %,1.61 %,8,7
+2025,South Sydney Rabbitohs,Latrell Mitchell,2,12,6,10,77,62,92,71,302,2.60 %,19.35 %,8,1
+2025,South Sydney Rabbitohs,Shaquai Mitchell,0,0,0,0,77,62,92,71,302,0.00 %,0.00 %,10,8
+2025,South Sydney Rabbitohs,Brandon Smith,0,0,0,1,77,62,92,71,302,0.00 %,0.00 %,10,8
+2025,South Sydney Rabbitohs,Tevita Tatola,2,0,2,0,77,62,92,71,302,2.60 %,0.00 %,8,8
+2025,South Sydney Rabbitohs,Keaon Koloamatangi,4,2,3,4,77,62,92,71,302,5.19 %,3.23 %,6,6
+2025,South Sydney Rabbitohs,Cameron Murray,0,0,0,0,77,62,92,71,302,0.00 %,0.00 %,10,8
+2025,South Sydney Rabbitohs,Sean Keppie,1,0,2,1,77,62,92,71,302,1.30 %,0.00 %,9,8
+2025,South Sydney Rabbitohs,Campbell Graham,0,1,0,1,77,62,92,71,302,0.00 %,1.61 %,10,7
+2025,South Sydney Rabbitohs,Ryan Gray,0,0,0,0,77,62,92,71,302,0.00 %,0.00 %,10,8
+2025,South Sydney Rabbitohs,Bayleigh Bentley-Hape,3,0,2,0,77,62,92,71,302,3.90 %,0.00 %,7,8
+2025,South Sydney Rabbitohs,Lachlan Hubner,1,4,1,5,77,62,92,71,302,1.30 %,6.45 %,9,4
+2025,South Sydney Rabbitohs,Isaiah Tass,5,4,5,4,77,62,92,71,302,6.49 %,6.45 %,5,4
+2025,South Sydney Rabbitohs,Peter Mamouzelos,3,4,2,4,77,62,92,71,302,3.90 %,6.45 %,7,4
+2025,South Sydney Rabbitohs,Jayden Sullivan,0,2,2,1,77,62,92,71,302,0.00 %,3.23 %,10,6
+2025,South Sydney Rabbitohs,Mikaele Ravalawa,0,0,1,0,77,62,92,71,302,0.00 %,0.00 %,10,8
+2025,South Sydney Rabbitohs,Davvy Moale,2,0,2,0,77,62,92,71,302,2.60 %,0.00 %,8,8
+2025,South Sydney Rabbitohs,Tallis Duncan,9,1,12,6,77,62,92,71,302,11.69 %,1.61 %,2,7
+2025,Canterbury-Bankstown Bulldogs,Toby Sexton,3,6,0,6,99,81,133,97,410,3.03 %,7.41 %,8,3
+2025,Canterbury-Bankstown Bulldogs,Jacob Kiraz,11,6,14,8,99,81,133,97,410,11.11 %,7.41 %,2,3
+2025,Canterbury-Bankstown Bulldogs,Harry Hayes,1,1,1,0,99,81,133,97,410,1.01 %,1.23 %,10,8
+2025,Canterbury-Bankstown Bulldogs,Jack Todd,1,0,1,0,99,81,133,97,410,1.01 %,0.00 %,10,9
+2025,Canterbury-Bankstown Bulldogs,Luke Smith,0,0,0,0,99,81,133,97,410,0.00 %,0.00 %,11,9
+2025,Canterbury-Bankstown Bulldogs,Lachlan Galvin,4,5,4,6,99,81,133,97,410,4.04 %,6.17 %,7,4
+2025,Canterbury-Bankstown Bulldogs,Jack Underhill,0,0,0,0,99,81,133,97,410,0.00 %,0.00 %,11,9
+2025,Canterbury-Bankstown Bulldogs,Mitchell Woods,0,0,0,0,99,81,133,97,410,0.00 %,0.00 %,11,9
+2025,Canterbury-Bankstown Bulldogs,Jonathan Sua,0,0,0,0,99,81,133,97,410,0.00 %,0.00 %,11,9
+2025,Canterbury-Bankstown Bulldogs,Jethro Rinakama,3,0,3,0,99,81,133,97,410,3.03 %,0.00 %,8,9
+2025,Canterbury-Bankstown Bulldogs,Viliame Kikau,6,9,5,9,99,81,133,97,410,6.06 %,11.11 %,5,2
+2025,Canterbury-Bankstown Bulldogs,Kurt Mann,2,2,3,3,99,81,133,97,410,2.02 %,2.47 %,9,7
+2025,Canterbury-Bankstown Bulldogs,Jake Turpin,0,0,0,0,99,81,133,97,410,0.00 %,0.00 %,11,9
+2025,Canterbury-Bankstown Bulldogs,Connor Tracey,4,12,7,16,99,81,133,97,410,4.04 %,14.81 %,7,1
+2025,Canterbury-Bankstown Bulldogs,Marcelo Montoya,8,1,15,1,99,81,133,97,410,8.08 %,1.23 %,4,8
+2025,Canterbury-Bankstown Bulldogs,Jaeman Salmon,2,1,1,2,99,81,133,97,410,2.02 %,1.23 %,9,8
+2025,Canterbury-Bankstown Bulldogs,Enari Tuala,5,1,8,0,99,81,133,97,410,5.05 %,1.23 %,6,8
+2025,Canterbury-Bankstown Bulldogs,Max King,2,0,2,0,99,81,133,97,410,2.02 %,0.00 %,9,9
+2025,Canterbury-Bankstown Bulldogs,Blake Taaffe,0,0,1,0,99,81,133,97,410,0.00 %,0.00 %,11,9
+2025,Canterbury-Bankstown Bulldogs,Daniel Fifita,1,0,1,0,99,81,133,97,410,1.01 %,0.00 %,10,9
+2025,Canterbury-Bankstown Bulldogs,Josh Curran,4,2,4,1,99,81,133,97,410,4.04 %,2.47 %,7,7
+2025,Canterbury-Bankstown Bulldogs,Bronson Xerri,9,5,16,12,99,81,133,97,410,9.09 %,6.17 %,3,4
+2025,Canterbury-Bankstown Bulldogs,Sitili Tupouniua,3,0,4,2,99,81,133,97,410,3.03 %,0.00 %,8,9
+2025,Canterbury-Bankstown Bulldogs,Reed Mahoney,3,4,3,3,99,81,133,97,410,3.03 %,4.94 %,8,5
+2025,Canterbury-Bankstown Bulldogs,Kurtis Morrin,0,0,0,0,99,81,133,97,410,0.00 %,0.00 %,11,9
+2025,Canterbury-Bankstown Bulldogs,Bailey Hayward,1,5,2,6,99,81,133,97,410,1.01 %,6.17 %,10,4
+2025,Canterbury-Bankstown Bulldogs,Blake Wilson,2,2,4,0,99,81,133,97,410,2.02 %,2.47 %,9,7
+2025,Canterbury-Bankstown Bulldogs,Jacob Preston,12,3,11,3,99,81,133,97,410,12.12 %,3.70 %,1,6
+2025,Canterbury-Bankstown Bulldogs,Lipoi Hopoi,1,0,0,0,99,81,133,97,410,1.01 %,0.00 %,10,9
+2025,Canterbury-Bankstown Bulldogs,Stephen Crichton,3,12,14,14,99,81,133,97,410,3.03 %,14.81 %,8,1
+2025,Canterbury-Bankstown Bulldogs,Samuel Hughes,2,0,0,0,99,81,133,97,410,2.02 %,0.00 %,9,9
+2025,Canterbury-Bankstown Bulldogs,Matt Burton,6,4,9,5,99,81,133,97,410,6.06 %,4.94 %,5,5
+2025,Canterbury-Bankstown Bulldogs,Joseph O'Neill,0,0,0,0,99,81,133,97,410,0.00 %,0.00 %,11,9
+2025,Brisbane Broncos,Jordan Riki,2,0,6,1,127,105,163,120,515,1.57 %,0.00 %,10,11
+2025,Brisbane Broncos,Ezra Mam,5,11,5,12,127,105,163,120,515,3.94 %,10.48 %,7,3
+2025,Brisbane Broncos,Selwyn Cobbo,6,2,3,5,127,105,163,120,515,4.72 %,1.90 %,6,9
+2025,Brisbane Broncos,Xavier Willison,4,1,4,0,127,105,163,120,515,3.15 %,0.95 %,8,10
+2025,Brisbane Broncos,Josiah Karapani,11,0,14,0,127,105,163,120,515,8.66 %,0.00 %,4,11
+2025,Brisbane Broncos,Deine Mariner,12,4,14,3,127,105,163,120,515,9.45 %,3.81 %,3,7
+2025,Brisbane Broncos,Benjamin Te Kura,0,0,0,0,127,105,163,120,515,0.00 %,0.00 %,12,11
+2025,Brisbane Broncos,Va'a Semu,0,0,0,0,127,105,163,120,515,0.00 %,0.00 %,12,11
+2025,Brisbane Broncos,Adam Reynolds,4,17,2,13,127,105,163,120,515,3.15 %,16.19 %,8,2
+2025,Brisbane Broncos,Jack Gosiewski,4,1,2,1,127,105,163,120,515,3.15 %,0.95 %,8,10
+2025,Brisbane Broncos,Ben Hunt,2,9,2,10,127,105,163,120,515,1.57 %,8.57 %,10,4
+2025,Brisbane Broncos,Corey Jensen,1,0,1,1,127,105,163,120,515,0.79 %,0.00 %,11,11
+2025,Brisbane Broncos,Delouise Hoeter,1,0,1,0,127,105,163,120,515,0.79 %,0.00 %,11,11
+2025,Brisbane Broncos,Martin Taupau,0,0,0,0,127,105,163,120,515,0.00 %,0.00 %,12,11
+2025,Brisbane Broncos,Billy Walters,7,8,6,8,127,105,163,120,515,5.51 %,7.62 %,5,5
+2025,Brisbane Broncos,Payne Haas,3,3,6,4,127,105,163,120,515,2.36 %,2.86 %,9,8
+2025,Brisbane Broncos,Tyson Smoothy,0,0,2,0,127,105,163,120,515,0.00 %,0.00 %,12,11
+2025,Brisbane Broncos,Gehamat Shibasaki,18,6,24,7,127,105,163,120,515,14.17 %,5.71 %,1,6
+2025,Brisbane Broncos,Ben Talty,3,0,2,1,127,105,163,120,515,2.36 %,0.00 %,9,11
+2025,Brisbane Broncos,Jesse Arthars,11,2,16,2,127,105,163,120,515,8.66 %,1.90 %,4,9
+2025,Brisbane Broncos,Jaiyden Hunt,0,1,3,0,127,105,163,120,515,0.00 %,0.95 %,12,10
+2025,Brisbane Broncos,Cory Paix,3,3,3,2,127,105,163,120,515,2.36 %,2.86 %,9,8
+2025,Brisbane Broncos,Kobe Hetherington,2,0,7,1,127,105,163,120,515,1.57 %,0.00 %,10,11
+2025,Brisbane Broncos,Patrick Carrigan,0,4,0,7,127,105,163,120,515,0.00 %,3.81 %,12,7
+2025,Brisbane Broncos,Kotoni Staggs,12,6,26,7,127,105,163,120,515,9.45 %,5.71 %,3,6
+2025,Brisbane Broncos,Fletcher Baker,0,0,0,0,127,105,163,120,515,0.00 %,0.00 %,12,11
+2025,Brisbane Broncos,Reece Walsh,14,26,10,34,127,105,163,120,515,11.02 %,24.76 %,2,1
+2025,Brisbane Broncos,Brendan Piakura,2,1,4,1,127,105,163,120,515,1.57 %,0.95 %,10,10
+2025,North Queensland Cowboys,Nicholas Lenaz,0,0,0,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Marly Bitungane,0,0,0,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Griffin Neame,2,0,3,0,94,77,115,86,372,2.13 %,0.00 %,9,10
+2025,North Queensland Cowboys,Jeremiah Nanai,9,2,7,2,94,77,115,86,372,9.57 %,2.60 %,4,8
+2025,North Queensland Cowboys,Viliami Vailea,2,6,2,8,94,77,115,86,372,2.13 %,7.79 %,9,5
+2025,North Queensland Cowboys,Robert Derby,9,0,13,0,94,77,115,86,372,9.57 %,0.00 %,4,10
+2025,North Queensland Cowboys,Thomas Duffy,0,1,0,1,94,77,115,86,372,0.00 %,1.30 %,11,9
+2025,North Queensland Cowboys,Jamal Shibasaki,0,0,0,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Jaxon Purdue,14,9,16,12,94,77,115,86,372,14.89 %,11.69 %,1,3
+2025,North Queensland Cowboys,Kaiden Lahrs,0,0,0,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Jason Taumalolo,0,1,0,0,94,77,115,86,372,0.00 %,1.30 %,11,9
+2025,North Queensland Cowboys,Coen Hess,1,0,1,0,94,77,115,86,372,1.06 %,0.00 %,10,10
+2025,North Queensland Cowboys,Jordan McLean,0,0,0,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,John Bateman,1,0,3,3,94,77,115,86,372,1.06 %,0.00 %,10,10
+2025,North Queensland Cowboys,Karl Lawton,0,0,0,1,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Reece Robson,2,5,4,3,94,77,115,86,372,2.13 %,6.49 %,9,6
+2025,North Queensland Cowboys,Sam McIntyre,1,2,0,1,94,77,115,86,372,1.06 %,2.60 %,10,8
+2025,North Queensland Cowboys,Scott Drinkwater,11,24,16,21,94,77,115,86,372,11.70 %,31.17 %,3,1
+2025,North Queensland Cowboys,Reuben Cotter,0,0,1,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Thomas Mikaele,0,0,0,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Harrison Edwards,0,0,0,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Jake Clifford,5,8,5,5,94,77,115,86,372,5.32 %,10.39 %,6,4
+2025,North Queensland Cowboys,Braidon Burns,7,2,7,4,94,77,115,86,372,7.45 %,2.60 %,5,8
+2025,North Queensland Cowboys,Jaxson Paulo,2,0,3,0,94,77,115,86,372,2.13 %,0.00 %,9,10
+2025,North Queensland Cowboys,Tom Dearden,9,14,6,18,94,77,115,86,372,9.57 %,18.18 %,4,2
+2025,North Queensland Cowboys,Kai O'Donnell,0,0,0,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Murray Taulagi,12,0,19,1,94,77,115,86,372,12.77 %,0.00 %,2,10
+2025,North Queensland Cowboys,Semi Valemei,4,0,3,0,94,77,115,86,372,4.26 %,0.00 %,7,10
+2025,North Queensland Cowboys,Temple Kalepo,0,0,1,0,94,77,115,86,372,0.00 %,0.00 %,11,10
+2025,North Queensland Cowboys,Zac Laybutt,3,3,5,6,94,77,115,86,372,3.19 %,3.90 %,8,7
+2025,Canberra Raiders,Simi Sasagi,7,2,9,3,120,95,136,94,445,5.83 %,2.11 %,6,8
+2025,Canberra Raiders,Ethan Sanders,0,2,0,1,120,95,136,94,445,0.00 %,2.11 %,12,8
+2025,Canberra Raiders,Ata Mariota,0,2,0,2,120,95,136,94,445,0.00 %,2.11 %,12,8
+2025,Canberra Raiders,Utuloa Asomua,1,0,0,0,120,95,136,94,445,0.83 %,0.00 %,11,10
+2025,Canberra Raiders,Morgan Smithies,1,1,0,1,120,95,136,94,445,0.83 %,1.05 %,11,9
+2025,Canberra Raiders,Noah Martin,2,0,1,1,120,95,136,94,445,1.67 %,0.00 %,10,10
+2025,Canberra Raiders,Vena Patuki-Case,0,0,0,0,120,95,136,94,445,0.00 %,0.00 %,12,10
+2025,Canberra Raiders,Ethan Strange,14,12,17,8,120,95,136,94,445,11.67 %,12.63 %,1,2
+2025,Canberra Raiders,Joe Roddy,2,0,2,0,120,95,136,94,445,1.67 %,0.00 %,10,10
+2025,Canberra Raiders,Chevy Stewart,0,0,1,0,120,95,136,94,445,0.00 %,0.00 %,12,10
+2025,Canberra Raiders,Owen Pattie,2,3,3,2,120,95,136,94,445,1.67 %,3.16 %,10,7
+2025,Canberra Raiders,Kain Anderson,0,0,0,0,120,95,136,94,445,0.00 %,0.00 %,12,10
+2025,Canberra Raiders,Matty Nicholson,5,0,4,3,120,95,136,94,445,4.17 %,0.00 %,7,10
+2025,Canberra Raiders,Jed Stuart,5,2,5,2,120,95,136,94,445,4.17 %,2.11 %,7,8
+2025,Canberra Raiders,Savelio Tamale,7,1,16,1,120,95,136,94,445,5.83 %,1.05 %,6,9
+2025,Canberra Raiders,Joseph Tapine,5,3,7,3,120,95,136,94,445,4.17 %,3.16 %,7,7
+2025,Canberra Raiders,Danny Levi,0,1,0,1,120,95,136,94,445,0.00 %,1.05 %,12,9
+2025,Canberra Raiders,Josh Papalii,3,3,2,3,120,95,136,94,445,2.50 %,3.16 %,9,7
+2025,Canberra Raiders,Jamal Fogarty,2,23,2,15,120,95,136,94,445,1.67 %,24.21 %,10,1
+2025,Canberra Raiders,Tom Starling,4,5,5,4,120,95,136,94,445,3.33 %,5.26 %,8,5
+2025,Canberra Raiders,Hudson Young,11,4,9,4,120,95,136,94,445,9.17 %,4.21 %,3,6
+2025,Canberra Raiders,Pasami Saulo,0,0,0,0,120,95,136,94,445,0.00 %,0.00 %,12,10
+2025,Canberra Raiders,Sebastian Kris,9,12,7,16,120,95,136,94,445,7.50 %,12.63 %,5,2
+2025,Canberra Raiders,Albert Hopoate,0,0,0,0,120,95,136,94,445,0.00 %,0.00 %,12,10
+2025,Canberra Raiders,Zac Hosking,5,2,3,5,120,95,136,94,445,4.17 %,2.11 %,7,8
+2025,Canberra Raiders,Corey Horsburgh,2,2,3,2,120,95,136,94,445,1.67 %,2.11 %,10,8
+2025,Canberra Raiders,Adam Cook,0,0,0,0,120,95,136,94,445,0.00 %,0.00 %,12,10
+2025,Canberra Raiders,Kaeo Weekes,11,7,16,9,120,95,136,94,445,9.17 %,7.37 %,3,3
+2025,Canberra Raiders,Trey Mooney,0,1,0,3,120,95,136,94,445,0.00 %,1.05 %,12,9
+2025,Canberra Raiders,Manaia Waitere,0,0,0,0,120,95,136,94,445,0.00 %,0.00 %,12,10
+2025,Canberra Raiders,Matthew Timoko,10,6,15,4,120,95,136,94,445,8.33 %,6.32 %,4,4
+2025,Canberra Raiders,Xavier Savage,12,1,9,1,120,95,136,94,445,10.00 %,1.05 %,2,9
+2025,Penrith Panthers,Riley Price,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Brad Schneider,2,5,3,5,113,90,145,108,456,1.77 %,5.56 %,10,5
+2025,Penrith Panthers,Jack Cole,1,2,1,4,113,90,145,108,456,0.88 %,2.22 %,11,8
+2025,Penrith Panthers,Paul Alamoti,17,3,22,2,113,90,145,108,456,15.04 %,3.33 %,1,7
+2025,Penrith Panthers,Harrison Hassett,1,0,1,0,113,90,145,108,456,0.88 %,0.00 %,11,10
+2025,Penrith Panthers,Luron Patea,1,0,2,0,113,90,145,108,456,0.88 %,0.00 %,11,10
+2025,Penrith Panthers,Jesse McLean,0,0,0,1,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Blaize Talagi,6,11,4,9,113,90,145,108,456,5.31 %,12.22 %,6,2
+2025,Penrith Panthers,Thomas Jenkins,13,4,20,3,113,90,145,108,456,11.50 %,4.44 %,3,6
+2025,Penrith Panthers,Liam Henry,3,0,0,1,113,90,145,108,456,2.65 %,0.00 %,9,10
+2025,Penrith Panthers,Billy Phillips,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Casey McLean,16,11,16,17,113,90,145,108,456,14.16 %,12.22 %,2,2
+2025,Penrith Panthers,Jaxen Edgar,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,David Fale,0,0,2,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Isaah Yeo,1,3,2,3,113,90,145,108,456,0.88 %,3.33 %,11,7
+2025,Penrith Panthers,Scott Sorensen,3,3,3,3,113,90,145,108,456,2.65 %,3.33 %,9,7
+2025,Penrith Panthers,Luke Garner,5,5,10,4,113,90,145,108,456,4.42 %,5.56 %,7,5
+2025,Penrith Panthers,Moses Leota,1,1,1,0,113,90,145,108,456,0.88 %,1.11 %,11,9
+2025,Penrith Panthers,Soni Luke,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Matthew Eisenhuth,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Dylan Edwards,6,10,10,12,113,90,145,108,456,5.31 %,11.11 %,6,3
+2025,Penrith Panthers,Nathan Cleary,6,17,7,18,113,90,145,108,456,5.31 %,18.89 %,6,1
+2025,Penrith Panthers,Liam Martin,3,0,8,0,113,90,145,108,456,2.65 %,0.00 %,9,10
+2025,Penrith Panthers,Sione Fonua,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Brian To'o,8,2,13,0,113,90,145,108,456,7.08 %,2.22 %,4,8
+2025,Penrith Panthers,Mitchell Kenny,0,3,1,1,113,90,145,108,456,0.00 %,3.33 %,12,7
+2025,Penrith Panthers,Lindsay Smith,4,0,4,1,113,90,145,108,456,3.54 %,0.00 %,8,10
+2025,Penrith Panthers,Luke Sommerton,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Isaiah Papali'i,7,0,8,1,113,90,145,108,456,6.19 %,0.00 %,5,10
+2025,Penrith Panthers,Preston Riki,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Daine Laurie,2,1,3,3,113,90,145,108,456,1.77 %,1.11 %,10,9
+2025,Penrith Panthers,Mavrik Geyer,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Trent Toelau,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Austin Dias,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Zac Lipowicz,0,0,0,0,113,90,145,108,456,0.00 %,0.00 %,12,10
+2025,Penrith Panthers,Izack Tago,7,9,4,20,113,90,145,108,456,6.19 %,10.00 %,5,4
+2025,Melbourne Storm,Trent Loiero,4,0,3,1,129,108,126,89,452,3.10 %,0.00 %,9,11
+2025,Melbourne Storm,Xavier Coates,20,7,15,2,129,108,126,89,452,15.50 %,6.48 %,1,4
+2025,Melbourne Storm,Jack Howarth,2,6,5,2,129,108,126,89,452,1.55 %,5.56 %,11,5
+2025,Melbourne Storm,Sualauvi Faalogo,4,3,7,0,129,108,126,89,452,3.10 %,2.78 %,9,8
+2025,Melbourne Storm,Alec MacDonald,0,0,1,0,129,108,126,89,452,0.00 %,0.00 %,13,11
+2025,Melbourne Storm,Coby Williamson,0,0,0,0,129,108,126,89,452,0.00 %,0.00 %,13,11
+2025,Melbourne Storm,Joe Chan,1,2,1,1,129,108,126,89,452,0.78 %,1.85 %,12,9
+2025,Melbourne Storm,Ativalu Lisati,1,0,1,0,129,108,126,89,452,0.78 %,0.00 %,12,11
+2025,Melbourne Storm,Will Warbrick,5,1,6,0,129,108,126,89,452,3.88 %,0.93 %,8,10
+2025,Melbourne Storm,Siulagi Tuimalatu-Brown,0,0,0,0,129,108,126,89,452,0.00 %,0.00 %,13,11
+2025,Melbourne Storm,Moses Leo,0,0,0,1,129,108,126,89,452,0.00 %,0.00 %,13,11
+2025,Melbourne Storm,Bronson Garlick,2,2,0,3,129,108,126,89,452,1.55 %,1.85 %,11,9
+2025,Melbourne Storm,Jahrome Hughes,8,20,10,13,129,108,126,89,452,6.20 %,18.52 %,6,2
+2025,Melbourne Storm,Tui Kamikamica,1,0,1,0,129,108,126,89,452,0.78 %,0.00 %,12,11
+2025,Melbourne Storm,Josh King,5,1,3,1,129,108,126,89,452,3.88 %,0.93 %,8,10
+2025,Melbourne Storm,Nelson Asofa-Solomona,3,1,3,1,129,108,126,89,452,2.33 %,0.93 %,10,10
+2025,Melbourne Storm,Cameron Munster,2,23,7,11,129,108,126,89,452,1.55 %,21.30 %,11,1
+2025,Melbourne Storm,Marion Seve,1,0,1,0,129,108,126,89,452,0.78 %,0.00 %,12,11
+2025,Melbourne Storm,Ryan Papenhuyzen,15,7,12,11,129,108,126,89,452,11.63 %,6.48 %,2,4
+2025,Melbourne Storm,Shawn Blore,2,3,2,8,129,108,126,89,452,1.55 %,2.78 %,11,8
+2025,Melbourne Storm,Lazarus Vaalepu,0,0,0,0,129,108,126,89,452,0.00 %,0.00 %,13,11
+2025,Melbourne Storm,Nick Meaney,10,4,8,6,129,108,126,89,452,7.75 %,3.70 %,5,7
+2025,Melbourne Storm,Stefano Utoikamanu,2,0,3,0,129,108,126,89,452,1.55 %,0.00 %,11,11
+2025,Melbourne Storm,Harry Grant,5,10,5,12,129,108,126,89,452,3.88 %,9.26 %,8,3
+2025,Melbourne Storm,Tyran Wishart,7,5,6,0,129,108,126,89,452,5.43 %,4.63 %,7,6
+2025,Melbourne Storm,Grant Anderson,11,4,17,6,129,108,126,89,452,8.53 %,3.70 %,4,7
+2025,Melbourne Storm,Kane Bradley,4,0,1,0,129,108,126,89,452,3.10 %,0.00 %,9,11
+2025,Melbourne Storm,Jonah Pezet,0,3,0,2,129,108,126,89,452,0.00 %,2.78 %,13,8
+2025,Melbourne Storm,Eliesa Katoa,14,6,8,8,129,108,126,89,452,10.85 %,5.56 %,3,5
+2025,St. George Illawarra Dragons,Christian Tuipulotu,8,1,12,1,86,71,116,94,367,9.30 %,1.41 %,3,8
+2025,St. George Illawarra Dragons,Sione Finau,4,0,4,0,86,71,116,94,367,4.65 %,0.00 %,7,9
+2025,St. George Illawarra Dragons,Hamish Stewart,1,2,1,1,86,71,116,94,367,1.16 %,2.82 %,10,7
+2025,St. George Illawarra Dragons,Dylan Egan,3,0,3,1,86,71,116,94,367,3.49 %,0.00 %,8,9
+2025,St. George Illawarra Dragons,Nick Tsougranis,0,0,0,0,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Ryan Couchman,0,0,0,0,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Hayden Buchanan,1,1,0,1,86,71,116,94,367,1.16 %,1.41 %,10,8
+2025,St. George Illawarra Dragons,Toby Couchman,0,0,1,1,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Jacob Halangahu,0,0,0,0,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Lyhkan King-Togia,2,9,6,6,86,71,116,94,367,2.33 %,12.68 %,9,2
+2025,St. George Illawarra Dragons,Loko Pasifiki Tonga,1,0,1,1,86,71,116,94,367,1.16 %,0.00 %,10,9
+2025,St. George Illawarra Dragons,Nathan Lawson,2,0,1,0,86,71,116,94,367,2.33 %,0.00 %,9,9
+2025,St. George Illawarra Dragons,David Klemmer,0,1,0,1,86,71,116,94,367,0.00 %,1.41 %,11,8
+2025,St. George Illawarra Dragons,Luciano Leilua,0,1,1,8,86,71,116,94,367,0.00 %,1.41 %,11,8
+2025,St. George Illawarra Dragons,Jack de Belin,1,2,2,3,86,71,116,94,367,1.16 %,2.82 %,10,7
+2025,St. George Illawarra Dragons,Ben Murdoch-Masila,0,0,0,0,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Clinton Gutherson,7,16,18,21,86,71,116,94,367,8.14 %,22.54 %,4,1
+2025,St. George Illawarra Dragons,Valentine Holmes,6,9,9,9,86,71,116,94,367,6.98 %,12.68 %,5,2
+2025,St. George Illawarra Dragons,Raymond Faitala-Mariner,0,0,0,1,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Hame Sele,0,0,0,0,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Damien Cook,1,4,4,3,86,71,116,94,367,1.16 %,5.63 %,10,5
+2025,St. George Illawarra Dragons,Blake Lawrie,0,0,0,1,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Jacob Liddle,9,1,7,2,86,71,116,94,367,10.47 %,1.41 %,2,8
+2025,St. George Illawarra Dragons,Jaydn Su'A,4,2,3,1,86,71,116,94,367,4.65 %,2.82 %,7,7
+2025,St. George Illawarra Dragons,Moses Suli,1,8,2,15,86,71,116,94,367,1.16 %,11.27 %,10,3
+2025,St. George Illawarra Dragons,Michael Molo,0,0,0,0,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Kyle Flanagan,7,7,6,11,86,71,116,94,367,8.14 %,9.86 %,4,4
+2025,St. George Illawarra Dragons,Emre Guler,2,1,1,2,86,71,116,94,367,2.33 %,1.41 %,9,8
+2025,St. George Illawarra Dragons,Lachlan Ilias,0,2,0,1,86,71,116,94,367,0.00 %,2.82 %,11,7
+2025,St. George Illawarra Dragons,Corey Allan,5,0,6,2,86,71,116,94,367,5.81 %,0.00 %,6,9
+2025,St. George Illawarra Dragons,Viliami Fifita,0,0,0,0,86,71,116,94,367,0.00 %,0.00 %,11,9
+2025,St. George Illawarra Dragons,Mathew Feagai,4,1,6,1,86,71,116,94,367,4.65 %,1.41 %,7,8
+2025,St. George Illawarra Dragons,Tyrell Sloan,17,3,22,0,86,71,116,94,367,19.77 %,4.23 %,1,6
+2025,Wests Tigers,Tony Sukkar,0,2,1,2,83,65,94,65,307,0.00 %,3.08 %,10,6
+2025,Wests Tigers,Fonua Pole,1,0,3,0,83,65,94,65,307,1.20 %,0.00 %,9,8
+2025,Wests Tigers,Charlie Murray,0,0,0,0,83,65,94,65,307,0.00 %,0.00 %,10,8
+2025,Wests Tigers,Latu Fainu,3,3,4,1,83,65,94,65,307,3.61 %,4.62 %,7,5
+2025,Wests Tigers,Heath Mason,1,0,2,1,83,65,94,65,307,1.20 %,0.00 %,9,8
+2025,Wests Tigers,Tallyn Da Silva,3,0,2,0,83,65,94,65,307,3.61 %,0.00 %,7,8
+2025,Wests Tigers,Kit Laulilii,0,0,0,0,83,65,94,65,307,0.00 %,0.00 %,10,8
+2025,Wests Tigers,Lachlan Galvin,1,8,2,5,83,65,94,65,307,1.20 %,12.31 %,9,2
+2025,Wests Tigers,Luke Laulilii,2,0,0,0,83,65,94,65,307,2.41 %,0.00 %,8,8
+2025,Wests Tigers,Jahream Bula,8,7,8,7,83,65,94,65,307,9.64 %,10.77 %,4,3
+2025,Wests Tigers,Jeral Skelton,10,0,11,1,83,65,94,65,307,12.05 %,0.00 %,2,8
+2025,Wests Tigers,Heamasi Makasini,1,0,1,0,83,65,94,65,307,1.20 %,0.00 %,9,8
+2025,Wests Tigers,Apisai Koroisau,3,3,6,3,83,65,94,65,307,3.61 %,4.62 %,7,5
+2025,Wests Tigers,Royce Hunt,2,0,1,0,83,65,94,65,307,2.41 %,0.00 %,8,8
+2025,Wests Tigers,Jack Bird,0,0,0,0,83,65,94,65,307,0.00 %,0.00 %,10,8
+2025,Wests Tigers,Brent Naden,1,1,0,1,83,65,94,65,307,1.20 %,1.54 %,9,7
+2025,Wests Tigers,Izaac Thompson,0,0,0,0,83,65,94,65,307,0.00 %,0.00 %,10,8
+2025,Wests Tigers,Alex Twal,0,0,0,0,83,65,94,65,307,0.00 %,0.00 %,10,8
+2025,Wests Tigers,Jarome Luai,1,12,1,10,83,65,94,65,307,1.20 %,18.46 %,9,1
+2025,Wests Tigers,Tristan Hope,0,1,0,1,83,65,94,65,307,0.00 %,1.54 %,10,7
+2025,Wests Tigers,Alex Seyfarth,4,2,3,1,83,65,94,65,307,4.82 %,3.08 %,6,6
+2025,Wests Tigers,Adam Doueihi,6,8,10,9,83,65,94,65,307,7.23 %,12.31 %,5,2
+2025,Wests Tigers,Solomona Faataape,1,0,0,0,83,65,94,65,307,1.20 %,0.00 %,9,8
+2025,Wests Tigers,Taylan May,4,3,6,5,83,65,94,65,307,4.82 %,4.62 %,6,5
+2025,Wests Tigers,Terrell May,1,1,1,5,83,65,94,65,307,1.20 %,1.54 %,9,7
+2025,Wests Tigers,Starford To'a,9,8,8,10,83,65,94,65,307,10.84 %,12.31 %,3,2
+2025,Wests Tigers,Sione Fainu,2,0,3,0,83,65,94,65,307,2.41 %,0.00 %,8,8
+2025,Wests Tigers,Charlie Staines,4,0,4,0,83,65,94,65,307,4.82 %,0.00 %,6,8
+2025,Wests Tigers,Krystian Mapapalangi,0,0,0,0,83,65,94,65,307,0.00 %,0.00 %,10,8
+2025,Wests Tigers,Sunia Turuva,11,1,12,0,83,65,94,65,307,13.25 %,1.54 %,1,7
+2025,Wests Tigers,Samuela Fainu,4,5,5,3,83,65,94,65,307,4.82 %,7.69 %,6,4
+2025,Cronulla-Sutherland Sharks,Chris Vea'ila,1,0,1,1,115,95,127,106,443,0.87 %,0.00 %,10,9
+2025,Cronulla-Sutherland Sharks,Jesse Colquhoun,1,0,0,0,115,95,127,106,443,0.87 %,0.00 %,10,9
+2025,Cronulla-Sutherland Sharks,Daniel Atkinson,3,0,2,1,115,95,127,106,443,2.61 %,0.00 %,8,9
+2025,Cronulla-Sutherland Sharks,Jayden Berrell,0,0,0,0,115,95,127,106,443,0.00 %,0.00 %,11,9
+2025,Cronulla-Sutherland Sharks,Cameron McInnes,3,0,3,1,115,95,127,106,443,2.61 %,0.00 %,8,9
+2025,Cronulla-Sutherland Sharks,Braden Uele,2,0,3,0,115,95,127,106,443,1.74 %,0.00 %,9,9
+2025,Cronulla-Sutherland Sharks,Addin Fonua-Blake,6,0,7,0,115,95,127,106,443,5.22 %,0.00 %,5,9
+2025,Cronulla-Sutherland Sharks,Jesse Ramien,3,3,8,5,115,95,127,106,443,2.61 %,3.16 %,8,6
+2025,Cronulla-Sutherland Sharks,Nicho Hynes,8,21,5,31,115,95,127,106,443,6.96 %,22.11 %,3,1
+2025,Cronulla-Sutherland Sharks,Sione Katoa,7,1,10,0,115,95,127,106,443,6.09 %,1.05 %,4,8
+2025,Cronulla-Sutherland Sharks,Siosifa Talakai,2,5,3,5,115,95,127,106,443,1.74 %,5.26 %,9,5
+2025,Cronulla-Sutherland Sharks,Blayke Brailey,3,14,4,11,115,95,127,106,443,2.61 %,14.74 %,8,3
+2025,Cronulla-Sutherland Sharks,William Kennedy,8,13,7,14,115,95,127,106,443,6.96 %,13.68 %,3,4
+2025,Cronulla-Sutherland Sharks,Braydon Trindall,7,19,1,16,115,95,127,106,443,6.09 %,20.00 %,4,2
+2025,Cronulla-Sutherland Sharks,Toby Rudolf,1,0,1,0,115,95,127,106,443,0.87 %,0.00 %,10,9
+2025,Cronulla-Sutherland Sharks,Oregon Kaufusi,1,0,1,0,115,95,127,106,443,0.87 %,0.00 %,10,9
+2025,Cronulla-Sutherland Sharks,Mawene Hiroti,5,3,7,1,115,95,127,106,443,4.35 %,3.16 %,6,6
+2025,Cronulla-Sutherland Sharks,Billy Burns,4,5,4,6,115,95,127,106,443,3.48 %,5.26 %,7,5
+2025,Cronulla-Sutherland Sharks,Ronaldo Mulitalo,17,5,23,5,115,95,127,106,443,14.78 %,5.26 %,1,5
+2025,Cronulla-Sutherland Sharks,Briton Nikora,7,2,9,6,115,95,127,106,443,6.09 %,2.11 %,4,7
+2025,Cronulla-Sutherland Sharks,Teig Wilton,4,1,4,0,115,95,127,106,443,3.48 %,1.05 %,7,8
+2025,Cronulla-Sutherland Sharks,Hohepa Puru,0,0,0,0,115,95,127,106,443,0.00 %,0.00 %,11,9
+2025,Cronulla-Sutherland Sharks,Kayal Iro,12,3,13,3,115,95,127,106,443,10.43 %,3.16 %,2,6
+2025,Cronulla-Sutherland Sharks,Samuel Stonestreet,8,0,9,0,115,95,127,106,443,6.96 %,0.00 %,3,9
+2025,Cronulla-Sutherland Sharks,Tuku Hau Tapuha,1,0,1,0,115,95,127,106,443,0.87 %,0.00 %,10,9
+2025,Cronulla-Sutherland Sharks,Thomas Hazelton,1,0,1,0,115,95,127,106,443,0.87 %,0.00 %,10,9
+2025,Parramatta Eels,Ronald Volkman,0,0,0,0,89,73,112,85,359,0.00 %,0.00 %,10,11
+2025,Parramatta Eels,Ryley Smith,1,0,5,0,89,73,112,85,359,1.12 %,0.00 %,9,11
+2025,Parramatta Eels,Joash Papalii,1,4,1,5,89,73,112,85,359,1.12 %,5.48 %,9,7
+2025,Parramatta Eels,Isaiah Iongi,8,12,10,9,89,73,112,85,359,8.99 %,16.44 %,3,1
+2025,Parramatta Eels,Sam Tuivaiti,1,0,1,0,89,73,112,85,359,1.12 %,0.00 %,9,11
+2025,Parramatta Eels,Charlie Guymer,3,2,2,1,89,73,112,85,359,3.37 %,2.74 %,7,9
+2025,Parramatta Eels,Tallyn Da Silva,1,0,2,0,89,73,112,85,359,1.12 %,0.00 %,9,11
+2025,Parramatta Eels,Dylan Walker,1,5,3,4,89,73,112,85,359,1.12 %,6.85 %,9,6
+2025,Parramatta Eels,Shaun Lane,1,1,1,1,89,73,112,85,359,1.12 %,1.37 %,9,10
+2025,Parramatta Eels,Joe Ofahengaue,1,0,1,1,89,73,112,85,359,1.12 %,0.00 %,9,11
+2025,Parramatta Eels,Mitchell Moses,6,8,3,9,89,73,112,85,359,6.74 %,10.96 %,4,3
+2025,Parramatta Eels,Junior Paulo,1,2,0,9,89,73,112,85,359,1.12 %,2.74 %,9,9
+2025,Parramatta Eels,Joey Lussick,1,0,1,0,89,73,112,85,359,1.12 %,0.00 %,9,11
+2025,Parramatta Eels,Ryan Matterson,0,0,0,0,89,73,112,85,359,0.00 %,0.00 %,10,11
+2025,Parramatta Eels,Josh Addo-Carr,19,3,26,1,89,73,112,85,359,21.35 %,4.11 %,1,8
+2025,Parramatta Eels,Jack Williams,2,1,7,1,89,73,112,85,359,2.25 %,1.37 %,8,10
+2025,Parramatta Eels,Zac Lomax,9,2,11,3,89,73,112,85,359,10.11 %,2.74 %,2,9
+2025,Parramatta Eels,Bailey Simonsson,2,1,1,1,89,73,112,85,359,2.25 %,1.37 %,8,10
+2025,Parramatta Eels,Dean Hawkins,2,9,2,3,89,73,112,85,359,2.25 %,12.33 %,8,2
+2025,Parramatta Eels,Jake Tago,1,0,0,0,89,73,112,85,359,1.12 %,0.00 %,9,11
+2025,Parramatta Eels,Brendan Hands,0,0,0,0,89,73,112,85,359,0.00 %,0.00 %,10,11
+2025,Parramatta Eels,Dan Keir,0,0,0,0,89,73,112,85,359,0.00 %,0.00 %,10,11
+2025,Parramatta Eels,Dylan Brown,5,7,7,8,89,73,112,85,359,5.62 %,9.59 %,5,4
+2025,Parramatta Eels,Matt Doorey,2,0,3,1,89,73,112,85,359,2.25 %,0.00 %,8,11
+2025,Parramatta Eels,Luca Moretti,0,0,2,1,89,73,112,85,359,0.00 %,0.00 %,10,11
+2025,Parramatta Eels,Kelma Tuilagi,2,3,3,3,89,73,112,85,359,2.25 %,4.11 %,8,8
+2025,Parramatta Eels,J'maine Hopgood,2,1,1,4,89,73,112,85,359,2.25 %,1.37 %,8,10
+2025,Parramatta Eels,Will Penisini,6,6,7,6,89,73,112,85,359,6.74 %,8.22 %,4,5
+2025,Parramatta Eels,Kitione Kautoga,2,1,5,2,89,73,112,85,359,2.25 %,1.37 %,8,10
+2025,Parramatta Eels,Jordan Samrani,4,0,2,0,89,73,112,85,359,4.49 %,0.00 %,6,11
+2025,Parramatta Eels,Toni Mataele,0,0,0,0,89,73,112,85,359,0.00 %,0.00 %,10,11
+2025,Parramatta Eels,Sean Russell,5,5,5,12,89,73,112,85,359,5.62 %,6.85 %,5,6
+2025,Warriors,Ali Leiataua,3,2,5,0,92,67,97,65,321,3.26 %,2.99 %,7,7
+2025,Warriors,Rocco Berry,3,0,2,0,92,67,97,65,321,3.26 %,0.00 %,7,9
+2025,Warriors,Jacob Laban,2,0,1,0,92,67,97,65,321,2.17 %,0.00 %,8,9
+2025,Warriors,Demitric Sifakula,2,1,2,2,92,67,97,65,321,2.17 %,1.49 %,8,8
+2025,Warriors,Tanner Stowers-Smith,0,0,0,0,92,67,97,65,321,0.00 %,0.00 %,10,9
+2025,Warriors,Leka Halasima,13,0,7,1,92,67,97,65,321,14.13 %,0.00 %,1,9
+2025,Warriors,Eddie Ieremia-Toeava,1,0,2,0,92,67,97,65,321,1.09 %,0.00 %,9,9
+2025,Warriors,Roger Tuivasa-Sheck,12,1,15,3,92,67,97,65,321,13.04 %,1.49 %,2,8
+2025,Warriors,Dylan Walker,0,0,0,0,92,67,97,65,321,0.00 %,0.00 %,10,9
+2025,Warriors,Dallin Watene-Zelezniak,7,0,7,0,92,67,97,65,321,7.61 %,0.00 %,5,9
+2025,Warriors,Kurt Capewell,2,3,4,2,92,67,97,65,321,2.17 %,4.48 %,8,6
+2025,Warriors,Mitchell Barnett,0,0,0,0,92,67,97,65,321,0.00 %,0.00 %,10,9
+2025,Warriors,Te Maire Martin,0,3,1,3,92,67,97,65,321,0.00 %,4.48 %,10,6
+2025,Warriors,Charnze Nicoll-Klokstad,2,4,6,4,92,67,97,65,321,2.17 %,5.97 %,8,5
+2025,Warriors,Bunty Afoa,0,0,0,0,92,67,97,65,321,0.00 %,0.00 %,10,9
+2025,Warriors,Marata Niukore,4,0,7,0,92,67,97,65,321,4.35 %,0.00 %,6,9
+2025,Warriors,James Fisher-Harris,2,0,1,0,92,67,97,65,321,2.17 %,0.00 %,8,9
+2025,Warriors,Erin Clark,0,2,0,3,92,67,97,65,321,0.00 %,2.99 %,10,7
+2025,Warriors,Wayde Egan,2,4,3,5,92,67,97,65,321,2.17 %,5.97 %,8,5
+2025,Warriors,Luke Metcalf,8,9,8,7,92,67,97,65,321,8.70 %,13.43 %,4,2
+2025,Warriors,Freddy Lussick,0,0,0,0,92,67,97,65,321,0.00 %,0.00 %,10,9
+2025,Warriors,Jackson Ford,3,1,2,1,92,67,97,65,321,3.26 %,1.49 %,7,8
+2025,Warriors,Tanah Boyd,0,7,2,5,92,67,97,65,321,0.00 %,10.45 %,10,3
+2025,Warriors,Chanel Harris-Tavita,8,18,6,15,92,67,97,65,321,8.70 %,26.87 %,4,1
+2025,Warriors,Adam Pompey,11,7,8,8,92,67,97,65,321,11.96 %,10.45 %,3,3
+2025,Warriors,Taine Tuaupiki,2,5,4,4,92,67,97,65,321,2.17 %,7.46 %,8,4
+2025,Warriors,Samuel Healey,2,0,1,0,92,67,97,65,321,2.17 %,0.00 %,8,9
+2025,Warriors,Edward Kosi,2,0,2,2,92,67,97,65,321,2.17 %,0.00 %,8,9
+2025,Warriors,Moala Graham-Taufa,1,0,1,0,92,67,97,65,321,1.09 %,0.00 %,9,9
+2025,Dolphins,Hamiso Tabuai-Fidow,22,5,11,17,121,97,141,109,468,18.18 %,5.15 %,1,4
+2025,Dolphins,Max Plath,3,0,2,0,121,97,141,109,468,2.48 %,0.00 %,8,9
+2025,Dolphins,Kurt Donoghoe,3,4,2,5,121,97,141,109,468,2.48 %,4.12 %,8,5
+2025,Dolphins,James Walsh,0,0,0,0,121,97,141,109,468,0.00 %,0.00 %,11,9
+2025,Dolphins,Isaiya Katoa,2,23,4,21,121,97,141,109,468,1.65 %,23.71 %,9,1
+2025,Dolphins,Jack Bostock,9,3,8,1,121,97,141,109,468,7.44 %,3.09 %,4,6
+2025,Dolphins,Kulikefu Finefeuiaki,1,1,1,1,121,97,141,109,468,0.83 %,1.03 %,10,8
+2025,Dolphins,LJ Nonu,0,0,0,0,121,97,141,109,468,0.00 %,0.00 %,11,9
+2025,Dolphins,Tevita Naufahu,6,1,12,1,121,97,141,109,468,4.96 %,1.03 %,6,8
+2025,Dolphins,Francis Molo,1,1,1,1,121,97,141,109,468,0.83 %,1.03 %,10,8
+2025,Dolphins,Kodi Nikorima,8,19,11,18,121,97,141,109,468,6.61 %,19.59 %,5,2
+2025,Dolphins,Mark Nicholls,2,0,2,0,121,97,141,109,468,1.65 %,0.00 %,9,9
+2025,Dolphins,Kenneath Bromwich,0,0,0,0,121,97,141,109,468,0.00 %,0.00 %,11,9
+2025,Dolphins,Felise Kaufusi,1,1,1,3,121,97,141,109,468,0.83 %,1.03 %,10,8
+2025,Dolphins,Jamayne Isaako,11,1,14,0,121,97,141,109,468,9.09 %,1.03 %,3,8
+2025,Dolphins,Jeremy Marshall-King,4,5,5,4,121,97,141,109,468,3.31 %,5.15 %,7,4
+2025,Dolphins,Josh Kerr,1,2,1,3,121,97,141,109,468,0.83 %,2.06 %,10,7
+2025,Dolphins,Daniel Saifiti,2,1,3,0,121,97,141,109,468,1.65 %,1.03 %,9,8
+2025,Dolphins,Ray Stone,4,0,1,0,121,97,141,109,468,3.31 %,0.00 %,7,9
+2025,Dolphins,Sean O'Sullivan,0,1,0,2,121,97,141,109,468,0.00 %,1.03 %,11,8
+2025,Dolphins,Jake Averillo,11,9,17,7,121,97,141,109,468,9.09 %,9.28 %,3,3
+2025,Dolphins,Tom Gilbert,0,0,1,0,121,97,141,109,468,0.00 %,0.00 %,11,9
+2025,Dolphins,Harrison Graham,2,0,2,0,121,97,141,109,468,1.65 %,0.00 %,9,9
+2025,Dolphins,Junior Tupou,0,0,1,0,121,97,141,109,468,0.00 %,0.00 %,11,9
+2025,Dolphins,Max Feagai,1,2,2,2,121,97,141,109,468,0.83 %,2.06 %,10,7
+2025,Dolphins,Connelly Lemuelu,9,4,13,4,121,97,141,109,468,7.44 %,4.12 %,4,5
+2025,Dolphins,Aublix Tawha,0,0,0,0,121,97,141,109,468,0.00 %,0.00 %,11,9
+2025,Dolphins,Herbie Farnworth,12,9,17,12,121,97,141,109,468,9.92 %,9.28 %,2,3
+2025,Dolphins,Peter Hola,0,0,0,0,121,97,141,109,468,0.00 %,0.00 %,11,9
+2025,Dolphins,Trai Fuller,2,4,6,5,121,97,141,109,468,1.65 %,4.12 %,9,5
+2025,Dolphins,Oryn Keeley,4,1,3,2,121,97,141,109,468,3.31 %,1.03 %,7,8

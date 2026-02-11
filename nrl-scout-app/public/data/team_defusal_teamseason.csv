@@ -1,0 +1,52 @@
+season,team_name,kicks_received,team_kicks_defused,back3_kicks_defused,team_defusal_pct,back3_defusal_pct_proxy
+2023,Sydney Roosters,162,152,101,93.83 %,62.35 %
+2023,Manly-Warringah Sea Eagles,137,161,115,117.52 %,83.94 %
+2023,Newcastle Knights,204,176,133,86.27 %,65.20 %
+2023,Gold Coast Titans,190,176,116,92.63 %,61.05 %
+2023,South Sydney Rabbitohs,184,146,109,79.35 %,59.24 %
+2023,Canterbury-Bankstown Bulldogs,169,139,109,82.25 %,64.50 %
+2023,Brisbane Broncos,281,220,170,78.29 %,60.50 %
+2023,North Queensland Cowboys,188,147,114,78.19 %,60.64 %
+2023,Canberra Raiders,205,176,119,85.85 %,58.05 %
+2023,Penrith Panthers,227,171,114,75.33 %,50.22 %
+2023,Melbourne Storm,183,172,123,93.99 %,67.21 %
+2023,St. George Illawarra Dragons,218,148,126,67.89 %,57.80 %
+2023,Wests Tigers,165,159,124,96.36 %,75.15 %
+2023,Cronulla-Sutherland Sharks,163,177,141,108.59 %,86.50 %
+2023,Parramatta Eels,196,148,113,75.51 %,57.65 %
+2023,Warriors,148,196,146,132.43 %,98.65 %
+2023,Dolphins,223,167,132,74.89 %,59.19 %
+2024,Sydney Roosters,193,198,146,102.59 %,75.65 %
+2024,Manly-Warringah Sea Eagles,179,190,132,106.15 %,73.74 %
+2024,Newcastle Knights,177,199,146,112.43 %,82.49 %
+2024,Gold Coast Titans,158,174,143,110.13 %,90.51 %
+2024,South Sydney Rabbitohs,191,165,120,86.39 %,62.83 %
+2024,Canterbury-Bankstown Bulldogs,165,159,107,96.36 %,64.85 %
+2024,Brisbane Broncos,229,191,137,83.41 %,59.83 %
+2024,North Queensland Cowboys,213,169,126,79.34 %,59.15 %
+2024,Canberra Raiders,153,178,139,116.34 %,90.85 %
+2024,Penrith Panthers,134,138,101,102.99 %,75.37 %
+2024,Melbourne Storm,179,182,135,101.68 %,75.42 %
+2024,St. George Illawarra Dragons,166,212,158,127.71 %,95.18 %
+2024,Wests Tigers,157,158,119,100.64 %,75.80 %
+2024,Cronulla-Sutherland Sharks,194,207,156,106.70 %,80.41 %
+2024,Parramatta Eels,153,105,87,68.63 %,56.86 %
+2024,Warriors,147,138,106,93.88 %,72.11 %
+2024,Dolphins,127,177,142,139.37 %,111.81 %
+2025,Sydney Roosters,141,154,109,109.22 %,77.30 %
+2025,Manly-Warringah Sea Eagles,133,156,118,117.29 %,88.72 %
+2025,Newcastle Knights,194,171,127,88.14 %,65.46 %
+2025,Gold Coast Titans,162,138,93,85.19 %,57.41 %
+2025,South Sydney Rabbitohs,176,166,123,94.32 %,69.89 %
+2025,Canterbury-Bankstown Bulldogs,161,157,115,97.52 %,71.43 %
+2025,Brisbane Broncos,131,153,109,116.79 %,83.21 %
+2025,North Queensland Cowboys,156,135,103,86.54 %,66.03 %
+2025,Canberra Raiders,180,147,113,81.67 %,62.78 %
+2025,Penrith Panthers,212,184,139,86.79 %,65.57 %
+2025,Melbourne Storm,160,180,139,112.50 %,86.88 %
+2025,St. George Illawarra Dragons,194,157,127,80.93 %,65.46 %
+2025,Wests Tigers,162,165,120,101.85 %,74.07 %
+2025,Cronulla-Sutherland Sharks,182,194,151,106.59 %,82.97 %
+2025,Parramatta Eels,151,154,123,101.99 %,81.46 %
+2025,Warriors,160,144,114,90.00 %,71.25 %
+2025,Dolphins,145,152,128,104.83 %,88.28 %

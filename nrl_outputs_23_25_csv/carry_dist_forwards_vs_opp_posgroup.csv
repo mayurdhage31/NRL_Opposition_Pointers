@@ -1,0 +1,1279 @@
+season,team_name,opponent_team_name,position_group,hit_ups,forwards_hit_ups_total,hit_ups_share_pct,match_date,round_number,round_name
+2023,Melbourne Storm,Parramatta Eels,Forwards,36,36,100.00 %,2023-03-02,1,Round 1
+2023,Parramatta Eels,Melbourne Storm,Forwards,58,58,100.00 %,2023-03-02,1,Round 1
+2023,Newcastle Knights,Warriors,Forwards,27,27,100.00 %,2023-03-03,1,Round 1
+2023,Warriors,Newcastle Knights,Forwards,39,39,100.00 %,2023-03-03,1,Round 1
+2023,Brisbane Broncos,Penrith Panthers,Forwards,42,42,100.00 %,2023-03-03,1,Round 1
+2023,Penrith Panthers,Brisbane Broncos,Forwards,34,34,100.00 %,2023-03-03,1,Round 1
+2023,Manly-Warringah Sea Eagles,Canterbury-Bankstown Bulldogs,Forwards,39,39,100.00 %,2023-03-04,1,Round 1
+2023,Canterbury-Bankstown Bulldogs,Manly-Warringah Sea Eagles,Forwards,32,32,100.00 %,2023-03-04,1,Round 1
+2023,North Queensland Cowboys,Canberra Raiders,Forwards,43,43,100.00 %,2023-03-04,1,Round 1
+2023,Canberra Raiders,North Queensland Cowboys,Forwards,20,20,100.00 %,2023-03-04,1,Round 1
+2023,South Sydney Rabbitohs,Cronulla-Sutherland Sharks,Forwards,27,27,100.00 %,2023-03-04,1,Round 1
+2023,Cronulla-Sutherland Sharks,South Sydney Rabbitohs,Forwards,30,30,100.00 %,2023-03-04,1,Round 1
+2023,Sydney Roosters,Dolphins,Forwards,32,32,100.00 %,2023-03-05,1,Round 1
+2023,Dolphins,Sydney Roosters,Forwards,26,26,100.00 %,2023-03-05,1,Round 1
+2023,Gold Coast Titans,Wests Tigers,Forwards,30,30,100.00 %,2023-03-05,1,Round 1
+2023,Wests Tigers,Gold Coast Titans,Forwards,41,41,100.00 %,2023-03-05,1,Round 1
+2023,South Sydney Rabbitohs,Penrith Panthers,Forwards,29,29,100.00 %,2023-03-09,2,Round 2
+2023,Penrith Panthers,South Sydney Rabbitohs,Forwards,34,34,100.00 %,2023-03-09,2,Round 2
+2023,Cronulla-Sutherland Sharks,Parramatta Eels,Forwards,31,31,100.00 %,2023-03-10,2,Round 2
+2023,Parramatta Eels,Cronulla-Sutherland Sharks,Forwards,43,43,100.00 %,2023-03-10,2,Round 2
+2023,Brisbane Broncos,North Queensland Cowboys,Forwards,43,43,100.00 %,2023-03-10,2,Round 2
+2023,North Queensland Cowboys,Brisbane Broncos,Forwards,35,35,100.00 %,2023-03-10,2,Round 2
+2023,Sydney Roosters,Warriors,Forwards,30,30,100.00 %,2023-03-11,2,Round 2
+2023,Warriors,Sydney Roosters,Forwards,31,31,100.00 %,2023-03-11,2,Round 2
+2023,Canberra Raiders,Dolphins,Forwards,27,27,100.00 %,2023-03-11,2,Round 2
+2023,Dolphins,Canberra Raiders,Forwards,32,32,100.00 %,2023-03-11,2,Round 2
+2023,Canterbury-Bankstown Bulldogs,Melbourne Storm,Forwards,40,40,100.00 %,2023-03-11,2,Round 2
+2023,Melbourne Storm,Canterbury-Bankstown Bulldogs,Forwards,36,36,100.00 %,2023-03-11,2,Round 2
+2023,Newcastle Knights,Wests Tigers,Forwards,28,28,100.00 %,2023-03-12,2,Round 2
+2023,Wests Tigers,Newcastle Knights,Forwards,36,36,100.00 %,2023-03-12,2,Round 2
+2023,Gold Coast Titans,St. George Illawarra Dragons,Forwards,33,33,100.00 %,2023-03-12,2,Round 2
+2023,St. George Illawarra Dragons,Gold Coast Titans,Forwards,32,32,100.00 %,2023-03-12,2,Round 2
+2023,Manly-Warringah Sea Eagles,Parramatta Eels,Forwards,31,31,100.00 %,2023-03-16,3,Round 3
+2023,Parramatta Eels,Manly-Warringah Sea Eagles,Forwards,35,35,100.00 %,2023-03-16,3,Round 3
+2023,Newcastle Knights,Dolphins,Forwards,20,20,100.00 %,2023-03-17,3,Round 3
+2023,Dolphins,Newcastle Knights,Forwards,37,37,100.00 %,2023-03-17,3,Round 3
+2023,Sydney Roosters,South Sydney Rabbitohs,Forwards,32,32,100.00 %,2023-03-17,3,Round 3
+2023,South Sydney Rabbitohs,Sydney Roosters,Forwards,24,24,100.00 %,2023-03-17,3,Round 3
+2023,Gold Coast Titans,Melbourne Storm,Forwards,37,37,100.00 %,2023-03-18,3,Round 3
+2023,Melbourne Storm,Gold Coast Titans,Forwards,19,19,100.00 %,2023-03-18,3,Round 3
+2023,North Queensland Cowboys,Warriors,Forwards,24,24,100.00 %,2023-03-18,3,Round 3
+2023,Warriors,North Queensland Cowboys,Forwards,28,28,100.00 %,2023-03-18,3,Round 3
+2023,Brisbane Broncos,St. George Illawarra Dragons,Forwards,43,43,100.00 %,2023-03-18,3,Round 3
+2023,St. George Illawarra Dragons,Brisbane Broncos,Forwards,33,33,100.00 %,2023-03-18,3,Round 3
+2023,Canterbury-Bankstown Bulldogs,Wests Tigers,Forwards,30,30,100.00 %,2023-03-19,3,Round 3
+2023,Wests Tigers,Canterbury-Bankstown Bulldogs,Forwards,30,30,100.00 %,2023-03-19,3,Round 3
+2023,Canberra Raiders,Cronulla-Sutherland Sharks,Forwards,28,28,100.00 %,2023-03-19,3,Round 3
+2023,Cronulla-Sutherland Sharks,Canberra Raiders,Forwards,33,33,100.00 %,2023-03-19,3,Round 3
+2023,Penrith Panthers,Parramatta Eels,Forwards,23,23,100.00 %,2023-03-23,4,Round 4
+2023,Parramatta Eels,Penrith Panthers,Forwards,54,54,100.00 %,2023-03-23,4,Round 4
+2023,Melbourne Storm,Wests Tigers,Forwards,33,33,100.00 %,2023-03-24,4,Round 4
+2023,Wests Tigers,Melbourne Storm,Forwards,35,35,100.00 %,2023-03-24,4,Round 4
+2023,Brisbane Broncos,Dolphins,Forwards,31,31,100.00 %,2023-03-24,4,Round 4
+2023,Dolphins,Brisbane Broncos,Forwards,33,33,100.00 %,2023-03-24,4,Round 4
+2023,Gold Coast Titans,North Queensland Cowboys,Forwards,43,43,100.00 %,2023-03-25,4,Round 4
+2023,North Queensland Cowboys,Gold Coast Titans,Forwards,21,21,100.00 %,2023-03-25,4,Round 4
+2023,Manly-Warringah Sea Eagles,South Sydney Rabbitohs,Forwards,36,36,100.00 %,2023-03-25,4,Round 4
+2023,South Sydney Rabbitohs,Manly-Warringah Sea Eagles,Forwards,37,37,100.00 %,2023-03-25,4,Round 4
+2023,Canterbury-Bankstown Bulldogs,Warriors,Forwards,25,25,100.00 %,2023-03-26,4,Round 4
+2023,Warriors,Canterbury-Bankstown Bulldogs,Forwards,20,20,100.00 %,2023-03-26,4,Round 4
+2023,Newcastle Knights,Canberra Raiders,Forwards,20,20,100.00 %,2023-03-26,4,Round 4
+2023,Canberra Raiders,Newcastle Knights,Forwards,28,28,100.00 %,2023-03-26,4,Round 4
+2023,St. George Illawarra Dragons,Cronulla-Sutherland Sharks,Forwards,36,36,100.00 %,2023-03-26,4,Round 4
+2023,Cronulla-Sutherland Sharks,St. George Illawarra Dragons,Forwards,29,29,100.00 %,2023-03-26,4,Round 4
+2023,Sydney Roosters,Parramatta Eels,Forwards,40,40,100.00 %,2023-03-30,5,Round 5
+2023,Parramatta Eels,Sydney Roosters,Forwards,29,29,100.00 %,2023-03-30,5,Round 5
+2023,Canberra Raiders,Penrith Panthers,Forwards,27,27,100.00 %,2023-03-31,5,Round 5
+2023,Penrith Panthers,Canberra Raiders,Forwards,28,28,100.00 %,2023-03-31,5,Round 5
+2023,South Sydney Rabbitohs,Melbourne Storm,Forwards,46,46,100.00 %,2023-03-31,5,Round 5
+2023,Melbourne Storm,South Sydney Rabbitohs,Forwards,37,37,100.00 %,2023-03-31,5,Round 5
+2023,Manly-Warringah Sea Eagles,Newcastle Knights,Forwards,39,39,100.00 %,2023-04-01,5,Round 5
+2023,Newcastle Knights,Manly-Warringah Sea Eagles,Forwards,32,32,100.00 %,2023-04-01,5,Round 5
+2023,St. George Illawarra Dragons,Dolphins,Forwards,35,35,100.00 %,2023-04-01,5,Round 5
+2023,Dolphins,St. George Illawarra Dragons,Forwards,25,25,100.00 %,2023-04-01,5,Round 5
+2023,Brisbane Broncos,Wests Tigers,Forwards,36,36,100.00 %,2023-04-01,5,Round 5
+2023,Wests Tigers,Brisbane Broncos,Forwards,28,28,100.00 %,2023-04-01,5,Round 5
+2023,Cronulla-Sutherland Sharks,Warriors,Forwards,32,32,100.00 %,2023-04-02,5,Round 5
+2023,Warriors,Cronulla-Sutherland Sharks,Forwards,25,25,100.00 %,2023-04-02,5,Round 5
+2023,Canterbury-Bankstown Bulldogs,North Queensland Cowboys,Forwards,36,36,100.00 %,2023-04-02,5,Round 5
+2023,North Queensland Cowboys,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2023-04-02,5,Round 5
+2023,Sydney Roosters,Melbourne Storm,Forwards,25,25,100.00 %,2023-04-06,6,Round 6
+2023,Melbourne Storm,Sydney Roosters,Forwards,38,38,100.00 %,2023-04-06,6,Round 6
+2023,South Sydney Rabbitohs,Canterbury-Bankstown Bulldogs,Forwards,33,33,100.00 %,2023-04-07,6,Round 6
+2023,Canterbury-Bankstown Bulldogs,South Sydney Rabbitohs,Forwards,18,18,100.00 %,2023-04-07,6,Round 6
+2023,North Queensland Cowboys,Dolphins,Forwards,26,26,100.00 %,2023-04-07,6,Round 6
+2023,Dolphins,North Queensland Cowboys,Forwards,36,36,100.00 %,2023-04-07,6,Round 6
+2023,Manly-Warringah Sea Eagles,Penrith Panthers,Forwards,37,37,100.00 %,2023-04-08,6,Round 6
+2023,Penrith Panthers,Manly-Warringah Sea Eagles,Forwards,33,33,100.00 %,2023-04-08,6,Round 6
+2023,Brisbane Broncos,Canberra Raiders,Forwards,34,34,100.00 %,2023-04-08,6,Round 6
+2023,Canberra Raiders,Brisbane Broncos,Forwards,32,32,100.00 %,2023-04-08,6,Round 6
+2023,Gold Coast Titans,St. George Illawarra Dragons,Forwards,29,29,100.00 %,2023-04-09,6,Round 6
+2023,St. George Illawarra Dragons,Gold Coast Titans,Forwards,33,33,100.00 %,2023-04-09,6,Round 6
+2023,Newcastle Knights,Warriors,Forwards,24,24,100.00 %,2023-04-09,6,Round 6
+2023,Warriors,Newcastle Knights,Forwards,23,23,100.00 %,2023-04-09,6,Round 6
+2023,Wests Tigers,Parramatta Eels,Forwards,41,41,100.00 %,2023-04-10,6,Round 6
+2023,Parramatta Eels,Wests Tigers,Forwards,27,27,100.00 %,2023-04-10,6,Round 6
+2023,South Sydney Rabbitohs,Dolphins,Forwards,29,29,100.00 %,2023-04-13,7,Round 7
+2023,Dolphins,South Sydney Rabbitohs,Forwards,28,28,100.00 %,2023-04-13,7,Round 7
+2023,Sydney Roosters,Cronulla-Sutherland Sharks,Forwards,35,35,100.00 %,2023-04-14,7,Round 7
+2023,Cronulla-Sutherland Sharks,Sydney Roosters,Forwards,35,35,100.00 %,2023-04-14,7,Round 7
+2023,Manly-Warringah Sea Eagles,Melbourne Storm,Forwards,33,33,100.00 %,2023-04-14,7,Round 7
+2023,Melbourne Storm,Manly-Warringah Sea Eagles,Forwards,29,29,100.00 %,2023-04-14,7,Round 7
+2023,North Queensland Cowboys,Warriors,Forwards,23,23,100.00 %,2023-04-15,7,Round 7
+2023,Warriors,North Queensland Cowboys,Forwards,32,32,100.00 %,2023-04-15,7,Round 7
+2023,Newcastle Knights,Penrith Panthers,Forwards,24,24,100.00 %,2023-04-15,7,Round 7
+2023,Penrith Panthers,Newcastle Knights,Forwards,39,39,100.00 %,2023-04-15,7,Round 7
+2023,Gold Coast Titans,Brisbane Broncos,Forwards,25,25,100.00 %,2023-04-15,7,Round 7
+2023,Brisbane Broncos,Gold Coast Titans,Forwards,38,38,100.00 %,2023-04-15,7,Round 7
+2023,Canberra Raiders,St. George Illawarra Dragons,Forwards,36,36,100.00 %,2023-04-16,7,Round 7
+2023,St. George Illawarra Dragons,Canberra Raiders,Forwards,25,25,100.00 %,2023-04-16,7,Round 7
+2023,Canterbury-Bankstown Bulldogs,Parramatta Eels,Forwards,36,36,100.00 %,2023-04-16,7,Round 7
+2023,Parramatta Eels,Canterbury-Bankstown Bulldogs,Forwards,34,34,100.00 %,2023-04-16,7,Round 7
+2023,South Sydney Rabbitohs,Penrith Panthers,Forwards,38,38,100.00 %,2023-04-20,8,Round 8
+2023,Penrith Panthers,South Sydney Rabbitohs,Forwards,24,24,100.00 %,2023-04-20,8,Round 8
+2023,Brisbane Broncos,Parramatta Eels,Forwards,38,38,100.00 %,2023-04-21,8,Round 8
+2023,Parramatta Eels,Brisbane Broncos,Forwards,29,29,100.00 %,2023-04-21,8,Round 8
+2023,Canterbury-Bankstown Bulldogs,Cronulla-Sutherland Sharks,Forwards,29,29,100.00 %,2023-04-22,8,Round 8
+2023,Cronulla-Sutherland Sharks,Canterbury-Bankstown Bulldogs,Forwards,28,28,100.00 %,2023-04-22,8,Round 8
+2023,Newcastle Knights,North Queensland Cowboys,Forwards,27,27,100.00 %,2023-04-22,8,Round 8
+2023,North Queensland Cowboys,Newcastle Knights,Forwards,20,20,100.00 %,2023-04-22,8,Round 8
+2023,Gold Coast Titans,Dolphins,Forwards,35,35,100.00 %,2023-04-23,8,Round 8
+2023,Dolphins,Gold Coast Titans,Forwards,27,27,100.00 %,2023-04-23,8,Round 8
+2023,Manly-Warringah Sea Eagles,Wests Tigers,Forwards,24,24,100.00 %,2023-04-23,8,Round 8
+2023,Wests Tigers,Manly-Warringah Sea Eagles,Forwards,39,39,100.00 %,2023-04-23,8,Round 8
+2023,Sydney Roosters,St. George Illawarra Dragons,Forwards,33,33,100.00 %,2023-04-25,8,Round 8
+2023,St. George Illawarra Dragons,Sydney Roosters,Forwards,31,31,100.00 %,2023-04-25,8,Round 8
+2023,Melbourne Storm,Warriors,Forwards,32,32,100.00 %,2023-04-25,8,Round 8
+2023,Warriors,Melbourne Storm,Forwards,31,31,100.00 %,2023-04-25,8,Round 8
+2023,North Queensland Cowboys,Cronulla-Sutherland Sharks,Forwards,17,17,100.00 %,2023-04-27,9,Round 9
+2023,Cronulla-Sutherland Sharks,North Queensland Cowboys,Forwards,29,29,100.00 %,2023-04-27,9,Round 9
+2023,Newcastle Knights,Parramatta Eels,Forwards,27,27,100.00 %,2023-04-28,9,Round 9
+2023,Parramatta Eels,Newcastle Knights,Forwards,40,40,100.00 %,2023-04-28,9,Round 9
+2023,South Sydney Rabbitohs,Brisbane Broncos,Forwards,34,34,100.00 %,2023-04-28,9,Round 9
+2023,Brisbane Broncos,South Sydney Rabbitohs,Forwards,33,33,100.00 %,2023-04-28,9,Round 9
+2023,Canberra Raiders,Dolphins,Forwards,44,44,100.00 %,2023-04-29,9,Round 9
+2023,Dolphins,Canberra Raiders,Forwards,22,22,100.00 %,2023-04-29,9,Round 9
+2023,Manly-Warringah Sea Eagles,Gold Coast Titans,Forwards,36,36,100.00 %,2023-04-29,9,Round 9
+2023,Gold Coast Titans,Manly-Warringah Sea Eagles,Forwards,42,42,100.00 %,2023-04-29,9,Round 9
+2023,Penrith Panthers,Wests Tigers,Forwards,24,24,100.00 %,2023-04-29,9,Round 9
+2023,Wests Tigers,Penrith Panthers,Forwards,45,45,100.00 %,2023-04-29,9,Round 9
+2023,Sydney Roosters,Warriors,Forwards,28,28,100.00 %,2023-04-30,9,Round 9
+2023,Warriors,Sydney Roosters,Forwards,42,42,100.00 %,2023-04-30,9,Round 9
+2023,Canterbury-Bankstown Bulldogs,St. George Illawarra Dragons,Forwards,31,31,100.00 %,2023-04-30,9,Round 9
+2023,St. George Illawarra Dragons,Canterbury-Bankstown Bulldogs,Forwards,47,47,100.00 %,2023-04-30,9,Round 9
+2023,Canterbury-Bankstown Bulldogs,Canberra Raiders,Forwards,24,24,100.00 %,2023-05-05,10,Round 10
+2023,Canberra Raiders,Canterbury-Bankstown Bulldogs,Forwards,34,34,100.00 %,2023-05-05,10,Round 10
+2023,Manly-Warringah Sea Eagles,Brisbane Broncos,Forwards,27,27,100.00 %,2023-05-05,10,Round 10
+2023,Brisbane Broncos,Manly-Warringah Sea Eagles,Forwards,47,47,100.00 %,2023-05-05,10,Round 10
+2023,Penrith Panthers,Warriors,Forwards,32,32,100.00 %,2023-05-06,10,Round 10
+2023,Warriors,Penrith Panthers,Forwards,33,33,100.00 %,2023-05-06,10,Round 10
+2023,Cronulla-Sutherland Sharks,Dolphins,Forwards,18,18,100.00 %,2023-05-06,10,Round 10
+2023,Dolphins,Cronulla-Sutherland Sharks,Forwards,35,35,100.00 %,2023-05-06,10,Round 10
+2023,South Sydney Rabbitohs,Melbourne Storm,Forwards,27,27,100.00 %,2023-05-06,10,Round 10
+2023,Melbourne Storm,South Sydney Rabbitohs,Forwards,26,26,100.00 %,2023-05-06,10,Round 10
+2023,St. George Illawarra Dragons,Wests Tigers,Forwards,30,30,100.00 %,2023-05-07,10,Round 10
+2023,Wests Tigers,St. George Illawarra Dragons,Forwards,41,41,100.00 %,2023-05-07,10,Round 10
+2023,Sydney Roosters,North Queensland Cowboys,Forwards,33,33,100.00 %,2023-05-07,10,Round 10
+2023,North Queensland Cowboys,Sydney Roosters,Forwards,39,39,100.00 %,2023-05-07,10,Round 10
+2023,Gold Coast Titans,Parramatta Eels,Forwards,35,35,100.00 %,2023-05-07,10,Round 10
+2023,Parramatta Eels,Gold Coast Titans,Forwards,26,26,100.00 %,2023-05-07,10,Round 10
+2023,Brisbane Broncos,Melbourne Storm,Forwards,53,53,100.00 %,2023-05-11,11,Round 11
+2023,Melbourne Storm,Brisbane Broncos,Forwards,40,40,100.00 %,2023-05-11,11,Round 11
+2023,Canterbury-Bankstown Bulldogs,Warriors,Forwards,25,25,100.00 %,2023-05-12,11,Round 11
+2023,Warriors,Canterbury-Bankstown Bulldogs,Forwards,35,35,100.00 %,2023-05-12,11,Round 11
+2023,Sydney Roosters,Penrith Panthers,Forwards,14,14,100.00 %,2023-05-12,11,Round 11
+2023,Penrith Panthers,Sydney Roosters,Forwards,46,46,100.00 %,2023-05-12,11,Round 11
+2023,South Sydney Rabbitohs,Wests Tigers,Forwards,37,37,100.00 %,2023-05-13,11,Round 11
+2023,Wests Tigers,South Sydney Rabbitohs,Forwards,30,30,100.00 %,2023-05-13,11,Round 11
+2023,North Queensland Cowboys,St. George Illawarra Dragons,Forwards,23,23,100.00 %,2023-05-13,11,Round 11
+2023,St. George Illawarra Dragons,North Queensland Cowboys,Forwards,29,29,100.00 %,2023-05-13,11,Round 11
+2023,Canberra Raiders,Parramatta Eels,Forwards,47,47,100.00 %,2023-05-13,11,Round 11
+2023,Parramatta Eels,Canberra Raiders,Forwards,30,30,100.00 %,2023-05-13,11,Round 11
+2023,Newcastle Knights,Gold Coast Titans,Forwards,29,29,100.00 %,2023-05-14,11,Round 11
+2023,Gold Coast Titans,Newcastle Knights,Forwards,32,32,100.00 %,2023-05-14,11,Round 11
+2023,Manly-Warringah Sea Eagles,Cronulla-Sutherland Sharks,Forwards,31,31,100.00 %,2023-05-14,11,Round 11
+2023,Cronulla-Sutherland Sharks,Manly-Warringah Sea Eagles,Forwards,19,19,100.00 %,2023-05-14,11,Round 11
+2023,Brisbane Broncos,Penrith Panthers,Forwards,38,38,100.00 %,2023-05-18,12,Round 12
+2023,Penrith Panthers,Brisbane Broncos,Forwards,39,39,100.00 %,2023-05-18,12,Round 12
+2023,Sydney Roosters,St. George Illawarra Dragons,Forwards,27,27,100.00 %,2023-05-19,12,Round 12
+2023,St. George Illawarra Dragons,Sydney Roosters,Forwards,35,35,100.00 %,2023-05-19,12,Round 12
+2023,South Sydney Rabbitohs,Parramatta Eels,Forwards,25,25,100.00 %,2023-05-19,12,Round 12
+2023,Parramatta Eels,South Sydney Rabbitohs,Forwards,48,48,100.00 %,2023-05-19,12,Round 12
+2023,Newcastle Knights,Cronulla-Sutherland Sharks,Forwards,23,23,100.00 %,2023-05-20,12,Round 12
+2023,Cronulla-Sutherland Sharks,Newcastle Knights,Forwards,30,30,100.00 %,2023-05-20,12,Round 12
+2023,North Queensland Cowboys,Wests Tigers,Forwards,15,15,100.00 %,2023-05-20,12,Round 12
+2023,Wests Tigers,North Queensland Cowboys,Forwards,33,33,100.00 %,2023-05-20,12,Round 12
+2023,Melbourne Storm,Dolphins,Forwards,37,37,100.00 %,2023-05-20,12,Round 12
+2023,Dolphins,Melbourne Storm,Forwards,21,21,100.00 %,2023-05-20,12,Round 12
+2023,Gold Coast Titans,Canterbury-Bankstown Bulldogs,Forwards,44,44,100.00 %,2023-05-21,12,Round 12
+2023,Canterbury-Bankstown Bulldogs,Gold Coast Titans,Forwards,30,30,100.00 %,2023-05-21,12,Round 12
+2023,Manly-Warringah Sea Eagles,Canberra Raiders,Forwards,32,32,100.00 %,2023-05-21,12,Round 12
+2023,Canberra Raiders,Manly-Warringah Sea Eagles,Forwards,38,38,100.00 %,2023-05-21,12,Round 12
+2023,St. George Illawarra Dragons,Dolphins,Forwards,29,29,100.00 %,2023-05-25,13,Round 13
+2023,Dolphins,St. George Illawarra Dragons,Forwards,29,29,100.00 %,2023-05-25,13,Round 13
+2023,North Queensland Cowboys,Parramatta Eels,Forwards,30,30,100.00 %,2023-05-26,13,Round 13
+2023,Parramatta Eels,North Queensland Cowboys,Forwards,35,35,100.00 %,2023-05-26,13,Round 13
+2023,Brisbane Broncos,Warriors,Forwards,36,36,100.00 %,2023-05-27,13,Round 13
+2023,Warriors,Brisbane Broncos,Forwards,42,42,100.00 %,2023-05-27,13,Round 13
+2023,South Sydney Rabbitohs,Canberra Raiders,Forwards,27,27,100.00 %,2023-05-27,13,Round 13
+2023,Canberra Raiders,South Sydney Rabbitohs,Forwards,38,38,100.00 %,2023-05-27,13,Round 13
+2023,Manly-Warringah Sea Eagles,Newcastle Knights,Forwards,39,39,100.00 %,2023-05-28,13,Round 13
+2023,Newcastle Knights,Manly-Warringah Sea Eagles,Forwards,37,37,100.00 %,2023-05-28,13,Round 13
+2023,Canberra Raiders,Wests Tigers,Forwards,33,33,100.00 %,2023-06-02,14,Round 14
+2023,Wests Tigers,Canberra Raiders,Forwards,28,28,100.00 %,2023-06-02,14,Round 14
+2023,Warriors,Dolphins,Forwards,33,33,100.00 %,2023-06-03,14,Round 14
+2023,Dolphins,Warriors,Forwards,33,33,100.00 %,2023-06-03,14,Round 14
+2023,Gold Coast Titans,South Sydney Rabbitohs,Forwards,26,26,100.00 %,2023-06-03,14,Round 14
+2023,South Sydney Rabbitohs,Gold Coast Titans,Forwards,29,29,100.00 %,2023-06-03,14,Round 14
+2023,Brisbane Broncos,Cronulla-Sutherland Sharks,Forwards,41,41,100.00 %,2023-06-03,14,Round 14
+2023,Cronulla-Sutherland Sharks,Brisbane Broncos,Forwards,30,30,100.00 %,2023-06-03,14,Round 14
+2023,Sydney Roosters,Canterbury-Bankstown Bulldogs,Forwards,28,28,100.00 %,2023-06-04,14,Round 14
+2023,Canterbury-Bankstown Bulldogs,Sydney Roosters,Forwards,31,31,100.00 %,2023-06-04,14,Round 14
+2023,North Queensland Cowboys,Melbourne Storm,Forwards,24,24,100.00 %,2023-06-04,14,Round 14
+2023,Melbourne Storm,North Queensland Cowboys,Forwards,22,22,100.00 %,2023-06-04,14,Round 14
+2023,Penrith Panthers,St. George Illawarra Dragons,Forwards,35,35,100.00 %,2023-06-04,14,Round 14
+2023,St. George Illawarra Dragons,Penrith Panthers,Forwards,30,30,100.00 %,2023-06-04,14,Round 14
+2023,Gold Coast Titans,Wests Tigers,Forwards,35,35,100.00 %,2023-06-08,15,Round 15
+2023,Wests Tigers,Gold Coast Titans,Forwards,32,32,100.00 %,2023-06-08,15,Round 15
+2023,Canberra Raiders,Warriors,Forwards,37,37,100.00 %,2023-06-09,15,Round 15
+2023,Warriors,Canberra Raiders,Forwards,25,25,100.00 %,2023-06-09,15,Round 15
+2023,Manly-Warringah Sea Eagles,Dolphins,Forwards,34,34,100.00 %,2023-06-09,15,Round 15
+2023,Dolphins,Manly-Warringah Sea Eagles,Forwards,19,19,100.00 %,2023-06-09,15,Round 15
+2023,South Sydney Rabbitohs,St. George Illawarra Dragons,Forwards,34,34,100.00 %,2023-06-10,15,Round 15
+2023,St. George Illawarra Dragons,South Sydney Rabbitohs,Forwards,30,30,100.00 %,2023-06-10,15,Round 15
+2023,Newcastle Knights,Brisbane Broncos,Forwards,38,38,100.00 %,2023-06-10,15,Round 15
+2023,Brisbane Broncos,Newcastle Knights,Forwards,44,44,100.00 %,2023-06-10,15,Round 15
+2023,Sydney Roosters,Penrith Panthers,Forwards,30,30,100.00 %,2023-06-10,15,Round 15
+2023,Penrith Panthers,Sydney Roosters,Forwards,35,35,100.00 %,2023-06-10,15,Round 15
+2023,Melbourne Storm,Cronulla-Sutherland Sharks,Forwards,42,42,100.00 %,2023-06-11,15,Round 15
+2023,Cronulla-Sutherland Sharks,Melbourne Storm,Forwards,21,21,100.00 %,2023-06-11,15,Round 15
+2023,Canterbury-Bankstown Bulldogs,Parramatta Eels,Forwards,22,22,100.00 %,2023-06-12,15,Round 15
+2023,Parramatta Eels,Canterbury-Bankstown Bulldogs,Forwards,42,42,100.00 %,2023-06-12,15,Round 15
+2023,North Queensland Cowboys,Penrith Panthers,Forwards,20,20,100.00 %,2023-06-16,16,Round 16
+2023,Penrith Panthers,North Queensland Cowboys,Forwards,37,37,100.00 %,2023-06-16,16,Round 16
+2023,Sydney Roosters,Newcastle Knights,Forwards,42,42,100.00 %,2023-06-17,16,Round 16
+2023,Newcastle Knights,Sydney Roosters,Forwards,34,34,100.00 %,2023-06-17,16,Round 16
+2023,Manly-Warringah Sea Eagles,Parramatta Eels,Forwards,25,25,100.00 %,2023-06-17,16,Round 16
+2023,Parramatta Eels,Manly-Warringah Sea Eagles,Forwards,44,44,100.00 %,2023-06-17,16,Round 16
+2023,Melbourne Storm,Wests Tigers,Forwards,36,36,100.00 %,2023-06-17,16,Round 16
+2023,Wests Tigers,Melbourne Storm,Forwards,31,31,100.00 %,2023-06-17,16,Round 16
+2023,Canterbury-Bankstown Bulldogs,Cronulla-Sutherland Sharks,Forwards,24,24,100.00 %,2023-06-18,16,Round 16
+2023,Cronulla-Sutherland Sharks,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2023-06-18,16,Round 16
+2023,St. George Illawarra Dragons,Warriors,Forwards,30,30,100.00 %,2023-06-23,17,Round 17
+2023,Warriors,St. George Illawarra Dragons,Forwards,36,36,100.00 %,2023-06-23,17,Round 17
+2023,Parramatta Eels,Dolphins,Forwards,30,30,100.00 %,2023-06-24,17,Round 17
+2023,Dolphins,Parramatta Eels,Forwards,15,15,100.00 %,2023-06-24,17,Round 17
+2023,Newcastle Knights,Penrith Panthers,Forwards,24,24,100.00 %,2023-06-24,17,Round 17
+2023,Penrith Panthers,Newcastle Knights,Forwards,38,38,100.00 %,2023-06-24,17,Round 17
+2023,Manly-Warringah Sea Eagles,Melbourne Storm,Forwards,36,36,100.00 %,2023-06-24,17,Round 17
+2023,Melbourne Storm,Manly-Warringah Sea Eagles,Forwards,25,25,100.00 %,2023-06-24,17,Round 17
+2023,Gold Coast Titans,Brisbane Broncos,Forwards,37,37,100.00 %,2023-06-25,17,Round 17
+2023,Brisbane Broncos,Gold Coast Titans,Forwards,38,38,100.00 %,2023-06-25,17,Round 17
+2023,South Sydney Rabbitohs,North Queensland Cowboys,Forwards,26,26,100.00 %,2023-06-25,17,Round 17
+2023,North Queensland Cowboys,South Sydney Rabbitohs,Forwards,19,19,100.00 %,2023-06-25,17,Round 17
+2023,Sydney Roosters,Canberra Raiders,Forwards,31,31,100.00 %,2023-06-25,17,Round 17
+2023,Canberra Raiders,Sydney Roosters,Forwards,33,33,100.00 %,2023-06-25,17,Round 17
+2023,St. George Illawarra Dragons,Cronulla-Sutherland Sharks,Forwards,29,29,100.00 %,2023-06-29,18,Round 18
+2023,Cronulla-Sutherland Sharks,St. George Illawarra Dragons,Forwards,27,27,100.00 %,2023-06-29,18,Round 18
+2023,South Sydney Rabbitohs,Warriors,Forwards,34,34,100.00 %,2023-06-30,18,Round 18
+2023,Warriors,South Sydney Rabbitohs,Forwards,35,35,100.00 %,2023-06-30,18,Round 18
+2023,Penrith Panthers,Melbourne Storm,Forwards,33,33,100.00 %,2023-06-30,18,Round 18
+2023,Melbourne Storm,Penrith Panthers,Forwards,22,22,100.00 %,2023-06-30,18,Round 18
+2023,Gold Coast Titans,Canberra Raiders,Forwards,32,32,100.00 %,2023-07-01,18,Round 18
+2023,Canberra Raiders,Gold Coast Titans,Forwards,38,38,100.00 %,2023-07-01,18,Round 18
+2023,North Queensland Cowboys,Wests Tigers,Forwards,27,27,100.00 %,2023-07-01,18,Round 18
+2023,Wests Tigers,North Queensland Cowboys,Forwards,25,25,100.00 %,2023-07-01,18,Round 18
+2023,Brisbane Broncos,Dolphins,Forwards,51,51,100.00 %,2023-07-01,18,Round 18
+2023,Dolphins,Brisbane Broncos,Forwards,22,22,100.00 %,2023-07-01,18,Round 18
+2023,Newcastle Knights,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2023-07-02,18,Round 18
+2023,Canterbury-Bankstown Bulldogs,Newcastle Knights,Forwards,18,18,100.00 %,2023-07-02,18,Round 18
+2023,Sydney Roosters,Manly-Warringah Sea Eagles,Forwards,29,29,100.00 %,2023-07-02,18,Round 18
+2023,Manly-Warringah Sea Eagles,Sydney Roosters,Forwards,55,55,100.00 %,2023-07-02,18,Round 18
+2023,Wests Tigers,Cronulla-Sutherland Sharks,Forwards,40,40,100.00 %,2023-07-06,19,Round 19
+2023,Cronulla-Sutherland Sharks,Wests Tigers,Forwards,32,32,100.00 %,2023-07-06,19,Round 19
+2023,Canberra Raiders,St. George Illawarra Dragons,Forwards,16,16,100.00 %,2023-07-07,19,Round 19
+2023,St. George Illawarra Dragons,Canberra Raiders,Forwards,39,39,100.00 %,2023-07-07,19,Round 19
+2023,Parramatta Eels,Warriors,Forwards,34,34,100.00 %,2023-07-08,19,Round 19
+2023,Warriors,Parramatta Eels,Forwards,33,33,100.00 %,2023-07-08,19,Round 19
+2023,South Sydney Rabbitohs,Canterbury-Bankstown Bulldogs,Forwards,35,35,100.00 %,2023-07-08,19,Round 19
+2023,Canterbury-Bankstown Bulldogs,South Sydney Rabbitohs,Forwards,22,22,100.00 %,2023-07-08,19,Round 19
+2023,Gold Coast Titans,Dolphins,Forwards,32,32,100.00 %,2023-07-09,19,Round 19
+2023,Dolphins,Gold Coast Titans,Forwards,38,38,100.00 %,2023-07-09,19,Round 19
+2023,Newcastle Knights,Wests Tigers,Forwards,36,36,100.00 %,2023-07-14,20,Round 20
+2023,Wests Tigers,Newcastle Knights,Forwards,23,23,100.00 %,2023-07-14,20,Round 20
+2023,Canterbury-Bankstown Bulldogs,Brisbane Broncos,Forwards,26,26,100.00 %,2023-07-15,20,Round 20
+2023,Brisbane Broncos,Canterbury-Bankstown Bulldogs,Forwards,38,38,100.00 %,2023-07-15,20,Round 20
+2023,Manly-Warringah Sea Eagles,North Queensland Cowboys,Forwards,33,33,100.00 %,2023-07-15,20,Round 20
+2023,North Queensland Cowboys,Manly-Warringah Sea Eagles,Forwards,26,26,100.00 %,2023-07-15,20,Round 20
+2023,Sydney Roosters,Melbourne Storm,Forwards,26,26,100.00 %,2023-07-15,20,Round 20
+2023,Melbourne Storm,Sydney Roosters,Forwards,34,34,100.00 %,2023-07-15,20,Round 20
+2023,Cronulla-Sutherland Sharks,Warriors,Forwards,21,21,100.00 %,2023-07-16,20,Round 20
+2023,Warriors,Cronulla-Sutherland Sharks,Forwards,32,32,100.00 %,2023-07-16,20,Round 20
+2023,Penrith Panthers,Dolphins,Forwards,35,35,100.00 %,2023-07-16,20,Round 20
+2023,Dolphins,Penrith Panthers,Forwards,18,18,100.00 %,2023-07-16,20,Round 20
+2023,Gold Coast Titans,Parramatta Eels,Forwards,26,26,100.00 %,2023-07-16,20,Round 20
+2023,Parramatta Eels,Gold Coast Titans,Forwards,42,42,100.00 %,2023-07-16,20,Round 20
+2023,St. George Illawarra Dragons,Wests Tigers,Forwards,36,36,100.00 %,2023-07-20,21,Round 21
+2023,Wests Tigers,St. George Illawarra Dragons,Forwards,32,32,100.00 %,2023-07-20,21,Round 21
+2023,Canberra Raiders,Warriors,Forwards,45,45,100.00 %,2023-07-21,21,Round 21
+2023,Warriors,Canberra Raiders,Forwards,35,35,100.00 %,2023-07-21,21,Round 21
+2023,South Sydney Rabbitohs,Brisbane Broncos,Forwards,27,27,100.00 %,2023-07-21,21,Round 21
+2023,Brisbane Broncos,South Sydney Rabbitohs,Forwards,31,31,100.00 %,2023-07-21,21,Round 21
+2023,Sydney Roosters,Gold Coast Titans,Forwards,35,35,100.00 %,2023-07-22,21,Round 21
+2023,Gold Coast Titans,Sydney Roosters,Forwards,32,32,100.00 %,2023-07-22,21,Round 21
+2023,Newcastle Knights,Melbourne Storm,Forwards,19,19,100.00 %,2023-07-22,21,Round 21
+2023,Melbourne Storm,Newcastle Knights,Forwards,31,31,100.00 %,2023-07-22,21,Round 21
+2023,North Queensland Cowboys,Parramatta Eels,Forwards,26,26,100.00 %,2023-07-22,21,Round 21
+2023,Parramatta Eels,North Queensland Cowboys,Forwards,32,32,100.00 %,2023-07-22,21,Round 21
+2023,Canterbury-Bankstown Bulldogs,Penrith Panthers,Forwards,20,20,100.00 %,2023-07-23,21,Round 21
+2023,Penrith Panthers,Canterbury-Bankstown Bulldogs,Forwards,39,39,100.00 %,2023-07-23,21,Round 21
+2023,Manly-Warringah Sea Eagles,Cronulla-Sutherland Sharks,Forwards,24,24,100.00 %,2023-07-23,21,Round 21
+2023,Cronulla-Sutherland Sharks,Manly-Warringah Sea Eagles,Forwards,23,23,100.00 %,2023-07-23,21,Round 21
+2023,Sydney Roosters,Brisbane Broncos,Forwards,35,35,100.00 %,2023-07-27,22,Round 22
+2023,Brisbane Broncos,Sydney Roosters,Forwards,36,36,100.00 %,2023-07-27,22,Round 22
+2023,South Sydney Rabbitohs,Wests Tigers,Forwards,28,28,100.00 %,2023-07-28,22,Round 22
+2023,Wests Tigers,South Sydney Rabbitohs,Forwards,34,34,100.00 %,2023-07-28,22,Round 22
+2023,Melbourne Storm,Parramatta Eels,Forwards,35,35,100.00 %,2023-07-28,22,Round 22
+2023,Parramatta Eels,Melbourne Storm,Forwards,36,36,100.00 %,2023-07-28,22,Round 22
+2023,Newcastle Knights,Canberra Raiders,Forwards,25,25,100.00 %,2023-07-29,22,Round 22
+2023,Canberra Raiders,Newcastle Knights,Forwards,31,31,100.00 %,2023-07-29,22,Round 22
+2023,Manly-Warringah Sea Eagles,St. George Illawarra Dragons,Forwards,25,25,100.00 %,2023-07-29,22,Round 22
+2023,St. George Illawarra Dragons,Manly-Warringah Sea Eagles,Forwards,43,43,100.00 %,2023-07-29,22,Round 22
+2023,Penrith Panthers,Cronulla-Sutherland Sharks,Forwards,47,47,100.00 %,2023-07-29,22,Round 22
+2023,Cronulla-Sutherland Sharks,Penrith Panthers,Forwards,22,22,100.00 %,2023-07-29,22,Round 22
+2023,Canterbury-Bankstown Bulldogs,Dolphins,Forwards,28,28,100.00 %,2023-07-30,22,Round 22
+2023,Dolphins,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2023-07-30,22,Round 22
+2023,Gold Coast Titans,North Queensland Cowboys,Forwards,42,42,100.00 %,2023-07-30,22,Round 22
+2023,North Queensland Cowboys,Gold Coast Titans,Forwards,18,18,100.00 %,2023-07-30,22,Round 22
+2023,Sydney Roosters,Manly-Warringah Sea Eagles,Forwards,29,29,100.00 %,2023-08-03,23,Round 23
+2023,Manly-Warringah Sea Eagles,Sydney Roosters,Forwards,30,30,100.00 %,2023-08-03,23,Round 23
+2023,Gold Coast Titans,Warriors,Forwards,30,30,100.00 %,2023-08-04,23,Round 23
+2023,Warriors,Gold Coast Titans,Forwards,48,48,100.00 %,2023-08-04,23,Round 23
+2023,Penrith Panthers,Melbourne Storm,Forwards,41,41,100.00 %,2023-08-04,23,Round 23
+2023,Melbourne Storm,Penrith Panthers,Forwards,33,33,100.00 %,2023-08-04,23,Round 23
+2023,Brisbane Broncos,North Queensland Cowboys,Forwards,41,41,100.00 %,2023-08-05,23,Round 23
+2023,North Queensland Cowboys,Brisbane Broncos,Forwards,30,30,100.00 %,2023-08-05,23,Round 23
+2023,Newcastle Knights,Dolphins,Forwards,28,28,100.00 %,2023-08-05,23,Round 23
+2023,Dolphins,Newcastle Knights,Forwards,23,23,100.00 %,2023-08-05,23,Round 23
+2023,South Sydney Rabbitohs,Cronulla-Sutherland Sharks,Forwards,34,34,100.00 %,2023-08-05,23,Round 23
+2023,Cronulla-Sutherland Sharks,South Sydney Rabbitohs,Forwards,37,37,100.00 %,2023-08-05,23,Round 23
+2023,St. George Illawarra Dragons,Parramatta Eels,Forwards,29,29,100.00 %,2023-08-06,23,Round 23
+2023,Parramatta Eels,St. George Illawarra Dragons,Forwards,35,35,100.00 %,2023-08-06,23,Round 23
+2023,Canberra Raiders,Wests Tigers,Forwards,35,35,100.00 %,2023-08-06,23,Round 23
+2023,Wests Tigers,Canberra Raiders,Forwards,43,43,100.00 %,2023-08-06,23,Round 23
+2023,Manly-Warringah Sea Eagles,Penrith Panthers,Forwards,27,27,100.00 %,2023-08-10,24,Round 24
+2023,Penrith Panthers,Manly-Warringah Sea Eagles,Forwards,33,33,100.00 %,2023-08-10,24,Round 24
+2023,Gold Coast Titans,Cronulla-Sutherland Sharks,Forwards,43,43,100.00 %,2023-08-11,24,Round 24
+2023,Cronulla-Sutherland Sharks,Gold Coast Titans,Forwards,28,28,100.00 %,2023-08-11,24,Round 24
+2023,Brisbane Broncos,Parramatta Eels,Forwards,36,36,100.00 %,2023-08-11,24,Round 24
+2023,Parramatta Eels,Brisbane Broncos,Forwards,31,31,100.00 %,2023-08-11,24,Round 24
+2023,South Sydney Rabbitohs,St. George Illawarra Dragons,Forwards,33,33,100.00 %,2023-08-12,24,Round 24
+2023,St. George Illawarra Dragons,South Sydney Rabbitohs,Forwards,25,25,100.00 %,2023-08-12,24,Round 24
+2023,Wests Tigers,Warriors,Forwards,29,29,100.00 %,2023-08-12,24,Round 24
+2023,Warriors,Wests Tigers,Forwards,51,51,100.00 %,2023-08-12,24,Round 24
+2023,Sydney Roosters,Dolphins,Forwards,27,27,100.00 %,2023-08-12,24,Round 24
+2023,Dolphins,Sydney Roosters,Forwards,29,29,100.00 %,2023-08-12,24,Round 24
+2023,Canberra Raiders,Melbourne Storm,Forwards,32,32,100.00 %,2023-08-13,24,Round 24
+2023,Melbourne Storm,Canberra Raiders,Forwards,23,23,100.00 %,2023-08-13,24,Round 24
+2023,Newcastle Knights,Canterbury-Bankstown Bulldogs,Forwards,35,35,100.00 %,2023-08-13,24,Round 24
+2023,Canterbury-Bankstown Bulldogs,Newcastle Knights,Forwards,25,25,100.00 %,2023-08-13,24,Round 24
+2023,North Queensland Cowboys,Cronulla-Sutherland Sharks,Forwards,31,31,100.00 %,2023-08-17,25,Round 25
+2023,Cronulla-Sutherland Sharks,North Queensland Cowboys,Forwards,31,31,100.00 %,2023-08-17,25,Round 25
+2023,Manly-Warringah Sea Eagles,Warriors,Forwards,26,26,100.00 %,2023-08-18,25,Round 25
+2023,Warriors,Manly-Warringah Sea Eagles,Forwards,40,40,100.00 %,2023-08-18,25,Round 25
+2023,Sydney Roosters,Parramatta Eels,Forwards,38,38,100.00 %,2023-08-18,25,Round 25
+2023,Parramatta Eels,Sydney Roosters,Forwards,35,35,100.00 %,2023-08-18,25,Round 25
+2023,Wests Tigers,Dolphins,Forwards,34,34,100.00 %,2023-08-19,25,Round 25
+2023,Dolphins,Wests Tigers,Forwards,19,19,100.00 %,2023-08-19,25,Round 25
+2023,Gold Coast Titans,Penrith Panthers,Forwards,42,42,100.00 %,2023-08-19,25,Round 25
+2023,Penrith Panthers,Gold Coast Titans,Forwards,30,30,100.00 %,2023-08-19,25,Round 25
+2023,Melbourne Storm,St. George Illawarra Dragons,Forwards,24,24,100.00 %,2023-08-19,25,Round 25
+2023,St. George Illawarra Dragons,Melbourne Storm,Forwards,36,36,100.00 %,2023-08-19,25,Round 25
+2023,Newcastle Knights,South Sydney Rabbitohs,Forwards,35,35,100.00 %,2023-08-20,25,Round 25
+2023,South Sydney Rabbitohs,Newcastle Knights,Forwards,21,21,100.00 %,2023-08-20,25,Round 25
+2023,Canterbury-Bankstown Bulldogs,Canberra Raiders,Forwards,25,25,100.00 %,2023-08-20,25,Round 25
+2023,Canberra Raiders,Canterbury-Bankstown Bulldogs,Forwards,48,48,100.00 %,2023-08-20,25,Round 25
+2023,Penrith Panthers,Parramatta Eels,Forwards,29,29,100.00 %,2023-08-24,26,Round 26
+2023,Parramatta Eels,Penrith Panthers,Forwards,28,28,100.00 %,2023-08-24,26,Round 26
+2023,St. George Illawarra Dragons,Warriors,Forwards,41,41,100.00 %,2023-08-25,26,Round 26
+2023,Warriors,St. George Illawarra Dragons,Forwards,47,47,100.00 %,2023-08-25,26,Round 26
+2023,North Queensland Cowboys,Dolphins,Forwards,29,29,100.00 %,2023-08-25,26,Round 26
+2023,Dolphins,North Queensland Cowboys,Forwards,33,33,100.00 %,2023-08-25,26,Round 26
+2023,Gold Coast Titans,Melbourne Storm,Forwards,42,42,100.00 %,2023-08-26,26,Round 26
+2023,Melbourne Storm,Gold Coast Titans,Forwards,29,29,100.00 %,2023-08-26,26,Round 26
+2023,Sydney Roosters,Wests Tigers,Forwards,31,31,100.00 %,2023-08-26,26,Round 26
+2023,Wests Tigers,Sydney Roosters,Forwards,43,43,100.00 %,2023-08-26,26,Round 26
+2023,Brisbane Broncos,Canberra Raiders,Forwards,38,38,100.00 %,2023-08-26,26,Round 26
+2023,Canberra Raiders,Brisbane Broncos,Forwards,33,33,100.00 %,2023-08-26,26,Round 26
+2023,Manly-Warringah Sea Eagles,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2023-08-27,26,Round 26
+2023,Canterbury-Bankstown Bulldogs,Manly-Warringah Sea Eagles,Forwards,27,27,100.00 %,2023-08-27,26,Round 26
+2023,Newcastle Knights,Cronulla-Sutherland Sharks,Forwards,49,49,100.00 %,2023-08-27,26,Round 26
+2023,Cronulla-Sutherland Sharks,Newcastle Knights,Forwards,18,18,100.00 %,2023-08-27,26,Round 26
+2023,Brisbane Broncos,Melbourne Storm,Forwards,32,32,100.00 %,2023-08-31,27,Round 27
+2023,Melbourne Storm,Brisbane Broncos,Forwards,31,31,100.00 %,2023-08-31,27,Round 27
+2023,Manly-Warringah Sea Eagles,Wests Tigers,Forwards,32,32,100.00 %,2023-09-01,27,Round 27
+2023,Wests Tigers,Manly-Warringah Sea Eagles,Forwards,39,39,100.00 %,2023-09-01,27,Round 27
+2023,Sydney Roosters,South Sydney Rabbitohs,Forwards,32,32,100.00 %,2023-09-01,27,Round 27
+2023,South Sydney Rabbitohs,Sydney Roosters,Forwards,39,39,100.00 %,2023-09-01,27,Round 27
+2023,Warriors,Dolphins,Forwards,28,28,100.00 %,2023-09-02,27,Round 27
+2023,Dolphins,Warriors,Forwards,33,33,100.00 %,2023-09-02,27,Round 27
+2023,North Queensland Cowboys,Penrith Panthers,Forwards,23,23,100.00 %,2023-09-02,27,Round 27
+2023,Penrith Panthers,North Queensland Cowboys,Forwards,39,39,100.00 %,2023-09-02,27,Round 27
+2023,Newcastle Knights,St. George Illawarra Dragons,Forwards,30,30,100.00 %,2023-09-02,27,Round 27
+2023,St. George Illawarra Dragons,Newcastle Knights,Forwards,24,24,100.00 %,2023-09-02,27,Round 27
+2023,Gold Coast Titans,Canterbury-Bankstown Bulldogs,Forwards,40,40,100.00 %,2023-09-03,27,Round 27
+2023,Canterbury-Bankstown Bulldogs,Gold Coast Titans,Forwards,16,16,100.00 %,2023-09-03,27,Round 27
+2023,Canberra Raiders,Cronulla-Sutherland Sharks,Forwards,21,21,100.00 %,2023-09-03,27,Round 27
+2023,Cronulla-Sutherland Sharks,Canberra Raiders,Forwards,29,29,100.00 %,2023-09-03,27,Round 27
+2023,Brisbane Broncos,Melbourne Storm,Forwards,45,45,100.00 %,2023-09-08,28,Finals Week 1
+2023,Melbourne Storm,Brisbane Broncos,Forwards,24,24,100.00 %,2023-09-08,28,Finals Week 1
+2023,Penrith Panthers,Warriors,Forwards,43,43,100.00 %,2023-09-09,28,Finals Week 1
+2023,Warriors,Penrith Panthers,Forwards,32,32,100.00 %,2023-09-09,28,Finals Week 1
+2023,Sydney Roosters,Cronulla-Sutherland Sharks,Forwards,33,33,100.00 %,2023-09-09,28,Finals Week 1
+2023,Cronulla-Sutherland Sharks,Sydney Roosters,Forwards,38,38,100.00 %,2023-09-09,28,Finals Week 1
+2023,Newcastle Knights,Canberra Raiders,Forwards,26,26,100.00 %,2023-09-10,28,Finals Week 1
+2023,Canberra Raiders,Newcastle Knights,Forwards,35,35,100.00 %,2023-09-10,28,Finals Week 1
+2023,Sydney Roosters,Melbourne Storm,Forwards,29,29,100.00 %,2023-09-15,29,Finals Week 2
+2023,Melbourne Storm,Sydney Roosters,Forwards,21,21,100.00 %,2023-09-15,29,Finals Week 2
+2023,Newcastle Knights,Warriors,Forwards,29,29,100.00 %,2023-09-16,29,Finals Week 2
+2023,Warriors,Newcastle Knights,Forwards,37,37,100.00 %,2023-09-16,29,Finals Week 2
+2023,Penrith Panthers,Melbourne Storm,Forwards,44,44,100.00 %,2023-09-22,30,Finals Week 3
+2023,Melbourne Storm,Penrith Panthers,Forwards,24,24,100.00 %,2023-09-22,30,Finals Week 3
+2023,Brisbane Broncos,Warriors,Forwards,50,50,100.00 %,2023-09-23,30,Finals Week 3
+2023,Warriors,Brisbane Broncos,Forwards,31,31,100.00 %,2023-09-23,30,Finals Week 3
+2023,Brisbane Broncos,Penrith Panthers,Forwards,40,40,100.00 %,2023-10-01,31,Grand Final
+2023,Penrith Panthers,Brisbane Broncos,Forwards,44,44,100.00 %,2023-10-01,31,Grand Final
+2024,Manly-Warringah Sea Eagles,South Sydney Rabbitohs,Forwards,20,20,100.00 %,2024-03-03,1,Round 1
+2024,South Sydney Rabbitohs,Manly-Warringah Sea Eagles,Forwards,43,43,100.00 %,2024-03-03,1,Round 1
+2024,Sydney Roosters,Brisbane Broncos,Forwards,38,38,100.00 %,2024-03-03,1,Round 1
+2024,Brisbane Broncos,Sydney Roosters,Forwards,34,34,100.00 %,2024-03-03,1,Round 1
+2024,Newcastle Knights,Canberra Raiders,Forwards,27,27,100.00 %,2024-03-07,1,Round 1
+2024,Canberra Raiders,Newcastle Knights,Forwards,40,40,100.00 %,2024-03-07,1,Round 1
+2024,Cronulla-Sutherland Sharks,Warriors,Forwards,18,18,100.00 %,2024-03-08,1,Round 1
+2024,Warriors,Cronulla-Sutherland Sharks,Forwards,52,52,100.00 %,2024-03-08,1,Round 1
+2024,Penrith Panthers,Melbourne Storm,Forwards,35,35,100.00 %,2024-03-08,1,Round 1
+2024,Melbourne Storm,Penrith Panthers,Forwards,28,28,100.00 %,2024-03-08,1,Round 1
+2024,Canterbury-Bankstown Bulldogs,Parramatta Eels,Forwards,17,17,100.00 %,2024-03-09,1,Round 1
+2024,Parramatta Eels,Canterbury-Bankstown Bulldogs,Forwards,41,41,100.00 %,2024-03-09,1,Round 1
+2024,Gold Coast Titans,St. George Illawarra Dragons,Forwards,46,46,100.00 %,2024-03-09,1,Round 1
+2024,St. George Illawarra Dragons,Gold Coast Titans,Forwards,24,24,100.00 %,2024-03-09,1,Round 1
+2024,North Queensland Cowboys,Dolphins,Forwards,26,26,100.00 %,2024-03-10,1,Round 1
+2024,Dolphins,North Queensland Cowboys,Forwards,23,23,100.00 %,2024-03-10,1,Round 1
+2024,South Sydney Rabbitohs,Brisbane Broncos,Forwards,25,25,100.00 %,2024-03-14,2,Round 2
+2024,Brisbane Broncos,South Sydney Rabbitohs,Forwards,53,53,100.00 %,2024-03-14,2,Round 2
+2024,Canterbury-Bankstown Bulldogs,Cronulla-Sutherland Sharks,Forwards,15,15,100.00 %,2024-03-15,2,Round 2
+2024,Cronulla-Sutherland Sharks,Canterbury-Bankstown Bulldogs,Forwards,38,38,100.00 %,2024-03-15,2,Round 2
+2024,Penrith Panthers,Parramatta Eels,Forwards,25,25,100.00 %,2024-03-15,2,Round 2
+2024,Parramatta Eels,Penrith Panthers,Forwards,37,37,100.00 %,2024-03-15,2,Round 2
+2024,Canberra Raiders,Wests Tigers,Forwards,29,29,100.00 %,2024-03-16,2,Round 2
+2024,Wests Tigers,Canberra Raiders,Forwards,19,19,100.00 %,2024-03-16,2,Round 2
+2024,Newcastle Knights,North Queensland Cowboys,Forwards,40,40,100.00 %,2024-03-16,2,Round 2
+2024,North Queensland Cowboys,Newcastle Knights,Forwards,33,33,100.00 %,2024-03-16,2,Round 2
+2024,Melbourne Storm,Warriors,Forwards,25,25,100.00 %,2024-03-16,2,Round 2
+2024,Warriors,Melbourne Storm,Forwards,34,34,100.00 %,2024-03-16,2,Round 2
+2024,Sydney Roosters,Manly-Warringah Sea Eagles,Forwards,32,32,100.00 %,2024-03-17,2,Round 2
+2024,Manly-Warringah Sea Eagles,Sydney Roosters,Forwards,40,40,100.00 %,2024-03-17,2,Round 2
+2024,St. George Illawarra Dragons,Dolphins,Forwards,24,24,100.00 %,2024-03-17,2,Round 2
+2024,Dolphins,St. George Illawarra Dragons,Forwards,29,29,100.00 %,2024-03-17,2,Round 2
+2024,Brisbane Broncos,Penrith Panthers,Forwards,37,37,100.00 %,2024-03-21,3,Round 3
+2024,Penrith Panthers,Brisbane Broncos,Forwards,33,33,100.00 %,2024-03-21,3,Round 3
+2024,Canberra Raiders,Warriors,Forwards,27,27,100.00 %,2024-03-22,3,Round 3
+2024,Warriors,Canberra Raiders,Forwards,36,36,100.00 %,2024-03-22,3,Round 3
+2024,Sydney Roosters,South Sydney Rabbitohs,Forwards,33,33,100.00 %,2024-03-22,3,Round 3
+2024,South Sydney Rabbitohs,Sydney Roosters,Forwards,22,22,100.00 %,2024-03-22,3,Round 3
+2024,Gold Coast Titans,Canterbury-Bankstown Bulldogs,Forwards,33,33,100.00 %,2024-03-23,3,Round 3
+2024,Canterbury-Bankstown Bulldogs,Gold Coast Titans,Forwards,30,30,100.00 %,2024-03-23,3,Round 3
+2024,North Queensland Cowboys,St. George Illawarra Dragons,Forwards,27,27,100.00 %,2024-03-23,3,Round 3
+2024,St. George Illawarra Dragons,North Queensland Cowboys,Forwards,25,25,100.00 %,2024-03-23,3,Round 3
+2024,Wests Tigers,Cronulla-Sutherland Sharks,Forwards,43,43,100.00 %,2024-03-23,3,Round 3
+2024,Cronulla-Sutherland Sharks,Wests Tigers,Forwards,27,27,100.00 %,2024-03-23,3,Round 3
+2024,Manly-Warringah Sea Eagles,Parramatta Eels,Forwards,27,27,100.00 %,2024-03-24,3,Round 3
+2024,Parramatta Eels,Manly-Warringah Sea Eagles,Forwards,32,32,100.00 %,2024-03-24,3,Round 3
+2024,Newcastle Knights,Melbourne Storm,Forwards,35,35,100.00 %,2024-03-24,3,Round 3
+2024,Melbourne Storm,Newcastle Knights,Forwards,40,40,100.00 %,2024-03-24,3,Round 3
+2024,Sydney Roosters,Penrith Panthers,Forwards,34,34,100.00 %,2024-03-28,4,Round 4
+2024,Penrith Panthers,Sydney Roosters,Forwards,46,46,100.00 %,2024-03-28,4,Round 4
+2024,South Sydney Rabbitohs,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2024-03-29,4,Round 4
+2024,Canterbury-Bankstown Bulldogs,South Sydney Rabbitohs,Forwards,18,18,100.00 %,2024-03-29,4,Round 4
+2024,Brisbane Broncos,North Queensland Cowboys,Forwards,38,38,100.00 %,2024-03-29,4,Round 4
+2024,North Queensland Cowboys,Brisbane Broncos,Forwards,26,26,100.00 %,2024-03-29,4,Round 4
+2024,Manly-Warringah Sea Eagles,St. George Illawarra Dragons,Forwards,36,36,100.00 %,2024-03-30,4,Round 4
+2024,St. George Illawarra Dragons,Manly-Warringah Sea Eagles,Forwards,26,26,100.00 %,2024-03-30,4,Round 4
+2024,Gold Coast Titans,Dolphins,Forwards,28,28,100.00 %,2024-03-30,4,Round 4
+2024,Dolphins,Gold Coast Titans,Forwards,26,26,100.00 %,2024-03-30,4,Round 4
+2024,Newcastle Knights,Warriors,Forwards,27,27,100.00 %,2024-03-31,4,Round 4
+2024,Warriors,Newcastle Knights,Forwards,47,47,100.00 %,2024-03-31,4,Round 4
+2024,Canberra Raiders,Cronulla-Sutherland Sharks,Forwards,31,31,100.00 %,2024-03-31,4,Round 4
+2024,Cronulla-Sutherland Sharks,Canberra Raiders,Forwards,38,38,100.00 %,2024-03-31,4,Round 4
+2024,Wests Tigers,Parramatta Eels,Forwards,30,30,100.00 %,2024-04-01,4,Round 4
+2024,Parramatta Eels,Wests Tigers,Forwards,28,28,100.00 %,2024-04-01,4,Round 4
+2024,Brisbane Broncos,Melbourne Storm,Forwards,35,35,100.00 %,2024-04-04,5,Round 5
+2024,Melbourne Storm,Brisbane Broncos,Forwards,36,36,100.00 %,2024-04-04,5,Round 5
+2024,Sydney Roosters,Canterbury-Bankstown Bulldogs,Forwards,27,27,100.00 %,2024-04-05,5,Round 5
+2024,Canterbury-Bankstown Bulldogs,Sydney Roosters,Forwards,26,26,100.00 %,2024-04-05,5,Round 5
+2024,Newcastle Knights,St. George Illawarra Dragons,Forwards,35,35,100.00 %,2024-04-05,5,Round 5
+2024,St. George Illawarra Dragons,Newcastle Knights,Forwards,36,36,100.00 %,2024-04-05,5,Round 5
+2024,South Sydney Rabbitohs,Warriors,Forwards,25,25,100.00 %,2024-04-06,5,Round 5
+2024,Warriors,South Sydney Rabbitohs,Forwards,28,28,100.00 %,2024-04-06,5,Round 5
+2024,Manly-Warringah Sea Eagles,Penrith Panthers,Forwards,27,27,100.00 %,2024-04-06,5,Round 5
+2024,Penrith Panthers,Manly-Warringah Sea Eagles,Forwards,26,26,100.00 %,2024-04-06,5,Round 5
+2024,Wests Tigers,Dolphins,Forwards,36,36,100.00 %,2024-04-06,5,Round 5
+2024,Dolphins,Wests Tigers,Forwards,21,21,100.00 %,2024-04-06,5,Round 5
+2024,Gold Coast Titans,North Queensland Cowboys,Forwards,29,29,100.00 %,2024-04-07,5,Round 5
+2024,North Queensland Cowboys,Gold Coast Titans,Forwards,33,33,100.00 %,2024-04-07,5,Round 5
+2024,Canberra Raiders,Parramatta Eels,Forwards,40,40,100.00 %,2024-04-07,5,Round 5
+2024,Parramatta Eels,Canberra Raiders,Forwards,29,29,100.00 %,2024-04-07,5,Round 5
+2024,Sydney Roosters,Newcastle Knights,Forwards,29,29,100.00 %,2024-04-11,6,Round 6
+2024,Newcastle Knights,Sydney Roosters,Forwards,32,32,100.00 %,2024-04-11,6,Round 6
+2024,Canterbury-Bankstown Bulldogs,Melbourne Storm,Forwards,21,21,100.00 %,2024-04-12,6,Round 6
+2024,Melbourne Storm,Canterbury-Bankstown Bulldogs,Forwards,31,31,100.00 %,2024-04-12,6,Round 6
+2024,Brisbane Broncos,Dolphins,Forwards,32,32,100.00 %,2024-04-12,6,Round 6
+2024,Dolphins,Brisbane Broncos,Forwards,39,39,100.00 %,2024-04-12,6,Round 6
+2024,Manly-Warringah Sea Eagles,Warriors,Forwards,51,51,100.00 %,2024-04-13,6,Round 6
+2024,Warriors,Manly-Warringah Sea Eagles,Forwards,45,45,100.00 %,2024-04-13,6,Round 6
+2024,North Queensland Cowboys,Parramatta Eels,Forwards,28,28,100.00 %,2024-04-13,6,Round 6
+2024,Parramatta Eels,North Queensland Cowboys,Forwards,31,31,100.00 %,2024-04-13,6,Round 6
+2024,South Sydney Rabbitohs,Cronulla-Sutherland Sharks,Forwards,21,21,100.00 %,2024-04-13,6,Round 6
+2024,Cronulla-Sutherland Sharks,South Sydney Rabbitohs,Forwards,29,29,100.00 %,2024-04-13,6,Round 6
+2024,St. George Illawarra Dragons,Wests Tigers,Forwards,26,26,100.00 %,2024-04-14,6,Round 6
+2024,Wests Tigers,St. George Illawarra Dragons,Forwards,24,24,100.00 %,2024-04-14,6,Round 6
+2024,Gold Coast Titans,Canberra Raiders,Forwards,24,24,100.00 %,2024-04-14,6,Round 6
+2024,Canberra Raiders,Gold Coast Titans,Forwards,50,50,100.00 %,2024-04-14,6,Round 6
+2024,Sydney Roosters,Melbourne Storm,Forwards,32,32,100.00 %,2024-04-18,7,Round 7
+2024,Melbourne Storm,Sydney Roosters,Forwards,28,28,100.00 %,2024-04-18,7,Round 7
+2024,St. George Illawarra Dragons,Warriors,Forwards,21,21,100.00 %,2024-04-19,7,Round 7
+2024,Warriors,St. George Illawarra Dragons,Forwards,47,47,100.00 %,2024-04-19,7,Round 7
+2024,Parramatta Eels,Dolphins,Forwards,23,23,100.00 %,2024-04-19,7,Round 7
+2024,Dolphins,Parramatta Eels,Forwards,27,27,100.00 %,2024-04-19,7,Round 7
+2024,Penrith Panthers,Wests Tigers,Forwards,29,29,100.00 %,2024-04-20,7,Round 7
+2024,Wests Tigers,Penrith Panthers,Forwards,27,27,100.00 %,2024-04-20,7,Round 7
+2024,Manly-Warringah Sea Eagles,Gold Coast Titans,Forwards,38,38,100.00 %,2024-04-20,7,Round 7
+2024,Gold Coast Titans,Manly-Warringah Sea Eagles,Forwards,30,30,100.00 %,2024-04-20,7,Round 7
+2024,Brisbane Broncos,Canberra Raiders,Forwards,38,38,100.00 %,2024-04-20,7,Round 7
+2024,Canberra Raiders,Brisbane Broncos,Forwards,33,33,100.00 %,2024-04-20,7,Round 7
+2024,Newcastle Knights,Canterbury-Bankstown Bulldogs,Forwards,25,25,100.00 %,2024-04-21,7,Round 7
+2024,Canterbury-Bankstown Bulldogs,Newcastle Knights,Forwards,29,29,100.00 %,2024-04-21,7,Round 7
+2024,North Queensland Cowboys,Cronulla-Sutherland Sharks,Forwards,23,23,100.00 %,2024-04-21,7,Round 7
+2024,Cronulla-Sutherland Sharks,North Queensland Cowboys,Forwards,28,28,100.00 %,2024-04-21,7,Round 7
+2024,Gold Coast Titans,Warriors,Forwards,23,23,100.00 %,2024-04-25,8,Round 8
+2024,Warriors,Gold Coast Titans,Forwards,45,45,100.00 %,2024-04-25,8,Round 8
+2024,Sydney Roosters,St. George Illawarra Dragons,Forwards,30,30,100.00 %,2024-04-25,8,Round 8
+2024,St. George Illawarra Dragons,Sydney Roosters,Forwards,15,15,100.00 %,2024-04-25,8,Round 8
+2024,South Sydney Rabbitohs,Melbourne Storm,Forwards,33,33,100.00 %,2024-04-25,8,Round 8
+2024,Melbourne Storm,South Sydney Rabbitohs,Forwards,22,22,100.00 %,2024-04-25,8,Round 8
+2024,Manly-Warringah Sea Eagles,Parramatta Eels,Forwards,32,32,100.00 %,2024-04-26,8,Round 8
+2024,Parramatta Eels,Manly-Warringah Sea Eagles,Forwards,31,31,100.00 %,2024-04-26,8,Round 8
+2024,Brisbane Broncos,Wests Tigers,Forwards,36,36,100.00 %,2024-04-27,8,Round 8
+2024,Wests Tigers,Brisbane Broncos,Forwards,35,35,100.00 %,2024-04-27,8,Round 8
+2024,North Queensland Cowboys,Penrith Panthers,Forwards,29,29,100.00 %,2024-04-27,8,Round 8
+2024,Penrith Panthers,North Queensland Cowboys,Forwards,25,25,100.00 %,2024-04-27,8,Round 8
+2024,Newcastle Knights,Dolphins,Forwards,38,38,100.00 %,2024-04-28,8,Round 8
+2024,Dolphins,Newcastle Knights,Forwards,23,23,100.00 %,2024-04-28,8,Round 8
+2024,Canberra Raiders,Cronulla-Sutherland Sharks,Forwards,28,28,100.00 %,2024-04-28,8,Round 8
+2024,Cronulla-Sutherland Sharks,Canberra Raiders,Forwards,31,31,100.00 %,2024-04-28,8,Round 8
+2024,South Sydney Rabbitohs,Penrith Panthers,Forwards,26,26,100.00 %,2024-05-02,9,Round 9
+2024,Penrith Panthers,South Sydney Rabbitohs,Forwards,51,51,100.00 %,2024-05-02,9,Round 9
+2024,Manly-Warringah Sea Eagles,Canberra Raiders,Forwards,31,31,100.00 %,2024-05-03,9,Round 9
+2024,Canberra Raiders,Manly-Warringah Sea Eagles,Forwards,20,20,100.00 %,2024-05-03,9,Round 9
+2024,Sydney Roosters,Brisbane Broncos,Forwards,23,23,100.00 %,2024-05-03,9,Round 9
+2024,Brisbane Broncos,Sydney Roosters,Forwards,45,45,100.00 %,2024-05-03,9,Round 9
+2024,Canterbury-Bankstown Bulldogs,Wests Tigers,Forwards,29,29,100.00 %,2024-05-04,9,Round 9
+2024,Wests Tigers,Canterbury-Bankstown Bulldogs,Forwards,30,30,100.00 %,2024-05-04,9,Round 9
+2024,Gold Coast Titans,Melbourne Storm,Forwards,20,20,100.00 %,2024-05-04,9,Round 9
+2024,Melbourne Storm,Gold Coast Titans,Forwards,26,26,100.00 %,2024-05-04,9,Round 9
+2024,North Queensland Cowboys,Dolphins,Forwards,31,31,100.00 %,2024-05-04,9,Round 9
+2024,Dolphins,North Queensland Cowboys,Forwards,28,28,100.00 %,2024-05-04,9,Round 9
+2024,Newcastle Knights,Warriors,Forwards,30,30,100.00 %,2024-05-05,9,Round 9
+2024,Warriors,Newcastle Knights,Forwards,43,43,100.00 %,2024-05-05,9,Round 9
+2024,St. George Illawarra Dragons,Cronulla-Sutherland Sharks,Forwards,32,32,100.00 %,2024-05-05,9,Round 9
+2024,Cronulla-Sutherland Sharks,St. George Illawarra Dragons,Forwards,37,37,100.00 %,2024-05-05,9,Round 9
+2024,Manly-Warringah Sea Eagles,Dolphins,Forwards,34,34,100.00 %,2024-05-09,10,Round 10
+2024,Dolphins,Manly-Warringah Sea Eagles,Forwards,23,23,100.00 %,2024-05-09,10,Round 10
+2024,Canterbury-Bankstown Bulldogs,Penrith Panthers,Forwards,30,30,100.00 %,2024-05-10,10,Round 10
+2024,Penrith Panthers,Canterbury-Bankstown Bulldogs,Forwards,34,34,100.00 %,2024-05-10,10,Round 10
+2024,Brisbane Broncos,Parramatta Eels,Forwards,36,36,100.00 %,2024-05-10,10,Round 10
+2024,Parramatta Eels,Brisbane Broncos,Forwards,32,32,100.00 %,2024-05-10,10,Round 10
+2024,Newcastle Knights,Wests Tigers,Forwards,30,30,100.00 %,2024-05-11,10,Round 10
+2024,Wests Tigers,Newcastle Knights,Forwards,36,36,100.00 %,2024-05-11,10,Round 10
+2024,South Sydney Rabbitohs,St. George Illawarra Dragons,Forwards,23,23,100.00 %,2024-05-11,10,Round 10
+2024,St. George Illawarra Dragons,South Sydney Rabbitohs,Forwards,38,38,100.00 %,2024-05-11,10,Round 10
+2024,Melbourne Storm,Cronulla-Sutherland Sharks,Forwards,34,34,100.00 %,2024-05-11,10,Round 10
+2024,Cronulla-Sutherland Sharks,Melbourne Storm,Forwards,33,33,100.00 %,2024-05-11,10,Round 10
+2024,Sydney Roosters,Warriors,Forwards,21,21,100.00 %,2024-05-12,10,Round 10
+2024,Warriors,Sydney Roosters,Forwards,31,31,100.00 %,2024-05-12,10,Round 10
+2024,Gold Coast Titans,North Queensland Cowboys,Forwards,40,40,100.00 %,2024-05-12,10,Round 10
+2024,North Queensland Cowboys,Gold Coast Titans,Forwards,29,29,100.00 %,2024-05-12,10,Round 10
+2024,Canterbury-Bankstown Bulldogs,Canberra Raiders,Forwards,29,29,100.00 %,2024-05-17,11,Round 11
+2024,Canberra Raiders,Canterbury-Bankstown Bulldogs,Forwards,28,28,100.00 %,2024-05-17,11,Round 11
+2024,Manly-Warringah Sea Eagles,Brisbane Broncos,Forwards,24,24,100.00 %,2024-05-17,11,Round 11
+2024,Brisbane Broncos,Manly-Warringah Sea Eagles,Forwards,53,53,100.00 %,2024-05-17,11,Round 11
+2024,Newcastle Knights,Gold Coast Titans,Forwards,30,30,100.00 %,2024-05-18,11,Round 11
+2024,Gold Coast Titans,Newcastle Knights,Forwards,18,18,100.00 %,2024-05-18,11,Round 11
+2024,Sydney Roosters,Cronulla-Sutherland Sharks,Forwards,38,38,100.00 %,2024-05-18,11,Round 11
+2024,Cronulla-Sutherland Sharks,Sydney Roosters,Forwards,35,35,100.00 %,2024-05-18,11,Round 11
+2024,South Sydney Rabbitohs,North Queensland Cowboys,Forwards,26,26,100.00 %,2024-05-18,11,Round 11
+2024,North Queensland Cowboys,South Sydney Rabbitohs,Forwards,19,19,100.00 %,2024-05-18,11,Round 11
+2024,Penrith Panthers,Warriors,Forwards,33,33,100.00 %,2024-05-19,11,Round 11
+2024,Warriors,Penrith Panthers,Forwards,22,22,100.00 %,2024-05-19,11,Round 11
+2024,Melbourne Storm,Parramatta Eels,Forwards,34,34,100.00 %,2024-05-19,11,Round 11
+2024,Parramatta Eels,Melbourne Storm,Forwards,30,30,100.00 %,2024-05-19,11,Round 11
+2024,Wests Tigers,Dolphins,Forwards,50,50,100.00 %,2024-05-19,11,Round 11
+2024,Dolphins,Wests Tigers,Forwards,20,20,100.00 %,2024-05-19,11,Round 11
+2024,Canterbury-Bankstown Bulldogs,St. George Illawarra Dragons,Forwards,23,23,100.00 %,2024-05-23,12,Round 12
+2024,St. George Illawarra Dragons,Canterbury-Bankstown Bulldogs,Forwards,28,28,100.00 %,2024-05-23,12,Round 12
+2024,North Queensland Cowboys,Wests Tigers,Forwards,29,29,100.00 %,2024-05-24,12,Round 12
+2024,Wests Tigers,North Queensland Cowboys,Forwards,22,22,100.00 %,2024-05-24,12,Round 12
+2024,Manly-Warringah Sea Eagles,Melbourne Storm,Forwards,37,37,100.00 %,2024-05-24,12,Round 12
+2024,Melbourne Storm,Manly-Warringah Sea Eagles,Forwards,25,25,100.00 %,2024-05-24,12,Round 12
+2024,Sydney Roosters,Canberra Raiders,Forwards,24,24,100.00 %,2024-05-25,12,Round 12
+2024,Canberra Raiders,Sydney Roosters,Forwards,29,29,100.00 %,2024-05-25,12,Round 12
+2024,Penrith Panthers,Cronulla-Sutherland Sharks,Forwards,47,47,100.00 %,2024-05-25,12,Round 12
+2024,Cronulla-Sutherland Sharks,Penrith Panthers,Forwards,14,14,100.00 %,2024-05-25,12,Round 12
+2024,South Sydney Rabbitohs,Parramatta Eels,Forwards,52,52,100.00 %,2024-05-25,12,Round 12
+2024,Parramatta Eels,South Sydney Rabbitohs,Forwards,26,26,100.00 %,2024-05-25,12,Round 12
+2024,Gold Coast Titans,Brisbane Broncos,Forwards,33,33,100.00 %,2024-05-26,12,Round 12
+2024,Brisbane Broncos,Gold Coast Titans,Forwards,37,37,100.00 %,2024-05-26,12,Round 12
+2024,Warriors,Dolphins,Forwards,26,26,100.00 %,2024-05-26,12,Round 12
+2024,Dolphins,Warriors,Forwards,27,27,100.00 %,2024-05-26,12,Round 12
+2024,Cronulla-Sutherland Sharks,Parramatta Eels,Forwards,24,24,100.00 %,2024-05-30,13,Round 13
+2024,Parramatta Eels,Cronulla-Sutherland Sharks,Forwards,35,35,100.00 %,2024-05-30,13,Round 13
+2024,Newcastle Knights,Canterbury-Bankstown Bulldogs,Forwards,29,29,100.00 %,2024-05-31,13,Round 13
+2024,Canterbury-Bankstown Bulldogs,Newcastle Knights,Forwards,17,17,100.00 %,2024-05-31,13,Round 13
+2024,Penrith Panthers,St. George Illawarra Dragons,Forwards,41,41,100.00 %,2024-06-01,13,Round 13
+2024,St. George Illawarra Dragons,Penrith Panthers,Forwards,38,38,100.00 %,2024-06-01,13,Round 13
+2024,Canberra Raiders,Dolphins,Forwards,34,34,100.00 %,2024-06-01,13,Round 13
+2024,Dolphins,Canberra Raiders,Forwards,32,32,100.00 %,2024-06-01,13,Round 13
+2024,Sydney Roosters,North Queensland Cowboys,Forwards,27,27,100.00 %,2024-06-02,13,Round 13
+2024,North Queensland Cowboys,Sydney Roosters,Forwards,31,31,100.00 %,2024-06-02,13,Round 13
+2024,St. George Illawarra Dragons,Wests Tigers,Forwards,45,45,100.00 %,2024-06-07,14,Round 14
+2024,Wests Tigers,St. George Illawarra Dragons,Forwards,13,13,100.00 %,2024-06-07,14,Round 14
+2024,Gold Coast Titans,South Sydney Rabbitohs,Forwards,15,15,100.00 %,2024-06-08,14,Round 14
+2024,South Sydney Rabbitohs,Gold Coast Titans,Forwards,40,40,100.00 %,2024-06-08,14,Round 14
+2024,North Queensland Cowboys,Warriors,Forwards,20,20,100.00 %,2024-06-08,14,Round 14
+2024,Warriors,North Queensland Cowboys,Forwards,44,44,100.00 %,2024-06-08,14,Round 14
+2024,Brisbane Broncos,Cronulla-Sutherland Sharks,Forwards,33,33,100.00 %,2024-06-08,14,Round 14
+2024,Cronulla-Sutherland Sharks,Brisbane Broncos,Forwards,28,28,100.00 %,2024-06-08,14,Round 14
+2024,Newcastle Knights,Melbourne Storm,Forwards,31,31,100.00 %,2024-06-09,14,Round 14
+2024,Melbourne Storm,Newcastle Knights,Forwards,37,37,100.00 %,2024-06-09,14,Round 14
+2024,Manly-Warringah Sea Eagles,Penrith Panthers,Forwards,24,24,100.00 %,2024-06-09,14,Round 14
+2024,Penrith Panthers,Manly-Warringah Sea Eagles,Forwards,35,35,100.00 %,2024-06-09,14,Round 14
+2024,Canterbury-Bankstown Bulldogs,Parramatta Eels,Forwards,19,19,100.00 %,2024-06-10,14,Round 14
+2024,Parramatta Eels,Canterbury-Bankstown Bulldogs,Forwards,23,23,100.00 %,2024-06-10,14,Round 14
+2024,Cronulla-Sutherland Sharks,Dolphins,Forwards,16,16,100.00 %,2024-06-13,15,Round 15
+2024,Dolphins,Cronulla-Sutherland Sharks,Forwards,36,36,100.00 %,2024-06-13,15,Round 15
+2024,North Queensland Cowboys,Canberra Raiders,Forwards,33,33,100.00 %,2024-06-14,15,Round 15
+2024,Canberra Raiders,North Queensland Cowboys,Forwards,31,31,100.00 %,2024-06-14,15,Round 15
+2024,South Sydney Rabbitohs,Brisbane Broncos,Forwards,40,40,100.00 %,2024-06-14,15,Round 15
+2024,Brisbane Broncos,South Sydney Rabbitohs,Forwards,28,28,100.00 %,2024-06-14,15,Round 15
+2024,Gold Coast Titans,Wests Tigers,Forwards,27,27,100.00 %,2024-06-15,15,Round 15
+2024,Wests Tigers,Gold Coast Titans,Forwards,29,29,100.00 %,2024-06-15,15,Round 15
+2024,Melbourne Storm,Warriors,Forwards,23,23,100.00 %,2024-06-15,15,Round 15
+2024,Warriors,Melbourne Storm,Forwards,43,43,100.00 %,2024-06-15,15,Round 15
+2024,Sydney Roosters,Parramatta Eels,Forwards,28,28,100.00 %,2024-06-15,15,Round 15
+2024,Parramatta Eels,Sydney Roosters,Forwards,30,30,100.00 %,2024-06-15,15,Round 15
+2024,Manly-Warringah Sea Eagles,St. George Illawarra Dragons,Forwards,13,13,100.00 %,2024-06-16,15,Round 15
+2024,St. George Illawarra Dragons,Manly-Warringah Sea Eagles,Forwards,31,31,100.00 %,2024-06-16,15,Round 15
+2024,Newcastle Knights,Penrith Panthers,Forwards,23,23,100.00 %,2024-06-16,15,Round 15
+2024,Penrith Panthers,Newcastle Knights,Forwards,36,36,100.00 %,2024-06-16,15,Round 15
+2024,Melbourne Storm,Dolphins,Forwards,22,22,100.00 %,2024-06-21,16,Round 16
+2024,Dolphins,Melbourne Storm,Forwards,38,38,100.00 %,2024-06-21,16,Round 16
+2024,Gold Coast Titans,Warriors,Forwards,31,31,100.00 %,2024-06-22,16,Round 16
+2024,Warriors,Gold Coast Titans,Forwards,27,27,100.00 %,2024-06-22,16,Round 16
+2024,Sydney Roosters,Canterbury-Bankstown Bulldogs,Forwards,41,41,100.00 %,2024-06-22,16,Round 16
+2024,Canterbury-Bankstown Bulldogs,Sydney Roosters,Forwards,19,19,100.00 %,2024-06-22,16,Round 16
+2024,Manly-Warringah Sea Eagles,South Sydney Rabbitohs,Forwards,33,33,100.00 %,2024-06-22,16,Round 16
+2024,South Sydney Rabbitohs,Manly-Warringah Sea Eagles,Forwards,52,52,100.00 %,2024-06-22,16,Round 16
+2024,Canberra Raiders,Wests Tigers,Forwards,34,34,100.00 %,2024-06-23,16,Round 16
+2024,Wests Tigers,Canberra Raiders,Forwards,17,17,100.00 %,2024-06-23,16,Round 16
+2024,Canterbury-Bankstown Bulldogs,Cronulla-Sutherland Sharks,Forwards,49,49,100.00 %,2024-06-28,17,Round 17
+2024,Cronulla-Sutherland Sharks,Canterbury-Bankstown Bulldogs,Forwards,31,31,100.00 %,2024-06-28,17,Round 17
+2024,Brisbane Broncos,Warriors,Forwards,41,41,100.00 %,2024-06-29,17,Round 17
+2024,Warriors,Brisbane Broncos,Forwards,44,44,100.00 %,2024-06-29,17,Round 17
+2024,Newcastle Knights,Parramatta Eels,Forwards,32,32,100.00 %,2024-06-29,17,Round 17
+2024,Parramatta Eels,Newcastle Knights,Forwards,26,26,100.00 %,2024-06-29,17,Round 17
+2024,Canberra Raiders,Melbourne Storm,Forwards,25,25,100.00 %,2024-06-29,17,Round 17
+2024,Melbourne Storm,Canberra Raiders,Forwards,37,37,100.00 %,2024-06-29,17,Round 17
+2024,St. George Illawarra Dragons,Dolphins,Forwards,31,31,100.00 %,2024-06-30,17,Round 17
+2024,Dolphins,St. George Illawarra Dragons,Forwards,25,25,100.00 %,2024-06-30,17,Round 17
+2024,North Queensland Cowboys,Penrith Panthers,Forwards,32,32,100.00 %,2024-06-30,17,Round 17
+2024,Penrith Panthers,North Queensland Cowboys,Forwards,28,28,100.00 %,2024-06-30,17,Round 17
+2024,Sydney Roosters,Wests Tigers,Forwards,21,21,100.00 %,2024-06-30,17,Round 17
+2024,Wests Tigers,Sydney Roosters,Forwards,23,23,100.00 %,2024-06-30,17,Round 17
+2024,South Sydney Rabbitohs,Parramatta Eels,Forwards,35,35,100.00 %,2024-07-04,18,Round 18
+2024,Parramatta Eels,South Sydney Rabbitohs,Forwards,27,27,100.00 %,2024-07-04,18,Round 18
+2024,Gold Coast Titans,Cronulla-Sutherland Sharks,Forwards,34,34,100.00 %,2024-07-05,18,Round 18
+2024,Cronulla-Sutherland Sharks,Gold Coast Titans,Forwards,19,19,100.00 %,2024-07-05,18,Round 18
+2024,Brisbane Broncos,Penrith Panthers,Forwards,33,33,100.00 %,2024-07-05,18,Round 18
+2024,Penrith Panthers,Brisbane Broncos,Forwards,41,41,100.00 %,2024-07-05,18,Round 18
+2024,Canterbury-Bankstown Bulldogs,Warriors,Forwards,27,27,100.00 %,2024-07-06,18,Round 18
+2024,Warriors,Canterbury-Bankstown Bulldogs,Forwards,47,47,100.00 %,2024-07-06,18,Round 18
+2024,Melbourne Storm,Wests Tigers,Forwards,23,23,100.00 %,2024-07-06,18,Round 18
+2024,Wests Tigers,Melbourne Storm,Forwards,36,36,100.00 %,2024-07-06,18,Round 18
+2024,Manly-Warringah Sea Eagles,North Queensland Cowboys,Forwards,29,29,100.00 %,2024-07-06,18,Round 18
+2024,North Queensland Cowboys,Manly-Warringah Sea Eagles,Forwards,39,39,100.00 %,2024-07-06,18,Round 18
+2024,Sydney Roosters,St. George Illawarra Dragons,Forwards,29,29,100.00 %,2024-07-07,18,Round 18
+2024,St. George Illawarra Dragons,Sydney Roosters,Forwards,19,19,100.00 %,2024-07-07,18,Round 18
+2024,Newcastle Knights,Canberra Raiders,Forwards,30,30,100.00 %,2024-07-07,18,Round 18
+2024,Canberra Raiders,Newcastle Knights,Forwards,33,33,100.00 %,2024-07-07,18,Round 18
+2024,South Sydney Rabbitohs,Dolphins,Forwards,28,28,100.00 %,2024-07-11,19,Round 19
+2024,Dolphins,South Sydney Rabbitohs,Forwards,30,30,100.00 %,2024-07-11,19,Round 19
+2024,Wests Tigers,Cronulla-Sutherland Sharks,Forwards,25,25,100.00 %,2024-07-12,19,Round 19
+2024,Cronulla-Sutherland Sharks,Wests Tigers,Forwards,30,30,100.00 %,2024-07-12,19,Round 19
+2024,Gold Coast Titans,Parramatta Eels,Forwards,25,25,100.00 %,2024-07-13,19,Round 19
+2024,Parramatta Eels,Gold Coast Titans,Forwards,30,30,100.00 %,2024-07-13,19,Round 19
+2024,Brisbane Broncos,St. George Illawarra Dragons,Forwards,31,31,100.00 %,2024-07-13,19,Round 19
+2024,St. George Illawarra Dragons,Brisbane Broncos,Forwards,36,36,100.00 %,2024-07-13,19,Round 19
+2024,Manly-Warringah Sea Eagles,Newcastle Knights,Forwards,37,37,100.00 %,2024-07-14,19,Round 19
+2024,Newcastle Knights,Manly-Warringah Sea Eagles,Forwards,22,22,100.00 %,2024-07-14,19,Round 19
+2024,Canberra Raiders,Warriors,Forwards,32,32,100.00 %,2024-07-19,20,Round 20
+2024,Warriors,Canberra Raiders,Forwards,42,42,100.00 %,2024-07-19,20,Round 20
+2024,South Sydney Rabbitohs,Wests Tigers,Forwards,39,39,100.00 %,2024-07-20,20,Round 20
+2024,Wests Tigers,South Sydney Rabbitohs,Forwards,26,26,100.00 %,2024-07-20,20,Round 20
+2024,Newcastle Knights,Brisbane Broncos,Forwards,36,36,100.00 %,2024-07-20,20,Round 20
+2024,Brisbane Broncos,Newcastle Knights,Forwards,35,35,100.00 %,2024-07-20,20,Round 20
+2024,Sydney Roosters,Melbourne Storm,Forwards,27,27,100.00 %,2024-07-20,20,Round 20
+2024,Melbourne Storm,Sydney Roosters,Forwards,26,26,100.00 %,2024-07-20,20,Round 20
+2024,Penrith Panthers,Dolphins,Forwards,34,34,100.00 %,2024-07-21,20,Round 20
+2024,Dolphins,Penrith Panthers,Forwards,30,30,100.00 %,2024-07-21,20,Round 20
+2024,Manly-Warringah Sea Eagles,Gold Coast Titans,Forwards,21,21,100.00 %,2024-07-21,20,Round 20
+2024,Gold Coast Titans,Manly-Warringah Sea Eagles,Forwards,32,32,100.00 %,2024-07-21,20,Round 20
+2024,Canterbury-Bankstown Bulldogs,North Queensland Cowboys,Forwards,35,35,100.00 %,2024-07-21,20,Round 20
+2024,North Queensland Cowboys,Canterbury-Bankstown Bulldogs,Forwards,26,26,100.00 %,2024-07-21,20,Round 20
+2024,Wests Tigers,Warriors,Forwards,31,31,100.00 %,2024-07-26,21,Round 21
+2024,Warriors,Wests Tigers,Forwards,45,45,100.00 %,2024-07-26,21,Round 21
+2024,Melbourne Storm,Parramatta Eels,Forwards,21,21,100.00 %,2024-07-26,21,Round 21
+2024,Parramatta Eels,Melbourne Storm,Forwards,30,30,100.00 %,2024-07-26,21,Round 21
+2024,Canterbury-Bankstown Bulldogs,Brisbane Broncos,Forwards,30,30,100.00 %,2024-07-27,21,Round 21
+2024,Brisbane Broncos,Canterbury-Bankstown Bulldogs,Forwards,45,45,100.00 %,2024-07-27,21,Round 21
+2024,North Queensland Cowboys,Cronulla-Sutherland Sharks,Forwards,15,15,100.00 %,2024-07-27,21,Round 21
+2024,Cronulla-Sutherland Sharks,North Queensland Cowboys,Forwards,31,31,100.00 %,2024-07-27,21,Round 21
+2024,Sydney Roosters,Manly-Warringah Sea Eagles,Forwards,15,15,100.00 %,2024-07-27,21,Round 21
+2024,Manly-Warringah Sea Eagles,Sydney Roosters,Forwards,28,28,100.00 %,2024-07-27,21,Round 21
+2024,Penrith Panthers,St. George Illawarra Dragons,Forwards,30,30,100.00 %,2024-07-28,21,Round 21
+2024,St. George Illawarra Dragons,Penrith Panthers,Forwards,25,25,100.00 %,2024-07-28,21,Round 21
+2024,Gold Coast Titans,Dolphins,Forwards,26,26,100.00 %,2024-07-28,21,Round 21
+2024,Dolphins,Gold Coast Titans,Forwards,29,29,100.00 %,2024-07-28,21,Round 21
+2024,South Sydney Rabbitohs,Canberra Raiders,Forwards,37,37,100.00 %,2024-07-28,21,Round 21
+2024,Canberra Raiders,South Sydney Rabbitohs,Forwards,35,35,100.00 %,2024-07-28,21,Round 21
+2024,North Queensland Cowboys,Wests Tigers,Forwards,30,30,100.00 %,2024-08-01,22,Round 22
+2024,Wests Tigers,North Queensland Cowboys,Forwards,25,25,100.00 %,2024-08-01,22,Round 22
+2024,Parramatta Eels,Warriors,Forwards,32,32,100.00 %,2024-08-02,22,Round 22
+2024,Warriors,Parramatta Eels,Forwards,34,34,100.00 %,2024-08-02,22,Round 22
+2024,Sydney Roosters,Dolphins,Forwards,10,10,100.00 %,2024-08-02,22,Round 22
+2024,Dolphins,Sydney Roosters,Forwards,22,22,100.00 %,2024-08-02,22,Round 22
+2024,Gold Coast Titans,Brisbane Broncos,Forwards,27,27,100.00 %,2024-08-03,22,Round 22
+2024,Brisbane Broncos,Gold Coast Titans,Forwards,27,27,100.00 %,2024-08-03,22,Round 22
+2024,Melbourne Storm,St. George Illawarra Dragons,Forwards,35,35,100.00 %,2024-08-03,22,Round 22
+2024,St. George Illawarra Dragons,Melbourne Storm,Forwards,23,23,100.00 %,2024-08-03,22,Round 22
+2024,South Sydney Rabbitohs,Cronulla-Sutherland Sharks,Forwards,43,43,100.00 %,2024-08-03,22,Round 22
+2024,Cronulla-Sutherland Sharks,South Sydney Rabbitohs,Forwards,26,26,100.00 %,2024-08-03,22,Round 22
+2024,Newcastle Knights,Penrith Panthers,Forwards,33,33,100.00 %,2024-08-04,22,Round 22
+2024,Penrith Panthers,Newcastle Knights,Forwards,28,28,100.00 %,2024-08-04,22,Round 22
+2024,Canterbury-Bankstown Bulldogs,Canberra Raiders,Forwards,24,24,100.00 %,2024-08-04,22,Round 22
+2024,Canberra Raiders,Canterbury-Bankstown Bulldogs,Forwards,49,49,100.00 %,2024-08-04,22,Round 22
+2024,South Sydney Rabbitohs,Melbourne Storm,Forwards,20,20,100.00 %,2024-08-08,23,Round 23
+2024,Melbourne Storm,South Sydney Rabbitohs,Forwards,29,29,100.00 %,2024-08-08,23,Round 23
+2024,Gold Coast Titans,Cronulla-Sutherland Sharks,Forwards,30,30,100.00 %,2024-08-09,23,Round 23
+2024,Cronulla-Sutherland Sharks,Gold Coast Titans,Forwards,49,49,100.00 %,2024-08-09,23,Round 23
+2024,Penrith Panthers,Parramatta Eels,Forwards,26,26,100.00 %,2024-08-09,23,Round 23
+2024,Parramatta Eels,Penrith Panthers,Forwards,38,38,100.00 %,2024-08-09,23,Round 23
+2024,Manly-Warringah Sea Eagles,Canberra Raiders,Forwards,22,22,100.00 %,2024-08-10,23,Round 23
+2024,Canberra Raiders,Manly-Warringah Sea Eagles,Forwards,38,38,100.00 %,2024-08-10,23,Round 23
+2024,Brisbane Broncos,North Queensland Cowboys,Forwards,45,45,100.00 %,2024-08-10,23,Round 23
+2024,North Queensland Cowboys,Brisbane Broncos,Forwards,33,33,100.00 %,2024-08-10,23,Round 23
+2024,Canterbury-Bankstown Bulldogs,St. George Illawarra Dragons,Forwards,37,37,100.00 %,2024-08-10,23,Round 23
+2024,St. George Illawarra Dragons,Canterbury-Bankstown Bulldogs,Forwards,19,19,100.00 %,2024-08-10,23,Round 23
+2024,Warriors,Dolphins,Forwards,37,37,100.00 %,2024-08-11,23,Round 23
+2024,Dolphins,Warriors,Forwards,24,24,100.00 %,2024-08-11,23,Round 23
+2024,Newcastle Knights,Wests Tigers,Forwards,32,32,100.00 %,2024-08-11,23,Round 23
+2024,Wests Tigers,Newcastle Knights,Forwards,33,33,100.00 %,2024-08-11,23,Round 23
+2024,Penrith Panthers,Melbourne Storm,Forwards,33,33,100.00 %,2024-08-15,24,Round 24
+2024,Melbourne Storm,Penrith Panthers,Forwards,33,33,100.00 %,2024-08-15,24,Round 24
+2024,Manly-Warringah Sea Eagles,Warriors,Forwards,26,26,100.00 %,2024-08-16,24,Round 24
+2024,Warriors,Manly-Warringah Sea Eagles,Forwards,32,32,100.00 %,2024-08-16,24,Round 24
+2024,Sydney Roosters,Parramatta Eels,Forwards,22,22,100.00 %,2024-08-16,24,Round 24
+2024,Parramatta Eels,Sydney Roosters,Forwards,38,38,100.00 %,2024-08-16,24,Round 24
+2024,Canterbury-Bankstown Bulldogs,Dolphins,Forwards,31,31,100.00 %,2024-08-17,24,Round 24
+2024,Dolphins,Canterbury-Bankstown Bulldogs,Forwards,27,27,100.00 %,2024-08-17,24,Round 24
+2024,North Queensland Cowboys,Canberra Raiders,Forwards,22,22,100.00 %,2024-08-17,24,Round 24
+2024,Canberra Raiders,North Queensland Cowboys,Forwards,24,24,100.00 %,2024-08-17,24,Round 24
+2024,South Sydney Rabbitohs,Wests Tigers,Forwards,37,37,100.00 %,2024-08-17,24,Round 24
+2024,Wests Tigers,South Sydney Rabbitohs,Forwards,42,42,100.00 %,2024-08-17,24,Round 24
+2024,Gold Coast Titans,St. George Illawarra Dragons,Forwards,23,23,100.00 %,2024-08-18,24,Round 24
+2024,St. George Illawarra Dragons,Gold Coast Titans,Forwards,21,21,100.00 %,2024-08-18,24,Round 24
+2024,Newcastle Knights,Cronulla-Sutherland Sharks,Forwards,34,34,100.00 %,2024-08-18,24,Round 24
+2024,Cronulla-Sutherland Sharks,Newcastle Knights,Forwards,41,41,100.00 %,2024-08-18,24,Round 24
+2024,Manly-Warringah Sea Eagles,Wests Tigers,Forwards,27,27,100.00 %,2024-08-22,25,Round 25
+2024,Wests Tigers,Manly-Warringah Sea Eagles,Forwards,37,37,100.00 %,2024-08-22,25,Round 25
+2024,Canterbury-Bankstown Bulldogs,Warriors,Forwards,32,32,100.00 %,2024-08-23,25,Round 25
+2024,Warriors,Canterbury-Bankstown Bulldogs,Forwards,34,34,100.00 %,2024-08-23,25,Round 25
+2024,Brisbane Broncos,Parramatta Eels,Forwards,37,37,100.00 %,2024-08-23,25,Round 25
+2024,Parramatta Eels,Brisbane Broncos,Forwards,51,51,100.00 %,2024-08-23,25,Round 25
+2024,Canberra Raiders,Penrith Panthers,Forwards,28,28,100.00 %,2024-08-24,25,Round 25
+2024,Penrith Panthers,Canberra Raiders,Forwards,30,30,100.00 %,2024-08-24,25,Round 25
+2024,Melbourne Storm,Dolphins,Forwards,41,41,100.00 %,2024-08-24,25,Round 25
+2024,Dolphins,Melbourne Storm,Forwards,15,15,100.00 %,2024-08-24,25,Round 25
+2024,Newcastle Knights,South Sydney Rabbitohs,Forwards,31,31,100.00 %,2024-08-24,25,Round 25
+2024,South Sydney Rabbitohs,Newcastle Knights,Forwards,37,37,100.00 %,2024-08-24,25,Round 25
+2024,Sydney Roosters,Gold Coast Titans,Forwards,29,29,100.00 %,2024-08-25,25,Round 25
+2024,Gold Coast Titans,Sydney Roosters,Forwards,25,25,100.00 %,2024-08-25,25,Round 25
+2024,St. George Illawarra Dragons,Cronulla-Sutherland Sharks,Forwards,28,28,100.00 %,2024-08-25,25,Round 25
+2024,Cronulla-Sutherland Sharks,St. George Illawarra Dragons,Forwards,33,33,100.00 %,2024-08-25,25,Round 25
+2024,North Queensland Cowboys,Melbourne Storm,Forwards,20,20,100.00 %,2024-08-29,26,Round 26
+2024,Melbourne Storm,North Queensland Cowboys,Forwards,28,28,100.00 %,2024-08-29,26,Round 26
+2024,Manly-Warringah Sea Eagles,Canterbury-Bankstown Bulldogs,Forwards,33,33,100.00 %,2024-08-30,26,Round 26
+2024,Canterbury-Bankstown Bulldogs,Manly-Warringah Sea Eagles,Forwards,28,28,100.00 %,2024-08-30,26,Round 26
+2024,South Sydney Rabbitohs,Penrith Panthers,Forwards,35,35,100.00 %,2024-08-30,26,Round 26
+2024,Penrith Panthers,South Sydney Rabbitohs,Forwards,36,36,100.00 %,2024-08-30,26,Round 26
+2024,St. George Illawarra Dragons,Parramatta Eels,Forwards,23,23,100.00 %,2024-08-31,26,Round 26
+2024,Parramatta Eels,St. George Illawarra Dragons,Forwards,43,43,100.00 %,2024-08-31,26,Round 26
+2024,Brisbane Broncos,Dolphins,Forwards,39,39,100.00 %,2024-08-31,26,Round 26
+2024,Dolphins,Brisbane Broncos,Forwards,50,50,100.00 %,2024-08-31,26,Round 26
+2024,Cronulla-Sutherland Sharks,Warriors,Forwards,30,30,100.00 %,2024-08-31,26,Round 26
+2024,Warriors,Cronulla-Sutherland Sharks,Forwards,43,43,100.00 %,2024-08-31,26,Round 26
+2024,Newcastle Knights,Gold Coast Titans,Forwards,24,24,100.00 %,2024-09-01,26,Round 26
+2024,Gold Coast Titans,Newcastle Knights,Forwards,21,21,100.00 %,2024-09-01,26,Round 26
+2024,Sydney Roosters,Canberra Raiders,Forwards,39,39,100.00 %,2024-09-01,26,Round 26
+2024,Canberra Raiders,Sydney Roosters,Forwards,27,27,100.00 %,2024-09-01,26,Round 26
+2024,Brisbane Broncos,Melbourne Storm,Forwards,23,23,100.00 %,2024-09-05,27,Round 27
+2024,Melbourne Storm,Brisbane Broncos,Forwards,29,29,100.00 %,2024-09-05,27,Round 27
+2024,Wests Tigers,Parramatta Eels,Forwards,21,21,100.00 %,2024-09-06,27,Round 27
+2024,Parramatta Eels,Wests Tigers,Forwards,30,30,100.00 %,2024-09-06,27,Round 27
+2024,Sydney Roosters,South Sydney Rabbitohs,Forwards,33,33,100.00 %,2024-09-06,27,Round 27
+2024,South Sydney Rabbitohs,Sydney Roosters,Forwards,37,37,100.00 %,2024-09-06,27,Round 27
+2024,Canberra Raiders,St. George Illawarra Dragons,Forwards,25,25,100.00 %,2024-09-07,27,Round 27
+2024,St. George Illawarra Dragons,Canberra Raiders,Forwards,38,38,100.00 %,2024-09-07,27,Round 27
+2024,Canterbury-Bankstown Bulldogs,North Queensland Cowboys,Forwards,19,19,100.00 %,2024-09-07,27,Round 27
+2024,North Queensland Cowboys,Canterbury-Bankstown Bulldogs,Forwards,38,38,100.00 %,2024-09-07,27,Round 27
+2024,Gold Coast Titans,Penrith Panthers,Forwards,21,21,100.00 %,2024-09-07,27,Round 27
+2024,Penrith Panthers,Gold Coast Titans,Forwards,29,29,100.00 %,2024-09-07,27,Round 27
+2024,Manly-Warringah Sea Eagles,Cronulla-Sutherland Sharks,Forwards,30,30,100.00 %,2024-09-08,27,Round 27
+2024,Cronulla-Sutherland Sharks,Manly-Warringah Sea Eagles,Forwards,21,21,100.00 %,2024-09-08,27,Round 27
+2024,Newcastle Knights,Dolphins,Forwards,39,39,100.00 %,2024-09-08,27,Round 27
+2024,Dolphins,Newcastle Knights,Forwards,33,33,100.00 %,2024-09-08,27,Round 27
+2024,Sydney Roosters,Penrith Panthers,Forwards,22,22,100.00 %,2024-09-13,28,Finals Week 1
+2024,Penrith Panthers,Sydney Roosters,Forwards,36,36,100.00 %,2024-09-13,28,Finals Week 1
+2024,Melbourne Storm,Cronulla-Sutherland Sharks,Forwards,45,45,100.00 %,2024-09-14,28,Finals Week 1
+2024,Cronulla-Sutherland Sharks,Melbourne Storm,Forwards,20,20,100.00 %,2024-09-14,28,Finals Week 1
+2024,Newcastle Knights,North Queensland Cowboys,Forwards,32,32,100.00 %,2024-09-14,28,Finals Week 1
+2024,North Queensland Cowboys,Newcastle Knights,Forwards,27,27,100.00 %,2024-09-14,28,Finals Week 1
+2024,Manly-Warringah Sea Eagles,Canterbury-Bankstown Bulldogs,Forwards,34,34,100.00 %,2024-09-15,28,Finals Week 1
+2024,Canterbury-Bankstown Bulldogs,Manly-Warringah Sea Eagles,Forwards,24,24,100.00 %,2024-09-15,28,Finals Week 1
+2024,North Queensland Cowboys,Cronulla-Sutherland Sharks,Forwards,27,27,100.00 %,2024-09-20,29,Finals Week 2
+2024,Cronulla-Sutherland Sharks,North Queensland Cowboys,Forwards,34,34,100.00 %,2024-09-20,29,Finals Week 2
+2024,Sydney Roosters,Manly-Warringah Sea Eagles,Forwards,30,30,100.00 %,2024-09-21,29,Finals Week 2
+2024,Manly-Warringah Sea Eagles,Sydney Roosters,Forwards,20,20,100.00 %,2024-09-21,29,Finals Week 2
+2024,Sydney Roosters,Melbourne Storm,Forwards,22,22,100.00 %,2024-09-27,30,Finals Week 3
+2024,Melbourne Storm,Sydney Roosters,Forwards,34,34,100.00 %,2024-09-27,30,Finals Week 3
+2024,Penrith Panthers,Cronulla-Sutherland Sharks,Forwards,38,38,100.00 %,2024-09-28,30,Finals Week 3
+2024,Cronulla-Sutherland Sharks,Penrith Panthers,Forwards,36,36,100.00 %,2024-09-28,30,Finals Week 3
+2024,Penrith Panthers,Melbourne Storm,Forwards,41,41,100.00 %,2024-10-06,31,Grand Final
+2024,Melbourne Storm,Penrith Panthers,Forwards,19,19,100.00 %,2024-10-06,31,Grand Final
+2025,Canberra Raiders,Warriors,Forwards,44,44,100.00 %,2025-03-02,1,Round 1
+2025,Warriors,Canberra Raiders,Forwards,32,32,100.00 %,2025-03-02,1,Round 1
+2025,Penrith Panthers,Cronulla-Sutherland Sharks,Forwards,40,40,100.00 %,2025-03-02,1,Round 1
+2025,Cronulla-Sutherland Sharks,Penrith Panthers,Forwards,34,34,100.00 %,2025-03-02,1,Round 1
+2025,Sydney Roosters,Brisbane Broncos,Forwards,17,17,100.00 %,2025-03-06,1,Round 1
+2025,Brisbane Broncos,Sydney Roosters,Forwards,45,45,100.00 %,2025-03-06,1,Round 1
+2025,Newcastle Knights,Wests Tigers,Forwards,29,29,100.00 %,2025-03-07,1,Round 1
+2025,Wests Tigers,Newcastle Knights,Forwards,42,42,100.00 %,2025-03-07,1,Round 1
+2025,South Sydney Rabbitohs,Dolphins,Forwards,27,27,100.00 %,2025-03-07,1,Round 1
+2025,Dolphins,South Sydney Rabbitohs,Forwards,29,29,100.00 %,2025-03-07,1,Round 1
+2025,Canterbury-Bankstown Bulldogs,St. George Illawarra Dragons,Forwards,26,26,100.00 %,2025-03-08,1,Round 1
+2025,St. George Illawarra Dragons,Canterbury-Bankstown Bulldogs,Forwards,33,33,100.00 %,2025-03-08,1,Round 1
+2025,Manly-Warringah Sea Eagles,North Queensland Cowboys,Forwards,34,34,100.00 %,2025-03-08,1,Round 1
+2025,North Queensland Cowboys,Manly-Warringah Sea Eagles,Forwards,21,21,100.00 %,2025-03-08,1,Round 1
+2025,Melbourne Storm,Parramatta Eels,Forwards,26,26,100.00 %,2025-03-09,1,Round 1
+2025,Parramatta Eels,Melbourne Storm,Forwards,24,24,100.00 %,2025-03-09,1,Round 1
+2025,Newcastle Knights,Dolphins,Forwards,25,25,100.00 %,2025-03-13,2,Round 2
+2025,Dolphins,Newcastle Knights,Forwards,28,28,100.00 %,2025-03-13,2,Round 2
+2025,Manly-Warringah Sea Eagles,Warriors,Forwards,23,23,100.00 %,2025-03-14,2,Round 2
+2025,Warriors,Manly-Warringah Sea Eagles,Forwards,48,48,100.00 %,2025-03-14,2,Round 2
+2025,Sydney Roosters,Penrith Panthers,Forwards,25,25,100.00 %,2025-03-14,2,Round 2
+2025,Penrith Panthers,Sydney Roosters,Forwards,26,26,100.00 %,2025-03-14,2,Round 2
+2025,South Sydney Rabbitohs,St. George Illawarra Dragons,Forwards,32,32,100.00 %,2025-03-15,2,Round 2
+2025,St. George Illawarra Dragons,South Sydney Rabbitohs,Forwards,21,21,100.00 %,2025-03-15,2,Round 2
+2025,North Queensland Cowboys,Cronulla-Sutherland Sharks,Forwards,29,29,100.00 %,2025-03-15,2,Round 2
+2025,Cronulla-Sutherland Sharks,North Queensland Cowboys,Forwards,36,36,100.00 %,2025-03-15,2,Round 2
+2025,Brisbane Broncos,Canberra Raiders,Forwards,40,40,100.00 %,2025-03-15,2,Round 2
+2025,Canberra Raiders,Brisbane Broncos,Forwards,38,38,100.00 %,2025-03-15,2,Round 2
+2025,Wests Tigers,Parramatta Eels,Forwards,42,42,100.00 %,2025-03-16,2,Round 2
+2025,Parramatta Eels,Wests Tigers,Forwards,27,27,100.00 %,2025-03-16,2,Round 2
+2025,Gold Coast Titans,Canterbury-Bankstown Bulldogs,Forwards,30,30,100.00 %,2025-03-16,2,Round 2
+2025,Canterbury-Bankstown Bulldogs,Gold Coast Titans,Forwards,38,38,100.00 %,2025-03-16,2,Round 2
+2025,Penrith Panthers,Melbourne Storm,Forwards,29,29,100.00 %,2025-03-20,3,Round 3
+2025,Melbourne Storm,Penrith Panthers,Forwards,27,27,100.00 %,2025-03-20,3,Round 3
+2025,Sydney Roosters,Warriors,Forwards,32,32,100.00 %,2025-03-21,3,Round 3
+2025,Warriors,Sydney Roosters,Forwards,42,42,100.00 %,2025-03-21,3,Round 3
+2025,Brisbane Broncos,North Queensland Cowboys,Forwards,46,46,100.00 %,2025-03-21,3,Round 3
+2025,North Queensland Cowboys,Brisbane Broncos,Forwards,35,35,100.00 %,2025-03-21,3,Round 3
+2025,South Sydney Rabbitohs,Cronulla-Sutherland Sharks,Forwards,25,25,100.00 %,2025-03-22,3,Round 3
+2025,Cronulla-Sutherland Sharks,South Sydney Rabbitohs,Forwards,43,43,100.00 %,2025-03-22,3,Round 3
+2025,Wests Tigers,Dolphins,Forwards,50,50,100.00 %,2025-03-22,3,Round 3
+2025,Dolphins,Wests Tigers,Forwards,32,32,100.00 %,2025-03-22,3,Round 3
+2025,Newcastle Knights,Gold Coast Titans,Forwards,34,34,100.00 %,2025-03-22,3,Round 3
+2025,Gold Coast Titans,Newcastle Knights,Forwards,31,31,100.00 %,2025-03-22,3,Round 3
+2025,Canterbury-Bankstown Bulldogs,Parramatta Eels,Forwards,29,29,100.00 %,2025-03-23,3,Round 3
+2025,Parramatta Eels,Canterbury-Bankstown Bulldogs,Forwards,38,38,100.00 %,2025-03-23,3,Round 3
+2025,Manly-Warringah Sea Eagles,Canberra Raiders,Forwards,35,35,100.00 %,2025-03-23,3,Round 3
+2025,Canberra Raiders,Manly-Warringah Sea Eagles,Forwards,28,28,100.00 %,2025-03-23,3,Round 3
+2025,South Sydney Rabbitohs,Penrith Panthers,Forwards,33,33,100.00 %,2025-03-27,4,Round 4
+2025,Penrith Panthers,South Sydney Rabbitohs,Forwards,29,29,100.00 %,2025-03-27,4,Round 4
+2025,Sydney Roosters,Gold Coast Titans,Forwards,28,28,100.00 %,2025-03-28,4,Round 4
+2025,Gold Coast Titans,Sydney Roosters,Forwards,36,36,100.00 %,2025-03-28,4,Round 4
+2025,Brisbane Broncos,Dolphins,Forwards,34,34,100.00 %,2025-03-28,4,Round 4
+2025,Dolphins,Brisbane Broncos,Forwards,34,34,100.00 %,2025-03-28,4,Round 4
+2025,Melbourne Storm,St. George Illawarra Dragons,Forwards,31,31,100.00 %,2025-03-29,4,Round 4
+2025,St. George Illawarra Dragons,Melbourne Storm,Forwards,25,25,100.00 %,2025-03-29,4,Round 4
+2025,North Queensland Cowboys,Canberra Raiders,Forwards,24,24,100.00 %,2025-03-29,4,Round 4
+2025,Canberra Raiders,North Queensland Cowboys,Forwards,36,36,100.00 %,2025-03-29,4,Round 4
+2025,Canterbury-Bankstown Bulldogs,Cronulla-Sutherland Sharks,Forwards,31,31,100.00 %,2025-03-29,4,Round 4
+2025,Cronulla-Sutherland Sharks,Canterbury-Bankstown Bulldogs,Forwards,38,38,100.00 %,2025-03-29,4,Round 4
+2025,Manly-Warringah Sea Eagles,Parramatta Eels,Forwards,38,38,100.00 %,2025-03-30,4,Round 4
+2025,Parramatta Eels,Manly-Warringah Sea Eagles,Forwards,28,28,100.00 %,2025-03-30,4,Round 4
+2025,Wests Tigers,Warriors,Forwards,45,45,100.00 %,2025-03-30,4,Round 4
+2025,Warriors,Wests Tigers,Forwards,37,37,100.00 %,2025-03-30,4,Round 4
+2025,Canberra Raiders,Cronulla-Sutherland Sharks,Forwards,41,41,100.00 %,2025-04-03,5,Round 5
+2025,Cronulla-Sutherland Sharks,Canberra Raiders,Forwards,37,37,100.00 %,2025-04-03,5,Round 5
+2025,North Queensland Cowboys,Penrith Panthers,Forwards,33,33,100.00 %,2025-04-04,5,Round 5
+2025,Penrith Panthers,North Queensland Cowboys,Forwards,30,30,100.00 %,2025-04-04,5,Round 5
+2025,Sydney Roosters,South Sydney Rabbitohs,Forwards,28,28,100.00 %,2025-04-04,5,Round 5
+2025,South Sydney Rabbitohs,Sydney Roosters,Forwards,37,37,100.00 %,2025-04-04,5,Round 5
+2025,St. George Illawarra Dragons,Parramatta Eels,Forwards,24,24,100.00 %,2025-04-05,5,Round 5
+2025,Parramatta Eels,St. George Illawarra Dragons,Forwards,36,36,100.00 %,2025-04-05,5,Round 5
+2025,Gold Coast Titans,Dolphins,Forwards,34,34,100.00 %,2025-04-05,5,Round 5
+2025,Dolphins,Gold Coast Titans,Forwards,33,33,100.00 %,2025-04-05,5,Round 5
+2025,Brisbane Broncos,Wests Tigers,Forwards,32,32,100.00 %,2025-04-05,5,Round 5
+2025,Wests Tigers,Brisbane Broncos,Forwards,39,39,100.00 %,2025-04-05,5,Round 5
+2025,Manly-Warringah Sea Eagles,Melbourne Storm,Forwards,19,19,100.00 %,2025-04-06,5,Round 5
+2025,Melbourne Storm,Manly-Warringah Sea Eagles,Forwards,37,37,100.00 %,2025-04-06,5,Round 5
+2025,Newcastle Knights,Canterbury-Bankstown Bulldogs,Forwards,29,29,100.00 %,2025-04-06,5,Round 5
+2025,Canterbury-Bankstown Bulldogs,Newcastle Knights,Forwards,36,36,100.00 %,2025-04-06,5,Round 5
+2025,Penrith Panthers,Dolphins,Forwards,34,34,100.00 %,2025-04-10,6,Round 6
+2025,Dolphins,Penrith Panthers,Forwards,23,23,100.00 %,2025-04-10,6,Round 6
+2025,Gold Coast Titans,St. George Illawarra Dragons,Forwards,31,31,100.00 %,2025-04-11,6,Round 6
+2025,St. George Illawarra Dragons,Gold Coast Titans,Forwards,29,29,100.00 %,2025-04-11,6,Round 6
+2025,Sydney Roosters,Brisbane Broncos,Forwards,40,40,100.00 %,2025-04-11,6,Round 6
+2025,Brisbane Broncos,Sydney Roosters,Forwards,32,32,100.00 %,2025-04-11,6,Round 6
+2025,Manly-Warringah Sea Eagles,Cronulla-Sutherland Sharks,Forwards,30,30,100.00 %,2025-04-12,6,Round 6
+2025,Cronulla-Sutherland Sharks,Manly-Warringah Sea Eagles,Forwards,32,32,100.00 %,2025-04-12,6,Round 6
+2025,South Sydney Rabbitohs,North Queensland Cowboys,Forwards,25,25,100.00 %,2025-04-12,6,Round 6
+2025,North Queensland Cowboys,South Sydney Rabbitohs,Forwards,29,29,100.00 %,2025-04-12,6,Round 6
+2025,Canberra Raiders,Parramatta Eels,Forwards,43,43,100.00 %,2025-04-12,6,Round 6
+2025,Parramatta Eels,Canberra Raiders,Forwards,15,15,100.00 %,2025-04-12,6,Round 6
+2025,Melbourne Storm,Warriors,Forwards,27,27,100.00 %,2025-04-13,6,Round 6
+2025,Warriors,Melbourne Storm,Forwards,28,28,100.00 %,2025-04-13,6,Round 6
+2025,Newcastle Knights,Wests Tigers,Forwards,22,22,100.00 %,2025-04-13,6,Round 6
+2025,Wests Tigers,Newcastle Knights,Forwards,43,43,100.00 %,2025-04-13,6,Round 6
+2025,Manly-Warringah Sea Eagles,St. George Illawarra Dragons,Forwards,37,37,100.00 %,2025-04-17,7,Round 7
+2025,St. George Illawarra Dragons,Manly-Warringah Sea Eagles,Forwards,27,27,100.00 %,2025-04-17,7,Round 7
+2025,South Sydney Rabbitohs,Canterbury-Bankstown Bulldogs,Forwards,19,19,100.00 %,2025-04-18,7,Round 7
+2025,Canterbury-Bankstown Bulldogs,South Sydney Rabbitohs,Forwards,47,47,100.00 %,2025-04-18,7,Round 7
+2025,Melbourne Storm,Dolphins,Forwards,23,23,100.00 %,2025-04-18,7,Round 7
+2025,Dolphins,Melbourne Storm,Forwards,28,28,100.00 %,2025-04-18,7,Round 7
+2025,Brisbane Broncos,Warriors,Forwards,46,46,100.00 %,2025-04-19,7,Round 7
+2025,Warriors,Brisbane Broncos,Forwards,53,53,100.00 %,2025-04-19,7,Round 7
+2025,Sydney Roosters,Penrith Panthers,Forwards,25,25,100.00 %,2025-04-19,7,Round 7
+2025,Penrith Panthers,Sydney Roosters,Forwards,38,38,100.00 %,2025-04-19,7,Round 7
+2025,Gold Coast Titans,Canberra Raiders,Forwards,37,37,100.00 %,2025-04-20,7,Round 7
+2025,Canberra Raiders,Gold Coast Titans,Forwards,31,31,100.00 %,2025-04-20,7,Round 7
+2025,Newcastle Knights,Cronulla-Sutherland Sharks,Forwards,23,23,100.00 %,2025-04-20,7,Round 7
+2025,Cronulla-Sutherland Sharks,Newcastle Knights,Forwards,42,42,100.00 %,2025-04-20,7,Round 7
+2025,Wests Tigers,Parramatta Eels,Forwards,44,44,100.00 %,2025-04-21,7,Round 7
+2025,Parramatta Eels,Wests Tigers,Forwards,28,28,100.00 %,2025-04-21,7,Round 7
+2025,Canterbury-Bankstown Bulldogs,Brisbane Broncos,Forwards,20,20,100.00 %,2025-04-24,8,Round 8
+2025,Brisbane Broncos,Canterbury-Bankstown Bulldogs,Forwards,55,55,100.00 %,2025-04-24,8,Round 8
+2025,Sydney Roosters,St. George Illawarra Dragons,Forwards,32,32,100.00 %,2025-04-25,8,Round 8
+2025,St. George Illawarra Dragons,Sydney Roosters,Forwards,21,21,100.00 %,2025-04-25,8,Round 8
+2025,Newcastle Knights,Warriors,Forwards,31,31,100.00 %,2025-04-25,8,Round 8
+2025,Warriors,Newcastle Knights,Forwards,37,37,100.00 %,2025-04-25,8,Round 8
+2025,South Sydney Rabbitohs,Melbourne Storm,Forwards,34,34,100.00 %,2025-04-25,8,Round 8
+2025,Melbourne Storm,South Sydney Rabbitohs,Forwards,37,37,100.00 %,2025-04-25,8,Round 8
+2025,Gold Coast Titans,North Queensland Cowboys,Forwards,27,27,100.00 %,2025-04-26,8,Round 8
+2025,North Queensland Cowboys,Gold Coast Titans,Forwards,23,23,100.00 %,2025-04-26,8,Round 8
+2025,Manly-Warringah Sea Eagles,Penrith Panthers,Forwards,35,35,100.00 %,2025-04-26,8,Round 8
+2025,Penrith Panthers,Manly-Warringah Sea Eagles,Forwards,26,26,100.00 %,2025-04-26,8,Round 8
+2025,Canberra Raiders,Dolphins,Forwards,36,36,100.00 %,2025-04-27,8,Round 8
+2025,Dolphins,Canberra Raiders,Forwards,31,31,100.00 %,2025-04-27,8,Round 8
+2025,Wests Tigers,Cronulla-Sutherland Sharks,Forwards,60,60,100.00 %,2025-04-27,8,Round 8
+2025,Cronulla-Sutherland Sharks,Wests Tigers,Forwards,45,45,100.00 %,2025-04-27,8,Round 8
+2025,Cronulla-Sutherland Sharks,Parramatta Eels,Forwards,44,44,100.00 %,2025-05-02,9,Round 9
+2025,Parramatta Eels,Cronulla-Sutherland Sharks,Forwards,29,29,100.00 %,2025-05-02,9,Round 9
+2025,Sydney Roosters,Dolphins,Forwards,27,27,100.00 %,2025-05-02,9,Round 9
+2025,Dolphins,Sydney Roosters,Forwards,26,26,100.00 %,2025-05-02,9,Round 9
+2025,Newcastle Knights,South Sydney Rabbitohs,Forwards,37,37,100.00 %,2025-05-03,9,Round 9
+2025,South Sydney Rabbitohs,Newcastle Knights,Forwards,25,25,100.00 %,2025-05-03,9,Round 9
+2025,North Queensland Cowboys,Warriors,Forwards,26,26,100.00 %,2025-05-03,9,Round 9
+2025,Warriors,North Queensland Cowboys,Forwards,35,35,100.00 %,2025-05-03,9,Round 9
+2025,St. George Illawarra Dragons,Wests Tigers,Forwards,24,24,100.00 %,2025-05-03,9,Round 9
+2025,Wests Tigers,St. George Illawarra Dragons,Forwards,42,42,100.00 %,2025-05-03,9,Round 9
+2025,Gold Coast Titans,Canterbury-Bankstown Bulldogs,Forwards,44,44,100.00 %,2025-05-04,9,Round 9
+2025,Canterbury-Bankstown Bulldogs,Gold Coast Titans,Forwards,28,28,100.00 %,2025-05-04,9,Round 9
+2025,Brisbane Broncos,Penrith Panthers,Forwards,39,39,100.00 %,2025-05-04,9,Round 9
+2025,Penrith Panthers,Brisbane Broncos,Forwards,35,35,100.00 %,2025-05-04,9,Round 9
+2025,Canberra Raiders,Melbourne Storm,Forwards,31,31,100.00 %,2025-05-04,9,Round 9
+2025,Melbourne Storm,Canberra Raiders,Forwards,28,28,100.00 %,2025-05-04,9,Round 9
+2025,Parramatta Eels,Dolphins,Forwards,24,24,100.00 %,2025-05-08,10,Round 10
+2025,Dolphins,Parramatta Eels,Forwards,31,31,100.00 %,2025-05-08,10,Round 10
+2025,Newcastle Knights,Gold Coast Titans,Forwards,42,42,100.00 %,2025-05-09,10,Round 10
+2025,Gold Coast Titans,Newcastle Knights,Forwards,42,42,100.00 %,2025-05-09,10,Round 10
+2025,South Sydney Rabbitohs,Brisbane Broncos,Forwards,48,48,100.00 %,2025-05-09,10,Round 10
+2025,Brisbane Broncos,South Sydney Rabbitohs,Forwards,38,38,100.00 %,2025-05-09,10,Round 10
+2025,Canterbury-Bankstown Bulldogs,Canberra Raiders,Forwards,16,16,100.00 %,2025-05-10,10,Round 10
+2025,Canberra Raiders,Canterbury-Bankstown Bulldogs,Forwards,46,46,100.00 %,2025-05-10,10,Round 10
+2025,St. George Illawarra Dragons,Warriors,Forwards,20,20,100.00 %,2025-05-10,10,Round 10
+2025,Warriors,St. George Illawarra Dragons,Forwards,40,40,100.00 %,2025-05-10,10,Round 10
+2025,North Queensland Cowboys,Penrith Panthers,Forwards,25,25,100.00 %,2025-05-10,10,Round 10
+2025,Penrith Panthers,North Queensland Cowboys,Forwards,45,45,100.00 %,2025-05-10,10,Round 10
+2025,Melbourne Storm,Wests Tigers,Forwards,31,31,100.00 %,2025-05-11,10,Round 10
+2025,Wests Tigers,Melbourne Storm,Forwards,25,25,100.00 %,2025-05-11,10,Round 10
+2025,Manly-Warringah Sea Eagles,Cronulla-Sutherland Sharks,Forwards,22,22,100.00 %,2025-05-11,10,Round 10
+2025,Cronulla-Sutherland Sharks,Manly-Warringah Sea Eagles,Forwards,40,40,100.00 %,2025-05-11,10,Round 10
+2025,Newcastle Knights,Parramatta Eels,Forwards,23,23,100.00 %,2025-05-16,11,Round 11
+2025,Parramatta Eels,Newcastle Knights,Forwards,25,25,100.00 %,2025-05-16,11,Round 11
+2025,Sydney Roosters,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2025-05-16,11,Round 11
+2025,Canterbury-Bankstown Bulldogs,Sydney Roosters,Forwards,27,27,100.00 %,2025-05-16,11,Round 11
+2025,Warriors,Dolphins,Forwards,39,39,100.00 %,2025-05-17,11,Round 11
+2025,Dolphins,Warriors,Forwards,34,34,100.00 %,2025-05-17,11,Round 11
+2025,Manly-Warringah Sea Eagles,North Queensland Cowboys,Forwards,37,37,100.00 %,2025-05-17,11,Round 11
+2025,North Queensland Cowboys,Manly-Warringah Sea Eagles,Forwards,25,25,100.00 %,2025-05-17,11,Round 11
+2025,Melbourne Storm,Cronulla-Sutherland Sharks,Forwards,26,26,100.00 %,2025-05-17,11,Round 11
+2025,Cronulla-Sutherland Sharks,Melbourne Storm,Forwards,46,46,100.00 %,2025-05-17,11,Round 11
+2025,Brisbane Broncos,St. George Illawarra Dragons,Forwards,38,38,100.00 %,2025-05-18,11,Round 11
+2025,St. George Illawarra Dragons,Brisbane Broncos,Forwards,35,35,100.00 %,2025-05-18,11,Round 11
+2025,Gold Coast Titans,Canberra Raiders,Forwards,41,41,100.00 %,2025-05-18,11,Round 11
+2025,Canberra Raiders,Gold Coast Titans,Forwards,42,42,100.00 %,2025-05-18,11,Round 11
+2025,South Sydney Rabbitohs,Wests Tigers,Forwards,44,44,100.00 %,2025-05-18,11,Round 11
+2025,Wests Tigers,South Sydney Rabbitohs,Forwards,40,40,100.00 %,2025-05-18,11,Round 11
+2025,Canterbury-Bankstown Bulldogs,Dolphins,Forwards,15,15,100.00 %,2025-05-22,12,Round 12
+2025,Dolphins,Canterbury-Bankstown Bulldogs,Forwards,40,40,100.00 %,2025-05-22,12,Round 12
+2025,Manly-Warringah Sea Eagles,Parramatta Eels,Forwards,30,30,100.00 %,2025-05-23,12,Round 12
+2025,Parramatta Eels,Manly-Warringah Sea Eagles,Forwards,39,39,100.00 %,2025-05-23,12,Round 12
+2025,Newcastle Knights,Penrith Panthers,Forwards,35,35,100.00 %,2025-05-24,12,Round 12
+2025,Penrith Panthers,Newcastle Knights,Forwards,32,32,100.00 %,2025-05-24,12,Round 12
+2025,Sydney Roosters,Cronulla-Sutherland Sharks,Forwards,29,29,100.00 %,2025-05-24,12,Round 12
+2025,Cronulla-Sutherland Sharks,Sydney Roosters,Forwards,25,25,100.00 %,2025-05-24,12,Round 12
+2025,Canberra Raiders,Warriors,Forwards,38,38,100.00 %,2025-05-25,12,Round 12
+2025,Warriors,Canberra Raiders,Forwards,30,30,100.00 %,2025-05-25,12,Round 12
+2025,Newcastle Knights,St. George Illawarra Dragons,Forwards,27,27,100.00 %,2025-05-30,13,Round 13
+2025,St. George Illawarra Dragons,Newcastle Knights,Forwards,40,40,100.00 %,2025-05-30,13,Round 13
+2025,Gold Coast Titans,Melbourne Storm,Forwards,37,37,100.00 %,2025-05-31,13,Round 13
+2025,Melbourne Storm,Gold Coast Titans,Forwards,34,34,100.00 %,2025-05-31,13,Round 13
+2025,North Queensland Cowboys,Wests Tigers,Forwards,21,21,100.00 %,2025-05-31,13,Round 13
+2025,Wests Tigers,North Queensland Cowboys,Forwards,21,21,100.00 %,2025-05-31,13,Round 13
+2025,Manly-Warringah Sea Eagles,Brisbane Broncos,Forwards,34,34,100.00 %,2025-05-31,13,Round 13
+2025,Brisbane Broncos,Manly-Warringah Sea Eagles,Forwards,25,25,100.00 %,2025-05-31,13,Round 13
+2025,South Sydney Rabbitohs,Warriors,Forwards,41,41,100.00 %,2025-06-01,13,Round 13
+2025,Warriors,South Sydney Rabbitohs,Forwards,25,25,100.00 %,2025-06-01,13,Round 13
+2025,Penrith Panthers,Parramatta Eels,Forwards,39,39,100.00 %,2025-06-01,13,Round 13
+2025,Parramatta Eels,Penrith Panthers,Forwards,34,34,100.00 %,2025-06-01,13,Round 13
+2025,Sydney Roosters,Canberra Raiders,Forwards,22,22,100.00 %,2025-06-01,13,Round 13
+2025,Canberra Raiders,Sydney Roosters,Forwards,38,38,100.00 %,2025-06-01,13,Round 13
+2025,Manly-Warringah Sea Eagles,Newcastle Knights,Forwards,25,25,100.00 %,2025-06-05,14,Round 14
+2025,Newcastle Knights,Manly-Warringah Sea Eagles,Forwards,20,20,100.00 %,2025-06-05,14,Round 14
+2025,North Queensland Cowboys,Melbourne Storm,Forwards,25,25,100.00 %,2025-06-06,14,Round 14
+2025,Melbourne Storm,North Queensland Cowboys,Forwards,33,33,100.00 %,2025-06-06,14,Round 14
+2025,St. George Illawarra Dragons,Dolphins,Forwards,21,21,100.00 %,2025-06-06,14,Round 14
+2025,Dolphins,St. George Illawarra Dragons,Forwards,28,28,100.00 %,2025-06-06,14,Round 14
+2025,Cronulla-Sutherland Sharks,Warriors,Forwards,28,28,100.00 %,2025-06-07,14,Round 14
+2025,Warriors,Cronulla-Sutherland Sharks,Forwards,36,36,100.00 %,2025-06-07,14,Round 14
+2025,Gold Coast Titans,Brisbane Broncos,Forwards,28,28,100.00 %,2025-06-07,14,Round 14
+2025,Brisbane Broncos,Gold Coast Titans,Forwards,35,35,100.00 %,2025-06-07,14,Round 14
+2025,South Sydney Rabbitohs,Canberra Raiders,Forwards,36,36,100.00 %,2025-06-08,14,Round 14
+2025,Canberra Raiders,South Sydney Rabbitohs,Forwards,38,38,100.00 %,2025-06-08,14,Round 14
+2025,Penrith Panthers,Wests Tigers,Forwards,28,28,100.00 %,2025-06-08,14,Round 14
+2025,Wests Tigers,Penrith Panthers,Forwards,36,36,100.00 %,2025-06-08,14,Round 14
+2025,Canterbury-Bankstown Bulldogs,Parramatta Eels,Forwards,25,25,100.00 %,2025-06-09,14,Round 14
+2025,Parramatta Eels,Canterbury-Bankstown Bulldogs,Forwards,28,28,100.00 %,2025-06-09,14,Round 14
+2025,St. George Illawarra Dragons,Cronulla-Sutherland Sharks,Forwards,38,38,100.00 %,2025-06-12,15,Round 15
+2025,Cronulla-Sutherland Sharks,St. George Illawarra Dragons,Forwards,32,32,100.00 %,2025-06-12,15,Round 15
+2025,Manly-Warringah Sea Eagles,Gold Coast Titans,Forwards,28,28,100.00 %,2025-06-13,15,Round 15
+2025,Gold Coast Titans,Manly-Warringah Sea Eagles,Forwards,37,37,100.00 %,2025-06-13,15,Round 15
+2025,Sydney Roosters,Newcastle Knights,Forwards,34,34,100.00 %,2025-06-14,15,Round 15
+2025,Newcastle Knights,Sydney Roosters,Forwards,23,23,100.00 %,2025-06-14,15,Round 15
+2025,North Queensland Cowboys,Dolphins,Forwards,28,28,100.00 %,2025-06-14,15,Round 15
+2025,Dolphins,North Queensland Cowboys,Forwards,32,32,100.00 %,2025-06-14,15,Round 15
+2025,South Sydney Rabbitohs,Canterbury-Bankstown Bulldogs,Forwards,35,35,100.00 %,2025-06-15,15,Round 15
+2025,Canterbury-Bankstown Bulldogs,South Sydney Rabbitohs,Forwards,28,28,100.00 %,2025-06-15,15,Round 15
+2025,Canberra Raiders,Wests Tigers,Forwards,34,34,100.00 %,2025-06-20,16,Round 16
+2025,Wests Tigers,Canberra Raiders,Forwards,34,34,100.00 %,2025-06-20,16,Round 16
+2025,Penrith Panthers,Warriors,Forwards,36,36,100.00 %,2025-06-21,16,Round 16
+2025,Warriors,Penrith Panthers,Forwards,24,24,100.00 %,2025-06-21,16,Round 16
+2025,Newcastle Knights,Dolphins,Forwards,19,19,100.00 %,2025-06-21,16,Round 16
+2025,Dolphins,Newcastle Knights,Forwards,28,28,100.00 %,2025-06-21,16,Round 16
+2025,South Sydney Rabbitohs,Melbourne Storm,Forwards,36,36,100.00 %,2025-06-21,16,Round 16
+2025,Melbourne Storm,South Sydney Rabbitohs,Forwards,28,28,100.00 %,2025-06-21,16,Round 16
+2025,Brisbane Broncos,Cronulla-Sutherland Sharks,Forwards,43,43,100.00 %,2025-06-22,16,Round 16
+2025,Cronulla-Sutherland Sharks,Brisbane Broncos,Forwards,28,28,100.00 %,2025-06-22,16,Round 16
+2025,Sydney Roosters,North Queensland Cowboys,Forwards,48,48,100.00 %,2025-06-22,16,Round 16
+2025,North Queensland Cowboys,Sydney Roosters,Forwards,28,28,100.00 %,2025-06-22,16,Round 16
+2025,Gold Coast Titans,Parramatta Eels,Forwards,19,19,100.00 %,2025-06-22,16,Round 16
+2025,Parramatta Eels,Gold Coast Titans,Forwards,32,32,100.00 %,2025-06-22,16,Round 16
+2025,Canterbury-Bankstown Bulldogs,Penrith Panthers,Forwards,23,23,100.00 %,2025-06-26,17,Round 17
+2025,Penrith Panthers,Canterbury-Bankstown Bulldogs,Forwards,28,28,100.00 %,2025-06-26,17,Round 17
+2025,Manly-Warringah Sea Eagles,Wests Tigers,Forwards,32,32,100.00 %,2025-06-27,17,Round 17
+2025,Wests Tigers,Manly-Warringah Sea Eagles,Forwards,46,46,100.00 %,2025-06-27,17,Round 17
+2025,Newcastle Knights,Canberra Raiders,Forwards,22,22,100.00 %,2025-06-27,17,Round 17
+2025,Canberra Raiders,Newcastle Knights,Forwards,47,47,100.00 %,2025-06-27,17,Round 17
+2025,Brisbane Broncos,Warriors,Forwards,36,36,100.00 %,2025-06-28,17,Round 17
+2025,Warriors,Brisbane Broncos,Forwards,30,30,100.00 %,2025-06-28,17,Round 17
+2025,St. George Illawarra Dragons,Parramatta Eels,Forwards,27,27,100.00 %,2025-06-28,17,Round 17
+2025,Parramatta Eels,St. George Illawarra Dragons,Forwards,31,31,100.00 %,2025-06-28,17,Round 17
+2025,South Sydney Rabbitohs,Dolphins,Forwards,21,21,100.00 %,2025-06-28,17,Round 17
+2025,Dolphins,South Sydney Rabbitohs,Forwards,25,25,100.00 %,2025-06-28,17,Round 17
+2025,Melbourne Storm,Cronulla-Sutherland Sharks,Forwards,34,34,100.00 %,2025-06-29,17,Round 17
+2025,Cronulla-Sutherland Sharks,Melbourne Storm,Forwards,27,27,100.00 %,2025-06-29,17,Round 17
+2025,Gold Coast Titans,North Queensland Cowboys,Forwards,34,34,100.00 %,2025-06-29,17,Round 17
+2025,North Queensland Cowboys,Gold Coast Titans,Forwards,26,26,100.00 %,2025-06-29,17,Round 17
+2025,Canterbury-Bankstown Bulldogs,Brisbane Broncos,Forwards,24,24,100.00 %,2025-07-04,18,Round 18
+2025,Brisbane Broncos,Canterbury-Bankstown Bulldogs,Forwards,37,37,100.00 %,2025-07-04,18,Round 18
+2025,Canberra Raiders,St. George Illawarra Dragons,Forwards,36,36,100.00 %,2025-07-05,18,Round 18
+2025,St. George Illawarra Dragons,Canberra Raiders,Forwards,21,21,100.00 %,2025-07-05,18,Round 18
+2025,North Queensland Cowboys,Melbourne Storm,Forwards,21,21,100.00 %,2025-07-05,18,Round 18
+2025,Melbourne Storm,North Queensland Cowboys,Forwards,38,38,100.00 %,2025-07-05,18,Round 18
+2025,Sydney Roosters,Wests Tigers,Forwards,29,29,100.00 %,2025-07-06,18,Round 18
+2025,Wests Tigers,Sydney Roosters,Forwards,46,46,100.00 %,2025-07-06,18,Round 18
+2025,Manly-Warringah Sea Eagles,South Sydney Rabbitohs,Forwards,29,29,100.00 %,2025-07-06,18,Round 18
+2025,South Sydney Rabbitohs,Manly-Warringah Sea Eagles,Forwards,40,40,100.00 %,2025-07-06,18,Round 18
+2025,Cronulla-Sutherland Sharks,Dolphins,Forwards,27,27,100.00 %,2025-07-11,19,Round 19
+2025,Dolphins,Cronulla-Sutherland Sharks,Forwards,19,19,100.00 %,2025-07-11,19,Round 19
+2025,Newcastle Knights,Melbourne Storm,Forwards,33,33,100.00 %,2025-07-12,19,Round 19
+2025,Melbourne Storm,Newcastle Knights,Forwards,23,23,100.00 %,2025-07-12,19,Round 19
+2025,Sydney Roosters,St. George Illawarra Dragons,Forwards,33,33,100.00 %,2025-07-12,19,Round 19
+2025,St. George Illawarra Dragons,Sydney Roosters,Forwards,31,31,100.00 %,2025-07-12,19,Round 19
+2025,Canterbury-Bankstown Bulldogs,North Queensland Cowboys,Forwards,22,22,100.00 %,2025-07-12,19,Round 19
+2025,North Queensland Cowboys,Canterbury-Bankstown Bulldogs,Forwards,26,26,100.00 %,2025-07-12,19,Round 19
+2025,Wests Tigers,Warriors,Forwards,37,37,100.00 %,2025-07-13,19,Round 19
+2025,Warriors,Wests Tigers,Forwards,40,40,100.00 %,2025-07-13,19,Round 19
+2025,Penrith Panthers,Parramatta Eels,Forwards,38,38,100.00 %,2025-07-13,19,Round 19
+2025,Parramatta Eels,Penrith Panthers,Forwards,26,26,100.00 %,2025-07-13,19,Round 19
+2025,Gold Coast Titans,Brisbane Broncos,Forwards,31,31,100.00 %,2025-07-13,19,Round 19
+2025,Brisbane Broncos,Gold Coast Titans,Forwards,40,40,100.00 %,2025-07-13,19,Round 19
+2025,North Queensland Cowboys,Dolphins,Forwards,26,26,100.00 %,2025-07-17,20,Round 20
+2025,Dolphins,North Queensland Cowboys,Forwards,24,24,100.00 %,2025-07-17,20,Round 20
+2025,Sydney Roosters,Cronulla-Sutherland Sharks,Forwards,35,35,100.00 %,2025-07-18,20,Round 20
+2025,Cronulla-Sutherland Sharks,Sydney Roosters,Forwards,39,39,100.00 %,2025-07-18,20,Round 20
+2025,South Sydney Rabbitohs,Penrith Panthers,Forwards,33,33,100.00 %,2025-07-18,20,Round 20
+2025,Penrith Panthers,South Sydney Rabbitohs,Forwards,31,31,100.00 %,2025-07-18,20,Round 20
+2025,Canberra Raiders,Parramatta Eels,Forwards,47,47,100.00 %,2025-07-19,20,Round 20
+2025,Parramatta Eels,Canberra Raiders,Forwards,24,24,100.00 %,2025-07-19,20,Round 20
+2025,Canterbury-Bankstown Bulldogs,St. George Illawarra Dragons,Forwards,25,25,100.00 %,2025-07-19,20,Round 20
+2025,St. George Illawarra Dragons,Canterbury-Bankstown Bulldogs,Forwards,28,28,100.00 %,2025-07-19,20,Round 20
+2025,Manly-Warringah Sea Eagles,Melbourne Storm,Forwards,38,38,100.00 %,2025-07-19,20,Round 20
+2025,Melbourne Storm,Manly-Warringah Sea Eagles,Forwards,25,25,100.00 %,2025-07-19,20,Round 20
+2025,Gold Coast Titans,Wests Tigers,Forwards,22,22,100.00 %,2025-07-20,20,Round 20
+2025,Wests Tigers,Gold Coast Titans,Forwards,40,40,100.00 %,2025-07-20,20,Round 20
+2025,Newcastle Knights,Warriors,Forwards,22,22,100.00 %,2025-07-20,20,Round 20
+2025,Warriors,Newcastle Knights,Forwards,37,37,100.00 %,2025-07-20,20,Round 20
+2025,Sydney Roosters,Melbourne Storm,Forwards,29,29,100.00 %,2025-07-24,21,Round 21
+2025,Melbourne Storm,Sydney Roosters,Forwards,25,25,100.00 %,2025-07-24,21,Round 21
+2025,North Queensland Cowboys,St. George Illawarra Dragons,Forwards,27,27,100.00 %,2025-07-25,21,Round 21
+2025,St. George Illawarra Dragons,North Queensland Cowboys,Forwards,26,26,100.00 %,2025-07-25,21,Round 21
+2025,Brisbane Broncos,Parramatta Eels,Forwards,33,33,100.00 %,2025-07-25,21,Round 21
+2025,Parramatta Eels,Brisbane Broncos,Forwards,34,34,100.00 %,2025-07-25,21,Round 21
+2025,Gold Coast Titans,Warriors,Forwards,32,32,100.00 %,2025-07-26,21,Round 21
+2025,Warriors,Gold Coast Titans,Forwards,38,38,100.00 %,2025-07-26,21,Round 21
+2025,Penrith Panthers,Wests Tigers,Forwards,38,38,100.00 %,2025-07-26,21,Round 21
+2025,Wests Tigers,Penrith Panthers,Forwards,30,30,100.00 %,2025-07-26,21,Round 21
+2025,South Sydney Rabbitohs,Cronulla-Sutherland Sharks,Forwards,26,26,100.00 %,2025-07-26,21,Round 21
+2025,Cronulla-Sutherland Sharks,South Sydney Rabbitohs,Forwards,38,38,100.00 %,2025-07-26,21,Round 21
+2025,Newcastle Knights,Canberra Raiders,Forwards,22,22,100.00 %,2025-07-27,21,Round 21
+2025,Canberra Raiders,Newcastle Knights,Forwards,40,40,100.00 %,2025-07-27,21,Round 21
+2025,Manly-Warringah Sea Eagles,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2025-07-27,21,Round 21
+2025,Canterbury-Bankstown Bulldogs,Manly-Warringah Sea Eagles,Forwards,32,32,100.00 %,2025-07-27,21,Round 21
+2025,Melbourne Storm,Parramatta Eels,Forwards,37,37,100.00 %,2025-07-31,22,Round 22
+2025,Parramatta Eels,Melbourne Storm,Forwards,31,31,100.00 %,2025-07-31,22,Round 22
+2025,Warriors,Dolphins,Forwards,47,47,100.00 %,2025-08-01,22,Round 22
+2025,Dolphins,Warriors,Forwards,27,27,100.00 %,2025-08-01,22,Round 22
+2025,South Sydney Rabbitohs,Brisbane Broncos,Forwards,36,36,100.00 %,2025-08-01,22,Round 22
+2025,Brisbane Broncos,South Sydney Rabbitohs,Forwards,29,29,100.00 %,2025-08-01,22,Round 22
+2025,Gold Coast Titans,Penrith Panthers,Forwards,38,38,100.00 %,2025-08-02,22,Round 22
+2025,Penrith Panthers,Gold Coast Titans,Forwards,34,34,100.00 %,2025-08-02,22,Round 22
+2025,Canberra Raiders,St. George Illawarra Dragons,Forwards,26,26,100.00 %,2025-08-02,22,Round 22
+2025,St. George Illawarra Dragons,Canberra Raiders,Forwards,38,38,100.00 %,2025-08-02,22,Round 22
+2025,Sydney Roosters,Manly-Warringah Sea Eagles,Forwards,28,28,100.00 %,2025-08-02,22,Round 22
+2025,Manly-Warringah Sea Eagles,Sydney Roosters,Forwards,45,45,100.00 %,2025-08-02,22,Round 22
+2025,Canterbury-Bankstown Bulldogs,Wests Tigers,Forwards,19,19,100.00 %,2025-08-03,22,Round 22
+2025,Wests Tigers,Canterbury-Bankstown Bulldogs,Forwards,44,44,100.00 %,2025-08-03,22,Round 22
+2025,North Queensland Cowboys,Cronulla-Sutherland Sharks,Forwards,34,34,100.00 %,2025-08-03,22,Round 22
+2025,Cronulla-Sutherland Sharks,North Queensland Cowboys,Forwards,42,42,100.00 %,2025-08-03,22,Round 22
+2025,Brisbane Broncos,Melbourne Storm,Forwards,36,36,100.00 %,2025-08-07,23,Round 23
+2025,Melbourne Storm,Brisbane Broncos,Forwards,30,30,100.00 %,2025-08-07,23,Round 23
+2025,Newcastle Knights,Penrith Panthers,Forwards,17,17,100.00 %,2025-08-08,23,Round 23
+2025,Penrith Panthers,Newcastle Knights,Forwards,42,42,100.00 %,2025-08-08,23,Round 23
+2025,Manly-Warringah Sea Eagles,Canberra Raiders,Forwards,17,17,100.00 %,2025-08-08,23,Round 23
+2025,Canberra Raiders,Manly-Warringah Sea Eagles,Forwards,31,31,100.00 %,2025-08-08,23,Round 23
+2025,St. George Illawarra Dragons,Cronulla-Sutherland Sharks,Forwards,43,43,100.00 %,2025-08-09,23,Round 23
+2025,Cronulla-Sutherland Sharks,St. George Illawarra Dragons,Forwards,27,27,100.00 %,2025-08-09,23,Round 23
+2025,Sydney Roosters,Dolphins,Forwards,30,30,100.00 %,2025-08-09,23,Round 23
+2025,Dolphins,Sydney Roosters,Forwards,26,26,100.00 %,2025-08-09,23,Round 23
+2025,Canterbury-Bankstown Bulldogs,Warriors,Forwards,33,33,100.00 %,2025-08-09,23,Round 23
+2025,Warriors,Canterbury-Bankstown Bulldogs,Forwards,28,28,100.00 %,2025-08-09,23,Round 23
+2025,Gold Coast Titans,South Sydney Rabbitohs,Forwards,36,36,100.00 %,2025-08-10,23,Round 23
+2025,South Sydney Rabbitohs,Gold Coast Titans,Forwards,26,26,100.00 %,2025-08-10,23,Round 23
+2025,North Queensland Cowboys,Parramatta Eels,Forwards,38,38,100.00 %,2025-08-10,23,Round 23
+2025,Parramatta Eels,North Queensland Cowboys,Forwards,37,37,100.00 %,2025-08-10,23,Round 23
+2025,Penrith Panthers,Melbourne Storm,Forwards,30,30,100.00 %,2025-08-14,24,Round 24
+2025,Melbourne Storm,Penrith Panthers,Forwards,38,38,100.00 %,2025-08-14,24,Round 24
+2025,St. George Illawarra Dragons,Warriors,Forwards,39,39,100.00 %,2025-08-15,24,Round 24
+2025,Warriors,St. George Illawarra Dragons,Forwards,38,38,100.00 %,2025-08-15,24,Round 24
+2025,Sydney Roosters,Canterbury-Bankstown Bulldogs,Forwards,33,33,100.00 %,2025-08-15,24,Round 24
+2025,Canterbury-Bankstown Bulldogs,Sydney Roosters,Forwards,21,21,100.00 %,2025-08-15,24,Round 24
+2025,Gold Coast Titans,Cronulla-Sutherland Sharks,Forwards,27,27,100.00 %,2025-08-16,24,Round 24
+2025,Cronulla-Sutherland Sharks,Gold Coast Titans,Forwards,23,23,100.00 %,2025-08-16,24,Round 24
+2025,Brisbane Broncos,Dolphins,Forwards,39,39,100.00 %,2025-08-16,24,Round 24
+2025,Dolphins,Brisbane Broncos,Forwards,18,18,100.00 %,2025-08-16,24,Round 24
+2025,South Sydney Rabbitohs,Parramatta Eels,Forwards,34,34,100.00 %,2025-08-16,24,Round 24
+2025,Parramatta Eels,South Sydney Rabbitohs,Forwards,24,24,100.00 %,2025-08-16,24,Round 24
+2025,Manly-Warringah Sea Eagles,Wests Tigers,Forwards,24,24,100.00 %,2025-08-17,24,Round 24
+2025,Wests Tigers,Manly-Warringah Sea Eagles,Forwards,46,46,100.00 %,2025-08-17,24,Round 24
+2025,Newcastle Knights,North Queensland Cowboys,Forwards,31,31,100.00 %,2025-08-17,24,Round 24
+2025,North Queensland Cowboys,Newcastle Knights,Forwards,30,30,100.00 %,2025-08-17,24,Round 24
+2025,South Sydney Rabbitohs,St. George Illawarra Dragons,Forwards,37,37,100.00 %,2025-08-21,25,Round 25
+2025,St. George Illawarra Dragons,South Sydney Rabbitohs,Forwards,18,18,100.00 %,2025-08-21,25,Round 25
+2025,Canberra Raiders,Penrith Panthers,Forwards,36,36,100.00 %,2025-08-22,25,Round 25
+2025,Penrith Panthers,Canberra Raiders,Forwards,33,33,100.00 %,2025-08-22,25,Round 25
+2025,Canterbury-Bankstown Bulldogs,Melbourne Storm,Forwards,18,18,100.00 %,2025-08-22,25,Round 25
+2025,Melbourne Storm,Canterbury-Bankstown Bulldogs,Forwards,30,30,100.00 %,2025-08-22,25,Round 25
+2025,Manly-Warringah Sea Eagles,Dolphins,Forwards,29,29,100.00 %,2025-08-23,25,Round 25
+2025,Dolphins,Manly-Warringah Sea Eagles,Forwards,24,24,100.00 %,2025-08-23,25,Round 25
+2025,Gold Coast Titans,Warriors,Forwards,30,30,100.00 %,2025-08-23,25,Round 25
+2025,Warriors,Gold Coast Titans,Forwards,30,30,100.00 %,2025-08-23,25,Round 25
+2025,Sydney Roosters,Parramatta Eels,Forwards,24,24,100.00 %,2025-08-23,25,Round 25
+2025,Parramatta Eels,Sydney Roosters,Forwards,30,30,100.00 %,2025-08-23,25,Round 25
+2025,Newcastle Knights,Brisbane Broncos,Forwards,24,24,100.00 %,2025-08-24,25,Round 25
+2025,Brisbane Broncos,Newcastle Knights,Forwards,35,35,100.00 %,2025-08-24,25,Round 25
+2025,North Queensland Cowboys,Wests Tigers,Forwards,34,34,100.00 %,2025-08-24,25,Round 25
+2025,Wests Tigers,North Queensland Cowboys,Forwards,41,41,100.00 %,2025-08-24,25,Round 25
+2025,Canterbury-Bankstown Bulldogs,Penrith Panthers,Forwards,38,38,100.00 %,2025-08-28,26,Round 26
+2025,Penrith Panthers,Canterbury-Bankstown Bulldogs,Forwards,22,22,100.00 %,2025-08-28,26,Round 26
+2025,Parramatta Eels,Warriors,Forwards,24,24,100.00 %,2025-08-29,26,Round 26
+2025,Warriors,Parramatta Eels,Forwards,39,39,100.00 %,2025-08-29,26,Round 26
+2025,Sydney Roosters,Melbourne Storm,Forwards,27,27,100.00 %,2025-08-29,26,Round 26
+2025,Melbourne Storm,Sydney Roosters,Forwards,26,26,100.00 %,2025-08-29,26,Round 26
+2025,Canberra Raiders,Wests Tigers,Forwards,49,49,100.00 %,2025-08-30,26,Round 26
+2025,Wests Tigers,Canberra Raiders,Forwards,35,35,100.00 %,2025-08-30,26,Round 26
+2025,Manly-Warringah Sea Eagles,St. George Illawarra Dragons,Forwards,29,29,100.00 %,2025-08-30,26,Round 26
+2025,St. George Illawarra Dragons,Manly-Warringah Sea Eagles,Forwards,18,18,100.00 %,2025-08-30,26,Round 26
+2025,Brisbane Broncos,North Queensland Cowboys,Forwards,23,23,100.00 %,2025-08-30,26,Round 26
+2025,North Queensland Cowboys,Brisbane Broncos,Forwards,44,44,100.00 %,2025-08-30,26,Round 26
+2025,Newcastle Knights,Cronulla-Sutherland Sharks,Forwards,38,38,100.00 %,2025-08-31,26,Round 26
+2025,Cronulla-Sutherland Sharks,Newcastle Knights,Forwards,31,31,100.00 %,2025-08-31,26,Round 26
+2025,Gold Coast Titans,Dolphins,Forwards,34,34,100.00 %,2025-08-31,26,Round 26
+2025,Dolphins,Gold Coast Titans,Forwards,25,25,100.00 %,2025-08-31,26,Round 26
+2025,Brisbane Broncos,Melbourne Storm,Forwards,33,33,100.00 %,2025-09-04,27,Round 27
+2025,Melbourne Storm,Brisbane Broncos,Forwards,17,17,100.00 %,2025-09-04,27,Round 27
+2025,Manly-Warringah Sea Eagles,Warriors,Forwards,35,35,100.00 %,2025-09-05,27,Round 27
+2025,Warriors,Manly-Warringah Sea Eagles,Forwards,44,44,100.00 %,2025-09-05,27,Round 27
+2025,Sydney Roosters,South Sydney Rabbitohs,Forwards,23,23,100.00 %,2025-09-05,27,Round 27
+2025,South Sydney Rabbitohs,Sydney Roosters,Forwards,34,34,100.00 %,2025-09-05,27,Round 27
+2025,Penrith Panthers,St. George Illawarra Dragons,Forwards,41,41,100.00 %,2025-09-06,27,Round 27
+2025,St. George Illawarra Dragons,Penrith Panthers,Forwards,19,19,100.00 %,2025-09-06,27,Round 27
+2025,Gold Coast Titans,Wests Tigers,Forwards,32,32,100.00 %,2025-09-06,27,Round 27
+2025,Wests Tigers,Gold Coast Titans,Forwards,36,36,100.00 %,2025-09-06,27,Round 27
+2025,Canterbury-Bankstown Bulldogs,Cronulla-Sutherland Sharks,Forwards,31,31,100.00 %,2025-09-06,27,Round 27
+2025,Cronulla-Sutherland Sharks,Canterbury-Bankstown Bulldogs,Forwards,46,46,100.00 %,2025-09-06,27,Round 27
+2025,Canberra Raiders,Dolphins,Forwards,22,22,100.00 %,2025-09-07,27,Round 27
+2025,Dolphins,Canberra Raiders,Forwards,20,20,100.00 %,2025-09-07,27,Round 27
+2025,Newcastle Knights,Parramatta Eels,Forwards,29,29,100.00 %,2025-09-07,27,Round 27
+2025,Parramatta Eels,Newcastle Knights,Forwards,35,35,100.00 %,2025-09-07,27,Round 27
+2025,Canterbury-Bankstown Bulldogs,Melbourne Storm,Forwards,17,17,100.00 %,2025-09-12,28,Finals Week 1
+2025,Melbourne Storm,Canterbury-Bankstown Bulldogs,Forwards,37,37,100.00 %,2025-09-12,28,Finals Week 1
+2025,Penrith Panthers,Warriors,Forwards,36,36,100.00 %,2025-09-13,28,Finals Week 1
+2025,Warriors,Penrith Panthers,Forwards,32,32,100.00 %,2025-09-13,28,Finals Week 1
+2025,Sydney Roosters,Cronulla-Sutherland Sharks,Forwards,30,30,100.00 %,2025-09-13,28,Finals Week 1
+2025,Cronulla-Sutherland Sharks,Sydney Roosters,Forwards,28,28,100.00 %,2025-09-13,28,Finals Week 1
+2025,Brisbane Broncos,Canberra Raiders,Forwards,46,46,100.00 %,2025-09-14,28,Finals Week 1
+2025,Canberra Raiders,Brisbane Broncos,Forwards,38,38,100.00 %,2025-09-14,28,Finals Week 1
+2025,Canberra Raiders,Cronulla-Sutherland Sharks,Forwards,41,41,100.00 %,2025-09-20,29,Finals Week 2
+2025,Cronulla-Sutherland Sharks,Canberra Raiders,Forwards,28,28,100.00 %,2025-09-20,29,Finals Week 2
+2025,Canterbury-Bankstown Bulldogs,Penrith Panthers,Forwards,26,26,100.00 %,2025-09-21,29,Finals Week 2
+2025,Penrith Panthers,Canterbury-Bankstown Bulldogs,Forwards,32,32,100.00 %,2025-09-21,29,Finals Week 2
+2025,Melbourne Storm,Cronulla-Sutherland Sharks,Forwards,26,26,100.00 %,2025-09-26,30,Finals Week 3
+2025,Cronulla-Sutherland Sharks,Melbourne Storm,Forwards,31,31,100.00 %,2025-09-26,30,Finals Week 3
+2025,Brisbane Broncos,Penrith Panthers,Forwards,31,31,100.00 %,2025-09-28,30,Finals Week 3
+2025,Penrith Panthers,Brisbane Broncos,Forwards,35,35,100.00 %,2025-09-28,30,Finals Week 3
+2025,Brisbane Broncos,Melbourne Storm,Forwards,33,33,100.00 %,2025-10-05,31,Grand Final
+2025,Melbourne Storm,Brisbane Broncos,Forwards,25,25,100.00 %,2025-10-05,31,Grand Final
