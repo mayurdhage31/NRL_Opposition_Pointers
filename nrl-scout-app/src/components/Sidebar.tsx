@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useMemo } from 'react';
 import type { PlayerRow } from '../data/types';
 
 interface SidebarProps {
