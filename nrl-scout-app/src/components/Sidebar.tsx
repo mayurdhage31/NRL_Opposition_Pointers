@@ -6,6 +6,8 @@ interface SidebarProps {
   playerList: PlayerRow[];
   selectedTeam: string | null;
   onTeamSelect: (team: string) => void;
+  selectedPlayers: string[];
+  onPlayerToggle: (playerName: string) => void;
   isOpen: boolean;
   onToggle: () => void;
 }
@@ -15,19 +17,13 @@ export function Sidebar({
   playerList,
   selectedTeam,
   onTeamSelect,
+  selectedPlayers,
+  onPlayerToggle,
   isOpen,
   onToggle,
 }: SidebarProps) {
-  const [search, setSearch] = useState('');
 
-  const filteredTeams = useMemo(() => {
-    if (!search) return teams;
-    return teams.filter((team) =>
-      team.toLowerCase().includes(search.toLowerCase())
-    );
-  }, [teams, search]);
-
-  const selectedPlayers = useMemo(() => {
+  const teamPlayers = useMemo(() => {
     if (!selectedTeam) return [];
     return playerList.filter((p) => p.team_name === selectedTeam);
   }, [playerList, selectedTeam]);
@@ -75,66 +71,95 @@ export function Sidebar({
         style={{ backgroundColor: 'var(--color-panel-darker)' }}
       >
         <div className="p-4 border-b border-white/10">
-          <input
-            type="text"
-            placeholder="Search teams..."
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            className="w-full px-4 py-2 rounded-md border border-white/10 text-white placeholder-slate-400 focus:outline-none"
+          <label className="block text-sm font-semibold text-slate-400 mb-2">
+            Opposition
+          </label>
+          <select
+            value={selectedTeam || ''}
+            onChange={(e) => onTeamSelect(e.target.value)}
+            className="w-full px-4 py-2 rounded-md border border-white/10 text-white focus:outline-none"
             style={{ backgroundColor: 'var(--color-background)' }}
             onFocus={(e) => e.currentTarget.style.borderColor = 'var(--color-accent-teal)'}
             onBlur={(e) => e.currentTarget.style.borderColor = 'rgba(255, 255, 255, 0.1)'}
-          />
+          >
+            <option value="" disabled>Select a team...</option>
+            {teams.map((team) => (
+              <option key={team} value={team}>
+                {team}
+              </option>
+            ))}
+          </select>
         </div>
 
         <div className="flex-1 overflow-y-auto">
-          {/* Team list */}
-          <div className="p-2">
-            <h3 className="px-3 py-2 text-sm font-semibold text-slate-400">
-              Teams
-            </h3>
-            <div className="space-y-1">
-              {filteredTeams.map((team) => (
-                <button
-                  key={team}
-                  onClick={() => onTeamSelect(team)}
-                  className={`
-                    w-full text-left px-3 py-2 rounded-md transition-colors
-                    ${selectedTeam === team ? '' : 'hover:bg-white/5 text-slate-300'}
-                  `}
-                  style={
-                    selectedTeam === team
-                      ? {
-                          backgroundColor: 'rgba(20, 184, 166, 0.2)',
-                          color: 'var(--color-accent-teal)',
+          {/* Player list with checkboxes */}
+          {selectedTeam && teamPlayers.length > 0 && (
+            <div className="p-4">
+              <div className="flex items-center justify-between mb-3">
+                <h3 className="text-sm font-semibold text-slate-400">
+                  Team Selection
+                </h3>
+                <div className="flex gap-2">
+                  <button
+                    onClick={() => {
+                      teamPlayers.forEach((p) => {
+                        if (!selectedPlayers.includes(p.player_name)) {
+                          onPlayerToggle(p.player_name);
                         }
-                      : undefined
-                  }
-                >
-                  {team}
-                </button>
-              ))}
-            </div>
-          </div>
-
-          {/* Player list */}
-          {selectedTeam && selectedPlayers.length > 0 && (
-            <div className="p-2 border-t border-white/10 mt-2">
-              <h3 className="px-3 py-2 text-sm font-semibold text-slate-400">
-                {selectedTeam} Squad
-              </h3>
-              <div className="space-y-1">
-                {selectedPlayers.map((player, idx) => (
-                  <div
-                    key={`${player.player_name}-${idx}`}
-                    className="px-3 py-2 text-sm text-slate-300"
+                      });
+                    }}
+                    className="text-xs px-2 py-1 rounded transition-colors"
+                    style={{ 
+                      color: 'var(--color-accent-teal)',
+                      backgroundColor: 'rgba(20, 184, 166, 0.1)'
+                    }}
+                    onMouseEnter={(e) => e.currentTarget.style.backgroundColor = 'rgba(20, 184, 166, 0.2)'}
+                    onMouseLeave={(e) => e.currentTarget.style.backgroundColor = 'rgba(20, 184, 166, 0.1)'}
                   >
-                    <div>{player.player_name}</div>
-                    <div className="text-xs text-slate-500">
-                      {player.position}
-                    </div>
-                  </div>
-                ))}
+                    Select All
+                  </button>
+                  <button
+                    onClick={() => {
+                      teamPlayers.forEach((p) => {
+                        if (selectedPlayers.includes(p.player_name)) {
+                          onPlayerToggle(p.player_name);
+                        }
+                      });
+                    }}
+                    className="text-xs px-2 py-1 rounded transition-colors text-slate-400 hover:text-slate-300"
+                    style={{ backgroundColor: 'rgba(255, 255, 255, 0.05)' }}
+                    onMouseEnter={(e) => e.currentTarget.style.backgroundColor = 'rgba(255, 255, 255, 0.1)'}
+                    onMouseLeave={(e) => e.currentTarget.style.backgroundColor = 'rgba(255, 255, 255, 0.05)'}
+                  >
+                    Clear All
+                  </button>
+                </div>
+              </div>
+              <div className="space-y-1">
+                {teamPlayers.map((player, idx) => {
+                  const isChecked = selectedPlayers.includes(player.player_name);
+                  return (
+                    <label
+                      key={`${player.player_name}-${idx}`}
+                      className="flex items-start gap-3 px-2 py-2 rounded-md cursor-pointer transition-colors hover:bg-white/5"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={isChecked}
+                        onChange={() => onPlayerToggle(player.player_name)}
+                        className="mt-1 w-4 h-4 rounded border-white/20 focus:ring-2 focus:ring-offset-0"
+                        style={{
+                          accentColor: 'var(--color-accent-teal)',
+                          backgroundColor: isChecked ? 'var(--color-accent-teal)' : 'transparent',
+                        }}
+                      />
+                      <div className="flex-1 min-w-0">
+                        <div className="text-sm text-slate-300">{player.player_name}</div>
+                        <div className="text-xs text-slate-500">{player.position}</div>
+                      </div>
+                    </label>
+                  );
+                })}
               </div>
             </div>
           )}

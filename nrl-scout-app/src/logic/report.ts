@@ -4,6 +4,8 @@ import { parsePct, fmtPct, parseNumber, clampPct } from '../data/utils';
 export interface ReportOutput {
   defence: string[];
   attack: string[];
+  defenceGlossary?: Array<{ term: string; definition: string }>;
+  attackGlossary?: Array<{ term: string; definition: string }>;
 }
 
 interface PlayerStat {
@@ -42,9 +44,16 @@ function getPlayerPosition(
 export function generateDefenceReport(
   data: NRLData,
   teamName: string,
-  season: string
+  season: string,
+  selectedPlayers: string[] = []
 ): string[] {
   const lines: string[] = [];
+  
+  // Helper function to filter players based on selection
+  const filterSelectedPlayers = (players: PlayerStat[]): PlayerStat[] => {
+    if (selectedPlayers.length === 0) return players;
+    return players.filter((p) => selectedPlayers.includes(p.player_name));
+  };
 
   // 1. Strike dependency
   const strikeData = filterBySeason(data.strikeDependency, season).filter(
@@ -78,13 +87,17 @@ export function generateDefenceReport(
     );
 
     strikeInvolvement.sort((a, b) => b.value - a.value);
-    const topStrike = strikeInvolvement.slice(0, 5);
+    const filtered = filterSelectedPlayers(strikeInvolvement);
+    const topStrike = filtered.slice(0, 5);
 
     if (topStrike.length > 0) {
-      const names = topStrike.map((p) => `${p.player_name} (${p.formatted})`).join(', ');
-      lines.push(
-        `Strike dependency: ${names} — win ruck speed early and deny first-receiver time.`
-      );
+      const names = topStrike.map((p, idx) => {
+        if (idx === 0) {
+          return `${p.player_name} (${p.formatted} strike involvement)`;
+        }
+        return `${p.player_name} (${p.formatted})`;
+      }).join(', ');
+      lines.push(`Strike dependency: ${names}`);
     }
   }
 
@@ -120,22 +133,18 @@ export function generateDefenceReport(
     );
 
     linebreakInvolvement.sort((a, b) => b.value - a.value);
-    const topLinebreak = linebreakInvolvement.slice(0, 5);
+    const filtered = filterSelectedPlayers(linebreakInvolvement);
+    const topLinebreak = filtered.slice(0, 5);
 
     if (topLinebreak.length > 0) {
-      const names = topLinebreak.map((p) => `${p.player_name} (${p.formatted})`).join(', ');
+      const names = topLinebreak.map((p, idx) => {
+        if (idx === 0) {
+          return `${p.player_name} (${p.formatted} linebreak involvement)`;
+        }
+        return `${p.player_name} (${p.formatted})`;
+      }).join(', ');
       
-      // Determine strategy based on positions
-      const positions = topLinebreak.map((p) => p.position?.toLowerCase() || '');
-      const hasBackfield = positions.some((p) =>
-        p.includes('fullback') || p.includes('winger') || p.includes('centre')
-      );
-      
-      const strategy = hasBackfield
-        ? 'tighten edge spacing, compress backfield connections.'
-        : 'jam inside shoulders, control ruck speed.';
-      
-      lines.push(`Linebreak involvement: ${names} — ${strategy}`);
+      lines.push(`Linebreak involvement: ${names}`);
     }
   }
 
@@ -164,13 +173,17 @@ export function generateDefenceReport(
     );
 
     attackOutput.sort((a, b) => b.value - a.value);
-    const topOutput = attackOutput.slice(0, 5);
+    const filtered = filterSelectedPlayers(attackOutput);
+    const topOutput = filtered.slice(0, 5);
 
     if (topOutput.length > 0) {
-      const names = topOutput.map((p) => `${p.player_name} (${p.formatted})`).join(', ');
-      lines.push(
-        `Attacking output hubs: ${names} — force ball away from these touchpoints, jam inside shoulders.`
-      );
+      const names = topOutput.map((p, idx) => {
+        if (idx === 0) {
+          return `${p.player_name} (${p.formatted} attacking output)`;
+        }
+        return `${p.player_name} (${p.formatted})`;
+      }).join(', ');
+      lines.push(`Attacking output hubs: ${names}`);
     }
   }
 
@@ -185,9 +198,16 @@ export function generateDefenceReport(
 export function generateAttackReport(
   data: NRLData,
   teamName: string,
-  season: string
+  season: string,
+  selectedPlayers: string[] = []
 ): string[] {
   const lines: string[] = [];
+  
+  // Helper function to filter players based on selection
+  const filterSelectedPlayers = (players: PlayerStat[]): PlayerStat[] => {
+    if (selectedPlayers.length === 0) return players;
+    return players.filter((p) => selectedPlayers.includes(p.player_name));
+  };
 
   // 1. Attacking targets (tackle failure)
   const tackleData = filterBySeason(data.tackleTargets, season).filter(
@@ -214,11 +234,17 @@ export function generateAttackReport(
     );
 
     tackleTargets.sort((a, b) => b.value - a.value);
-    const topTargets = tackleTargets.slice(0, 6);
+    const filtered = filterSelectedPlayers(tackleTargets);
+    const topTargets = filtered.slice(0, 6);
 
     if (topTargets.length > 0) {
-      const names = topTargets.map((p) => `${p.player_name} (${p.formatted})`).join(', ');
-      lines.push(`Run-at targets: ${names} — stack shapes at them on early tackles.`);
+      const names = topTargets.map((p, idx) => {
+        if (idx === 0) {
+          return `${p.player_name} (${p.formatted} tackle failure rate)`;
+        }
+        return `${p.player_name} (${p.formatted})`;
+      }).join(', ');
+      lines.push(`Run-at targets: ${names}`);
     }
   }
 
@@ -228,7 +254,7 @@ export function generateAttackReport(
   );
 
   if (errorData.length > 0) {
-    const playerErrors: Array<{
+    let playerErrors: Array<{
       player_name: string;
       position: string;
       errors: number;
@@ -240,37 +266,51 @@ export function generateAttackReport(
       leagueAvg: parseNumber(row.league_avg_errors_per_game),
     }));
 
+    // Filter by selected players
+    if (selectedPlayers.length > 0) {
+      playerErrors = playerErrors.filter((p) => selectedPlayers.includes(p.player_name));
+    }
+
     playerErrors.sort((a, b) => b.errors - a.errors);
 
     // Top 2 high error players
     const topErrors = playerErrors.slice(0, 2);
     if (topErrors.length > 0) {
       const errorNames = topErrors
-        .map(
-          (p) =>
-            `${p.player_name} ${p.errors.toFixed(2)} errors/game (${p.position} league avg: ${p.leagueAvg.toFixed(2)})`
-        )
-        .join('; ');
-      lines.push(`Target: ${errorNames} — pressure with repeat efforts.`);
+        .map((p, idx) => {
+          if (idx === 0) {
+            return `${p.player_name} (${p.errors.toFixed(2)} errors/game)`;
+          }
+          return `${p.player_name} (${p.errors.toFixed(2)})`;
+        })
+        .join(', ');
+      lines.push(`Target: ${errorNames}`);
     }
 
     // Bottom 1-2 low error players (avoid)
     const bottomErrors = playerErrors.slice(-2);
     if (bottomErrors.length > 0) {
       const avoidNames = bottomErrors
-        .map(
-          (p) =>
-            `${p.player_name} ${p.errors.toFixed(2)} errors/game (${p.position} league avg: ${p.leagueAvg.toFixed(2)})`
-        )
-        .join('; ');
-      lines.push(`Avoid: ${avoidNames} — shift point of attack elsewhere.`);
+        .map((p, idx) => {
+          if (idx === 0) {
+            return `${p.player_name} (${p.errors.toFixed(2)} errors/game)`;
+          }
+          return `${p.player_name} (${p.errors.toFixed(2)})`;
+        })
+        .join(', ');
+      lines.push(`Avoid: ${avoidNames}`);
     }
   }
 
   // 3. Kicking strategy (back three)
-  const backThreeData = data.backThree.filter(
+  let backThreeData = data.backThree.filter(
     (row) => row.primary_team_name === teamName
   );
+
+  // Filter by selected players
+  if (selectedPlayers.length > 0) {
+    backThreeData = backThreeData.filter((p) => selectedPlayers.includes(p.player_name));
+  }
 
   if (backThreeData.length > 0) {
     // Identify top 1 Fullback and top 2 Wingers by games played
@@ -312,18 +352,15 @@ export function generateAttackReport(
       });
 
       const defusalLines = defusalStats
-        .map(
-          (p) =>
-            `${p.player_name} ${p.playerDefused.toFixed(2)} defused/game (${p.position} league avg: ${p.leagueDefused.toFixed(2)})`
-        )
-        .join('; ');
+        .map((p, idx) => {
+          if (idx === 0) {
+            return `${p.player_name} (${p.playerDefused.toFixed(2)} defused/game)`;
+          }
+          return `${p.player_name} (${p.playerDefused.toFixed(2)})`;
+        })
+        .join(', ');
 
-      const hasWeakDefuser = defusalStats.some((p) => p.isBelowAvg);
-      const defusalRecommendation = hasWeakDefuser
-        ? 'target weak defusers with contestable kicks.'
-        : 'solid defusal rates across back three.';
-
-      lines.push(`Kick defusal: ${defusalLines} — ${defusalRecommendation}`);
+      lines.push(`Kick defusal: ${defusalLines}`);
 
       // Pillar 2: weakest returner
       const returners = backThree
@@ -335,11 +372,14 @@ export function generateAttackReport(
 
       if (returners.length > 0) {
         const returnerNames = returners
-          .map((r) => `${r.player_name} (${r.returnMetres.toFixed(2)})`)
+          .map((r, idx) => {
+            if (idx === 0) {
+              return `${r.player_name} (${r.returnMetres.toFixed(2)} avg kick return metres/game)`;
+            }
+            return `${r.player_name} (${r.returnMetres.toFixed(2)})`;
+          })
           .join(', ');
-        lines.push(
-          `Weakest returners: ${returnerNames} — kick long corners and trap them.`
-        );
+        lines.push(`Weakest returners: ${returnerNames}`);
       }
     }
   }
@@ -357,13 +397,8 @@ export function generateAttackReport(
     const teamDefusalPct = clampPct(parsePct(defusal.team_defusal_pct));
     const back3DefusalPct = clampPct(parsePct(defusal.back3_defusal_pct_proxy));
 
-    const viability =
-      back3DefusalPct < 70
-        ? 'chase hard with contestable kicks.'
-        : 'prefer ground/space kicks.';
-
     lines.push(
-      `Contested kick viability: back three defusal ${fmtPct(back3DefusalPct)}, team defusal ${fmtPct(teamDefusalPct)} — ${viability}`
+      `Contested kick viability: back three defusal (${fmtPct(back3DefusalPct)}), team defusal (${fmtPct(teamDefusalPct)})`
     );
   }
 
@@ -377,10 +412,30 @@ export function generateAttackReport(
 export function generateReport(
   data: NRLData,
   teamName: string,
-  season: string
+  season: string,
+  selectedPlayers: string[] = []
 ): ReportOutput {
+  const defenceGlossary = [
+    { term: 'Strike dependency', definition: 'Players who contribute most to scoring tries and try assists' },
+    { term: 'Strike involvement', definition: 'Combined percentage of tries and try assists a player contributes to the team' },
+    { term: 'Linebreak involvement', definition: 'Players who create or make linebreaks most frequently' },
+    { term: 'Attacking output hubs', definition: 'Players who handle the ball most in attacking situations' },
+  ];
+
+  const attackGlossary = [
+    { term: 'Tackle failure rate', definition: 'Percentage of tackles where a player fails to make an effective tackle' },
+    { term: 'Run-at targets', definition: 'Defenders with the highest tackle failure rates to target in attack' },
+    { term: 'Errors/game', definition: 'Average number of handling errors, penalties, or turnovers per game' },
+    { term: 'Kick defusal', definition: 'Successfully catching or defusing kicks per game' },
+    { term: 'Kick return metres', definition: 'Average metres gained when returning opposition kicks' },
+    { term: 'Weakest returners', definition: 'Players who gain the fewest metres returning kicks' },
+    { term: 'Contested kick viability', definition: 'Success rate of catching contested kicks under pressure' },
+  ];
+
   return {
-    defence: generateDefenceReport(data, teamName, season),
-    attack: generateAttackReport(data, teamName, season),
+    defence: generateDefenceReport(data, teamName, season, selectedPlayers),
+    attack: generateAttackReport(data, teamName, season, selectedPlayers),
+    defenceGlossary,
+    attackGlossary,
   };
 }

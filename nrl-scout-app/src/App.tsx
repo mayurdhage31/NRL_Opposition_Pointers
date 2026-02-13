@@ -9,6 +9,7 @@ type Season = '2023' | '2024' | '2025' | 'All 2023–25';
 function App() {
   const { data, loading, error } = useData();
   const [selectedTeam, setSelectedTeam] = useState<string | null>(null);
+  const [selectedPlayers, setSelectedPlayers] = useState<string[]>([]);
   const [season, setSeason] = useState<Season>('All 2023–25');
   const [activeTab, setActiveTab] = useState<'defence' | 'attack'>('defence');
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -19,10 +20,32 @@ function App() {
     return Array.from(uniqueTeams).sort();
   }, [data]);
 
+  // Auto-select all players when team changes
+  const handleTeamSelect = (team: string) => {
+    setSelectedTeam(team);
+    setSidebarOpen(false);
+    
+    // Auto-select all players for the new team
+    if (data) {
+      const teamPlayers = data.playerList
+        .filter((p) => p.team_name === team)
+        .map((p) => p.player_name);
+      setSelectedPlayers(teamPlayers);
+    }
+  };
+
+  const handlePlayerToggle = (playerName: string) => {
+    setSelectedPlayers((prev) =>
+      prev.includes(playerName)
+        ? prev.filter((p) => p !== playerName)
+        : [...prev, playerName]
+    );
+  };
+
   const report = useMemo(() => {
     if (!data || !selectedTeam) return null;
-    return generateReport(data, selectedTeam, season);
-  }, [data, selectedTeam, season]);
+    return generateReport(data, selectedTeam, season, selectedPlayers);
+  }, [data, selectedTeam, season, selectedPlayers]);
 
   const handleCopyAll = () => {
     if (!report) return;
@@ -91,10 +114,9 @@ function App() {
             teams={teams}
             playerList={data.playerList}
             selectedTeam={selectedTeam}
-            onTeamSelect={(team) => {
-              setSelectedTeam(team);
-              setSidebarOpen(false);
-            }}
+            onTeamSelect={handleTeamSelect}
+            selectedPlayers={selectedPlayers}
+            onPlayerToggle={handlePlayerToggle}
             isOpen={sidebarOpen}
             onToggle={() => setSidebarOpen(!sidebarOpen)}
           />
@@ -174,6 +196,7 @@ function App() {
                   <ReportCard
                     title="Defensive Game Plan"
                     lines={report.defence}
+                    glossary={report.defenceGlossary}
                     onCopy={() => {}}
                   />
                 )}
@@ -181,6 +204,7 @@ function App() {
                   <ReportCard
                     title="Attacking Game Plan"
                     lines={report.attack}
+                    glossary={report.attackGlossary}
                     onCopy={() => {}}
                   />
                 )}

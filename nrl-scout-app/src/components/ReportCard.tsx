@@ -3,10 +3,11 @@ import { useState } from 'react';
 interface ReportCardProps {
   title: string;
   lines: string[];
+  glossary?: Array<{ term: string; definition: string }>;
   onCopy: () => void;
 }
 
-export function ReportCard({ title, lines, onCopy }: ReportCardProps) {
+export function ReportCard({ title, lines, glossary, onCopy }: ReportCardProps) {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
@@ -41,6 +42,20 @@ export function ReportCard({ title, lines, onCopy }: ReportCardProps) {
           </div>
         ))}
       </div>
+
+      {glossary && glossary.length > 0 && (
+        <div className="mt-6 pt-6 border-t border-white/10">
+          <h4 className="text-sm font-semibold text-slate-400 mb-3">Glossary</h4>
+          <div className="space-y-2">
+            {glossary.map((item, index) => (
+              <div key={index} className="text-sm">
+                <span className="font-medium text-slate-300">{item.term}:</span>{' '}
+                <span className="text-slate-400">{item.definition}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
