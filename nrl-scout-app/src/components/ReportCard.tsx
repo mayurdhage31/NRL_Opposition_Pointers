@@ -38,7 +38,7 @@ export function ReportCard({ title, lines, glossary, onCopy }: ReportCardProps) 
       <div className="space-y-3">
         {lines.map((line, index) => (
           <div key={index} className="text-slate-300 leading-relaxed">
-            • {line}
+            ▪ {line}
           </div>
         ))}
       </div>
