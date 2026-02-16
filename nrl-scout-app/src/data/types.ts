@@ -66,6 +66,16 @@ export interface TeamDefusalRow {
   back3_defusal_pct_proxy: string;
 }
 
+export interface PlayerAggRow {
+  player_name: string;
+  games_played: string;
+  minutes_played: string;
+  hit_ups: string;
+  primary_position: string;
+  primary_position_group: string;
+  primary_team_name: string;
+}
+
 export interface NRLData {
   playerList: PlayerRow[];
   strikeDependency: StrikeDependencyRow[];
@@ -76,4 +86,5 @@ export interface NRLData {
   backThree: BackThreeProfileRow[];
   teamDefusal: TeamDefusalRow[];
   teamDefusal2325: TeamDefusalRow[];
+  playerAgg: PlayerAggRow[];
 }

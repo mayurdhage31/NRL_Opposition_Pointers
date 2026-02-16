@@ -2,6 +2,7 @@ import { useState, useMemo } from 'react';
 import { useData } from './hooks/useData';
 import { Sidebar } from './components/Sidebar';
 import { ReportCard } from './components/ReportCard';
+import { HitUpsChart } from './components/HitUpsChart';
 import { generateReport } from './logic/report';
 
 type Season = '2023' | '2024' | '2025' | 'All 2023–25';
@@ -193,12 +194,21 @@ function App() {
               {/* Report content */}
               <div className="space-y-6">
                 {activeTab === 'defence' && (
-                  <ReportCard
-                    title="Defensive Game Plan"
-                    lines={report.defence}
-                    glossary={report.defenceGlossary}
-                    onCopy={() => {}}
-                  />
+                  <>
+                    <ReportCard
+                      title="Defensive Game Plan"
+                      lines={report.defence}
+                      glossary={report.defenceGlossary}
+                      onCopy={() => {}}
+                    />
+                    {data && (
+                      <HitUpsChart
+                        playerData={data.playerAgg}
+                        teamName={selectedTeam}
+                        selectedPlayers={selectedPlayers}
+                      />
+                    )}
+                  </>
                 )}
                 {activeTab === 'attack' && (
                   <ReportCard

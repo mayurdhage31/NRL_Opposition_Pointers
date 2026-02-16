@@ -64,6 +64,7 @@ export async function loadAllData(): Promise<NRLData> {
       backThreeRaw,
       teamDefusal,
       teamDefusal2325,
+      playerAgg,
     ] = await Promise.all([
       cache.playerList || loadCSV<any>('NRL_playerlist.csv'),
       cache.strikeDependency || loadCSV<any>('team_strike_dependency_all.csv'),
@@ -74,6 +75,7 @@ export async function loadAllData(): Promise<NRLData> {
       cache.backThree || loadCSV<any>('back_three_profiles.csv'),
       cache.teamDefusal || loadCSV<any>('team_defusal_teamseason.csv'),
       cache.teamDefusal2325 || loadCSV<any>('team_defusal_23_25.csv'),
+      cache.playerAgg || loadCSV<any>('player_agg_23_25.csv'),
     ]);
 
     // Clean back three data
@@ -92,6 +94,7 @@ export async function loadAllData(): Promise<NRLData> {
     cache.backThree = backThree as any;
     cache.teamDefusal = teamDefusal as any;
     cache.teamDefusal2325 = normalizedTeamDefusal2325 as any;
+    cache.playerAgg = playerAgg as any;
 
     return {
       playerList: playerList as any,
@@ -103,6 +106,7 @@ export async function loadAllData(): Promise<NRLData> {
       backThree: backThree as any,
       teamDefusal: teamDefusal as any,
       teamDefusal2325: normalizedTeamDefusal2325 as any,
+      playerAgg: playerAgg as any,
     };
   } catch (error) {
     console.error('Error loading CSV files:', error);
