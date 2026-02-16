@@ -7,12 +7,26 @@ interface ReportCardProps {
   onCopy: () => void;
 }
 
+// Helper function to parse markdown bold syntax and return JSX
+function parseMarkdownBold(text: string) {
+  const parts = text.split(/(\*\*.*?\*\*)/g);
+  
+  return parts.map((part, index) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      const boldText = part.slice(2, -2);
+      return <strong key={index} className="font-semibold">{boldText}</strong>;
+    }
+    return <span key={index}>{part}</span>;
+  });
+}
+
 export function ReportCard({ title, lines, glossary, onCopy }: ReportCardProps) {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
-    const text = lines.join('\n');
-    navigator.clipboard.writeText(text);
+    // Remove markdown syntax for plain text copy
+    const plainText = lines.map(line => line.replace(/\*\*/g, '')).join('\n');
+    navigator.clipboard.writeText(plainText);
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
     onCopy();
@@ -38,7 +52,7 @@ export function ReportCard({ title, lines, glossary, onCopy }: ReportCardProps) 
       <div className="space-y-3">
         {lines.map((line, index) => (
           <div key={index} className="text-slate-300 leading-relaxed">
-            ▪ {line}
+            ▪ {parseMarkdownBold(line)}
           </div>
         ))}
       </div>
