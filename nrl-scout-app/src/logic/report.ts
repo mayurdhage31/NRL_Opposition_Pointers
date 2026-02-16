@@ -93,11 +93,11 @@ export function generateDefenceReport(
     if (topStrike.length > 0) {
       const names = topStrike.map((p, idx) => {
         if (idx === 0) {
-          return `${p.player_name} (${p.formatted} strike involvement)`;
+          return `${p.player_name} (${p.formatted} strike dependency)`;
         }
         return `${p.player_name} (${p.formatted})`;
       }).join(', ');
-      lines.push(`Strike dependency: ${names}`);
+      lines.push(`**Strike dependency**: ${names}`);
     }
   }
 
@@ -144,7 +144,7 @@ export function generateDefenceReport(
         return `${p.player_name} (${p.formatted})`;
       }).join(', ');
       
-      lines.push(`Linebreak involvement: ${names}`);
+      lines.push(`**Linebreak involvement**: ${names}`);
     }
   }
 
@@ -179,11 +179,11 @@ export function generateDefenceReport(
     if (topOutput.length > 0) {
       const names = topOutput.map((p, idx) => {
         if (idx === 0) {
-          return `${p.player_name} (${p.formatted} attacking output)`;
+          return `${p.player_name} (${p.formatted} share of attacking output)`;
         }
         return `${p.player_name} (${p.formatted})`;
       }).join(', ');
-      lines.push(`Attacking output hubs: ${names}`);
+      lines.push(`**Share of attacking output**: ${names}`);
     }
   }
 
@@ -244,7 +244,7 @@ export function generateAttackReport(
         }
         return `${p.player_name} (${p.formatted})`;
       }).join(', ');
-      lines.push(`Run-at targets: ${names}`);
+      lines.push(`**Run-at targets**: ${names}`);
     }
   }
 
@@ -284,7 +284,7 @@ export function generateAttackReport(
           return `${p.player_name} (${p.errors.toFixed(2)})`;
         })
         .join(', ');
-      lines.push(`Target: ${errorNames}`);
+      lines.push(`**Target**: ${errorNames}`);
     }
 
     // Bottom 1-2 low error players (avoid)
@@ -298,7 +298,7 @@ export function generateAttackReport(
           return `${p.player_name} (${p.errors.toFixed(2)})`;
         })
         .join(', ');
-      lines.push(`Avoid: ${avoidNames}`);
+      lines.push(`**Avoid**: ${avoidNames}`);
     }
   }
 
@@ -338,7 +338,10 @@ export function generateAttackReport(
     ];
 
     if (backThree.length > 0) {
-      // Pillar 1: kicks defused vs league avg
+      // Add Kicking strategy heading
+      lines.push(`\n**Kicking strategy**`);
+      
+      // Pillar 1: kicks defused vs league avg - sorted in ASCENDING order
       const defusalStats = backThree.map((p) => {
         const playerDefused = parseNumber(p.kicks_defused_per_game);
         const leagueDefused = parseNumber(p.league_kicks_defused_per_game);
@@ -351,6 +354,9 @@ export function generateAttackReport(
         };
       });
 
+      // Sort in ASCENDING order (lowest defused first)
+      defusalStats.sort((a, b) => a.playerDefused - b.playerDefused);
+
       const defusalLines = defusalStats
         .map((p, idx) => {
           if (idx === 0) {
@@ -360,7 +366,7 @@ export function generateAttackReport(
         })
         .join(', ');
 
-      lines.push(`Kick defusal: ${defusalLines}`);
+      lines.push(`**Defused/game**: ${defusalLines}`);
 
       // Pillar 2: weakest returner
       const returners = backThree
@@ -379,7 +385,7 @@ export function generateAttackReport(
             return `${r.player_name} (${r.returnMetres.toFixed(2)})`;
           })
           .join(', ');
-        lines.push(`Weakest returners: ${returnerNames}`);
+        lines.push(`**Weakest returners**: ${returnerNames}`);
       }
     }
   }
@@ -398,7 +404,7 @@ export function generateAttackReport(
     const back3DefusalPct = clampPct(parsePct(defusal.back3_defusal_pct_proxy));
 
     lines.push(
-      `Contested kick viability: back three defusal (${fmtPct(back3DefusalPct)}), team defusal (${fmtPct(teamDefusalPct)})`
+      `**Contested kick viability**: back three defusal (${fmtPct(back3DefusalPct)}), team defusal (${fmtPct(teamDefusalPct)})`
     );
   }
 
@@ -416,20 +422,16 @@ export function generateReport(
   selectedPlayers: string[] = []
 ): ReportOutput {
   const defenceGlossary = [
-    { term: 'Strike dependency', definition: 'Players who contribute most to scoring tries and try assists' },
-    { term: 'Strike involvement', definition: 'Combined percentage of tries and try assists a player contributes to the team' },
-    { term: 'Linebreak involvement', definition: 'Players who create or make linebreaks most frequently' },
-    { term: 'Attacking output hubs', definition: 'Players who handle the ball most in attacking situations' },
+    { term: 'Strike dependency', definition: "Each player's percentage share of the team's total tries and try assists combined." },
+    { term: 'Linebreak involvement', definition: "Each player's percentage share of the team's total linebreaks and linebreak assists combined." },
+    { term: 'Share of attacking output', definition: "Each player's percentage share of the team's total tries, try assists, linebreaks, and linebreak assists combined." },
   ];
 
   const attackGlossary = [
-    { term: 'Tackle failure rate', definition: 'Percentage of tackles where a player fails to make an effective tackle' },
-    { term: 'Run-at targets', definition: 'Defenders with the highest tackle failure rates to target in attack' },
-    { term: 'Errors/game', definition: 'Average number of handling errors, penalties, or turnovers per game' },
-    { term: 'Kick defusal', definition: 'Successfully catching or defusing kicks per game' },
-    { term: 'Kick return metres', definition: 'Average metres gained when returning opposition kicks' },
-    { term: 'Weakest returners', definition: 'Players who gain the fewest metres returning kicks' },
-    { term: 'Contested kick viability', definition: 'Success rate of catching contested kicks under pressure' },
+    { term: 'Tackle failure rate', definition: 'The percentage of tackles where a player misses or makes an ineffective tackle.' },
+    { term: 'Errors/game', definition: 'Average number of handling errors per game committed by the player.' },
+    { term: 'Defused/game', definition: 'Average number of kicks successfully caught or defused per game by opposition back three players.' },
+    { term: 'Weakest returners', definition: 'Opposition back three players ranked by their average kick return metres gained per game.' },
   ];
 
   return {
