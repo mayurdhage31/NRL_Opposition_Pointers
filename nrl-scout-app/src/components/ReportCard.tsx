@@ -14,10 +14,15 @@ function parseMarkdownBold(text: string) {
   return parts.map((part, index) => {
     if (part.startsWith('**') && part.endsWith('**')) {
       const boldText = part.slice(2, -2);
-      return <strong key={index} className="font-semibold">{boldText}</strong>;
+      return <strong key={index} className="font-bold">{boldText}</strong>;
     }
     return <span key={index}>{part}</span>;
   });
+}
+
+// Check if a line is a heading (starts with newline + bold text only)
+function isHeading(line: string): boolean {
+  return line.trim().startsWith('**') && line.trim().endsWith('**') && !line.includes(':');
 }
 
 export function ReportCard({ title, lines, glossary, onCopy }: ReportCardProps) {
@@ -50,11 +55,25 @@ export function ReportCard({ title, lines, glossary, onCopy }: ReportCardProps) 
         </button>
       </div>
       <div className="space-y-3">
-        {lines.map((line, index) => (
-          <div key={index} className="text-slate-300 leading-relaxed">
-            ▪ {parseMarkdownBold(line)}
-          </div>
-        ))}
+        {lines.map((line, index) => {
+          const trimmedLine = line.trim();
+          
+          // Check if this is a heading (e.g., "**Kicking strategy**")
+          if (isHeading(trimmedLine)) {
+            return (
+              <div key={index} className="text-slate-200 leading-relaxed font-bold mt-4 mb-2">
+                {parseMarkdownBold(trimmedLine)}
+              </div>
+            );
+          }
+          
+          // Regular line with bullet point
+          return (
+            <div key={index} className="text-slate-300 leading-relaxed">
+              ▪ {parseMarkdownBold(line)}
+            </div>
+          );
+        })}
       </div>
 
       {glossary && glossary.length > 0 && (

@@ -43,6 +43,15 @@ function cleanBackThreeRow(row: any): any {
   return cleaned;
 }
 
+// Normalize team defusal 23-25 column names
+function normalizeTeamDefusal2325(row: any): any {
+  return {
+    team_name: row.team_name,
+    team_defusal_pct: row.team_defusal_pct_23_25 || row.team_defusal_pct || '',
+    back3_defusal_pct_proxy: row.back3_defusal_pct_proxy_23_25 || row.back3_defusal_pct_proxy || '',
+  };
+}
+
 export async function loadAllData(): Promise<NRLData> {
   try {
     const [
@@ -69,6 +78,9 @@ export async function loadAllData(): Promise<NRLData> {
 
     // Clean back three data
     const backThree = (backThreeRaw as any[]).map(cleanBackThreeRow);
+    
+    // Normalize team defusal 23-25 column names
+    const normalizedTeamDefusal2325 = (teamDefusal2325 as any[]).map(normalizeTeamDefusal2325);
 
     // Cache results
     cache.playerList = playerList as any;
@@ -79,7 +91,7 @@ export async function loadAllData(): Promise<NRLData> {
     cache.errorRanking = errorRanking as any;
     cache.backThree = backThree as any;
     cache.teamDefusal = teamDefusal as any;
-    cache.teamDefusal2325 = teamDefusal2325 as any;
+    cache.teamDefusal2325 = normalizedTeamDefusal2325 as any;
 
     return {
       playerList: playerList as any,
@@ -90,7 +102,7 @@ export async function loadAllData(): Promise<NRLData> {
       errorRanking: errorRanking as any,
       backThree: backThree as any,
       teamDefusal: teamDefusal as any,
-      teamDefusal2325: teamDefusal2325 as any,
+      teamDefusal2325: normalizedTeamDefusal2325 as any,
     };
   } catch (error) {
     console.error('Error loading CSV files:', error);

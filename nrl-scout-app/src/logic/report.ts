@@ -422,16 +422,16 @@ export function generateReport(
   selectedPlayers: string[] = []
 ): ReportOutput {
   const defenceGlossary = [
-    { term: 'Strike dependency', definition: "Each player's percentage share of the team's total tries and try assists combined." },
-    { term: 'Linebreak involvement', definition: "Each player's percentage share of the team's total linebreaks and linebreak assists combined." },
-    { term: 'Share of attacking output', definition: "Each player's percentage share of the team's total tries, try assists, linebreaks, and linebreak assists combined." },
+    { term: 'Strike dependency', definition: "player's % share of team total tries + try assists" },
+    { term: 'Linebreak involvement', definition: "player's % share of team total linebreaks + linebreak assists" },
+    { term: 'Share of attacking output', definition: "player's % share of team total tries + try assists + linebreaks + linebreak assists" },
   ];
 
   const attackGlossary = [
-    { term: 'Tackle failure rate', definition: 'The percentage of tackles where a player misses or makes an ineffective tackle.' },
-    { term: 'Errors/game', definition: 'Average number of handling errors per game committed by the player.' },
-    { term: 'Defused/game', definition: 'Average number of kicks successfully caught or defused per game by opposition back three players.' },
-    { term: 'Weakest returners', definition: 'Opposition back three players ranked by their average kick return metres gained per game.' },
+    { term: 'Tackle failure rate', definition: 'missed + ineffective tackles as % of all tackles' },
+    { term: 'Errors/game', definition: 'includes handling errors' },
+    { term: 'Defused/game', definition: 'oppn back 3 ranked on average kicks defused per game' },
+    { term: 'Weakest returners', definition: 'oppn back 3 ranked on average kick return metres per game' },
   ];
 
   return {
