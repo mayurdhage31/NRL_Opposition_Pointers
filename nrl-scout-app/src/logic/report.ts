@@ -156,6 +156,8 @@ export function generateDefenceReport(
   };
 
   // 1. Strike dependency
+  lines.push('**Strike Dependency**');
+  
   const strikeData = filterBySeason(data.strikeDependency, season).filter(
     (row) => row.team_name === teamName
   );
@@ -223,6 +225,8 @@ export function generateDefenceReport(
   }
 
   // 2. Linebreak involvement
+  lines.push('**Linebreak Involvement**');
+  
   const linebreakData = filterBySeason(data.linebreakInvolvement, season).filter(
     (row) => row.team_name === teamName
   );
@@ -287,6 +291,8 @@ export function generateDefenceReport(
   }
 
   // 3. Share of attacking output
+  lines.push('**Share of Attacking Output**');
+  
   const attackShareData = filterBySeason(data.attackShare, season).filter(
     (row) => row.team_name === teamName
   );
@@ -467,6 +473,8 @@ export function generateAttackReport(
   }
 
   // 3. Kicking strategy (back three)
+  lines.push('**Kicking strategy**');
+  
   let backThreeData = data.backThree.filter(
     (row) => row.primary_team_name === teamName
   );
