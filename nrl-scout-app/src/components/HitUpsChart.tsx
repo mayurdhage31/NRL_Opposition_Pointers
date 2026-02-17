@@ -41,13 +41,14 @@ export function HitUpsChart({ playerData, teamName, selectedPlayers }: HitUpsCha
     // Get top 10 players
     const topPlayers = hitUpsData.slice(0, 10);
 
-    // Calculate max for scaling
+    // Calculate max for scaling and total for percentages
     const maxHitUps = topPlayers.length > 0 ? topPlayers[0].hit_ups : 0;
+    const totalHitUps = topPlayers.reduce((sum, p) => sum + p.hit_ups, 0);
 
-    return { topPlayers, maxHitUps };
+    return { topPlayers, maxHitUps, totalHitUps };
   }, [playerData, teamName, selectedPlayers]);
 
-  const { topPlayers, maxHitUps } = chartData;
+  const { topPlayers, maxHitUps, totalHitUps } = chartData;
 
   if (topPlayers.length === 0) {
     return (
@@ -68,6 +69,7 @@ export function HitUpsChart({ playerData, teamName, selectedPlayers }: HitUpsCha
       <div className="space-y-3">
         {topPlayers.map((player, index) => {
           const widthPercent = (player.hit_ups / maxHitUps) * 100;
+          const percentage = ((player.hit_ups / totalHitUps) * 100).toFixed(1);
           
           return (
             <div key={index} className="space-y-1">
@@ -76,7 +78,9 @@ export function HitUpsChart({ playerData, teamName, selectedPlayers }: HitUpsCha
                   {player.player_name}
                   <span className="text-xs text-slate-500 ml-2">({player.position})</span>
                 </span>
-                <span className="text-sm font-semibold text-slate-200">{player.hit_ups}</span>
+                <span className="text-sm font-semibold text-slate-200">
+                  {player.hit_ups} <span className="text-slate-400">({percentage}%)</span>
+                </span>
               </div>
               <div className="w-full bg-slate-700/30 rounded-full h-2 overflow-hidden">
                 <div
@@ -94,7 +98,7 @@ export function HitUpsChart({ playerData, teamName, selectedPlayers }: HitUpsCha
 
       <div className="mt-6 pt-4 border-t border-white/10">
         <p className="text-xs text-slate-500">
-          Data aggregated across 2023-2025 seasons • Showing top 10 players by total hit-ups
+          Data aggregated across 2023-2025 seasons • Showing hit-ups and % of team total
         </p>
       </div>
     </div>
