@@ -79,7 +79,7 @@ function getStrikeDependencyAdvice(players: PlayerStat[], positionGroup: string)
 }
 
 // Helper to generate tactical advice for linebreak involvement
-function getLinebreakAdvice(players: PlayerStat[], positionGroup: string): string {
+function getLinebreakAdvice(_players: PlayerStat[], positionGroup: string): string {
   if (positionGroup === 'halves') {
     return 'Rush defense to limit time and space for playmaking';
   } else if (positionGroup === 'outside backs' || positionGroup === 'back three') {
@@ -131,7 +131,7 @@ function getTackleTargetAdvice(players: Array<{ player_name: string; value: numb
 }
 
 // Helper to generate error targeting advice
-function getErrorAdvice(highErrorPlayers: Array<{ player_name: string; position: string; errors: number }>, numPlayers: number): string {
+function getErrorAdvice(_highErrorPlayers: Array<{ player_name: string; position: string; errors: number }>, numPlayers: number): string {
   if (numPlayers === 2) {
     return 'with early ball carries to capitalize on handling issues';
   } else if (numPlayers === 3) {
