@@ -510,33 +510,30 @@ export function generateAttackReport(
     ];
 
     if (backThree.length > 0) {
-      // Pillar 1: kicks defused - identify weakest under high ball
+      // Pillar 1: Defused/game - ALWAYS show all 3 back three players in ascending order
       const defusalStats = backThree.map((p) => {
         const playerDefused = parseNumber(p.kicks_defused_per_game);
-        const leagueDefused = parseNumber(p.league_kicks_defused_per_game);
         return {
           player_name: p.player_name,
           position: p.primary_position,
           playerDefused,
-          leagueDefused,
-          isBelowAvg: playerDefused < leagueDefused,
         };
       });
 
       // Sort in ascending order (lowest defused first)
       defusalStats.sort((a, b) => a.playerDefused - b.playerDefused);
 
-      // Natural language for weakest defuser(s)
-      const weakestDefuser = defusalStats[0];
-      if (weakestDefuser.isBelowAvg) {
-        lines.push(`${weakestDefuser.player_name} (${weakestDefuser.playerDefused.toFixed(2)} defused/game) struggles under high ball - target with contestable kicks`);
-      } else if (defusalStats.length >= 2) {
-        const topTwo = defusalStats.slice(0, 2);
-        const names = topTwo.map(p => `${p.player_name} (${p.playerDefused.toFixed(2)})`).join(', ');
-        lines.push(`Kick defusal rates: ${names} defused/game - test back three under pressure`);
-      }
+      // Always show all 3 players
+      const defusalNames = defusalStats.map((p, idx) => {
+        if (idx === 0) {
+          return `${p.player_name} (${p.playerDefused.toFixed(2)} defused/game)`;
+        }
+        return `${p.player_name} (${p.playerDefused.toFixed(2)})`;
+      }).join(', ');
+      
+      lines.push(`**Defused/game**: ${defusalNames}`);
 
-      // Pillar 2: weakest returners - position grouped
+      // Pillar 2: Weakest returners - ALWAYS show all 3 back three players in ascending order
       const returners = backThree
         .map((p) => ({
           player_name: p.player_name,
@@ -545,20 +542,15 @@ export function generateAttackReport(
         }))
         .sort((a, b) => a.returnMetres - b.returnMetres);
 
-      if (returners.length > 0) {
-        const weakestReturner = returners[0];
-        const wingersInWeak = returners.filter(r => r.position === 'Winger').slice(0, 2);
-        
-        if (wingersInWeak.length >= 2 && wingersInWeak.every(w => w.returnMetres < 5)) {
-          const wNames = wingersInWeak.map(w => `${w.player_name} (${w.returnMetres.toFixed(1)}m)`).join(' and ');
-          lines.push(`Wingers ${wNames} lack yardage on returns - pin in corners to limit field position`);
-        } else if (weakestReturner.returnMetres < 4.5) {
-          lines.push(`${weakestReturner.player_name} (${weakestReturner.returnMetres.toFixed(1)}m avg return) weakest returner - pin deep with grubbers and bombs`);
-        } else {
-          const names = returners.slice(0, 2).map(r => `${r.player_name} (${r.returnMetres.toFixed(1)}m)`).join(', ');
-          lines.push(`Kick return metres: ${names} - target with tactical kicking`);
+      // Always show all 3 players
+      const returnerNames = returners.map((r, idx) => {
+        if (idx === 0) {
+          return `${r.player_name} (${r.returnMetres.toFixed(1)}m avg kick return metres/game)`;
         }
-      }
+        return `${r.player_name} (${r.returnMetres.toFixed(1)}m)`;
+      }).join(', ');
+      
+      lines.push(`**Weakest returners**: ${returnerNames}`);
     }
   }
 
